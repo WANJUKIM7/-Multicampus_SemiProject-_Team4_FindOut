@@ -1337,3 +1337,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-06.49.25:566][340]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
 [2024.05.30-06.49.33:317][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.05.30-06.49.33:418][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-06.51.21:003][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.51.21:062][ 23]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter does not exist, will not scan.
+[2024.05.30-06.51.21:112][ 23]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.51.21:112][ 23]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter37CFE5CC49A1659DEA3BA88C71029FC0.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.51.21:127][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 441 ms)
+[2024.05.30-06.51.21:128][ 23]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.51.21:128][ 23]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.51.21:356][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.51.21:459][ 40]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.51.21:461][ 40]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter3596E2D94DC47E5F0362458B700AC72D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.51.21:473][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 558 ms)
+[2024.05.30-06.51.21:477][ 40]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.51.21:477][ 40]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
