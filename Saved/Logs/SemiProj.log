@@ -2138,3 +2138,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-01.17.51:243][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.30-01.17.51:247][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
 [2024.05.30-01.17.51:364][862]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.05.30-01.24.06:091][ 30]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.05.30-01.24.16:452][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-01.24.16:531][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.05.30-01.24.16:550][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.30-01.24.16:570][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.30-01.24.16:579][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 1.20 sec)
+[2024.05.30-01.32.12:004][295]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-01.32.21:150][912]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Outline/BI_Interaction.BI_Interaction
+[2024.05.30-01.32.21:150][912]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-01.32.21:150][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-01.32.32:016][ 83]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-01.32.32:016][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-01.32.33:094][151]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Outline/AC_InteractionTrace.AC_InteractionTrace
+[2024.05.30-01.32.33:095][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-01.32.33:095][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-01.33.07:460][ 69]LogEditorTransaction: Undo 연결 정돈
+[2024.05.30-01.33.22:780][822]BlueprintLog: New page: AC_InteractionTrace 컴파일
+[2024.05.30-01.33.22:833][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.05.30-01.33.23:437][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-01.33.23:505][877]LogSavePackage: Moving output files for package: /Game/Programming/Outline/AC_InteractionTrace
+[2024.05.30-01.33.23:507][877]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/AC_InteractionTraceA17A4AA548AF12B80C92DAB15B3AA1CF.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Outline/AC_InteractionTrace.uasset'
+[2024.05.30-01.33.23:516][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.28 sec)
+[2024.05.30-01.33.23:519][877]AssetCheck: New page: 에셋 저장:  AC_InteractionTrace
+[2024.05.30-01.33.23:519][877]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Outline/AC_InteractionTrace.AC_InteractionTrace 유효성 검사 중
