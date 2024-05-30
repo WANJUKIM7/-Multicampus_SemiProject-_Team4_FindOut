@@ -1350,3 +1350,88 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-06.51.21:473][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 558 ms)
 [2024.05.30-06.51.21:477][ 40]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
 [2024.05.30-06.51.21:477][ 40]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.53.22:903][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.53.23:008][115]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.53.23:010][115]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacterF06E20AD40EFC3216F26A89C6336940D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.53.23:022][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 677 ms)
+[2024.05.30-06.53.23:025][115]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.53.23:025][115]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.53.23:231][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.53.23:320][130]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.53.23:322][130]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacterFC74A9B34233A517DCA819B91656924C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.53.23:335][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 781 ms)
+[2024.05.30-06.53.23:338][130]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.53.23:338][130]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.53.28:068][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.53.28:163][487]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.53.28:165][487]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter5C5FD6FF405187DF25204DB36FCA2753.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.53.28:175][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 889 ms)
+[2024.05.30-06.53.28:178][487]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.53.28:178][487]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.53.29:432][581]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.05.30-06.53.29:441][581]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.05.30-06.53.29:441][581]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.30-06.53.29:449][581]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 7 ms (total: 13 ms)
+[2024.05.30-06.53.29:449][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.30-06.53.29:449][581]PIE: New page: PIE 세션: FirstPersonMap (2024. 5. 31. 오전 12:53:29)
+[2024.05.30-06.53.29:483][581]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.53.29:496][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012310s)
+[2024.05.30-06.53.29:496][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.012390s)
+[2024.05.30-06.53.29:516][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.05.30-06.53.29:518][581]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-06.53.29:518][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-06.53.29:519][581]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.30-06.53.29:520][581]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.30-06.53.29:520][581]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.30-06.53.29:520][581]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.30-06.53.29:520][581]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.30-06.53.29:523][581]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.05.30-06.53.29:523][581]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 1.02 sec)
+[2024.05.30-06.53.29:523][581]LogPlayLevel: PIE: World Init took: (0.005679s)
+[2024.05.30-06.53.29:523][581]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.30-06.53.29:524][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.30-06.53.29:524][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.30-06.53.29:524][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.30-06.53.29:524][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.30-06.53.29:524][581]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.30-06.53.29:524][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.30-06.53.29:524][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.30-06.53.29:524][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.30-06.53.29:524][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.30-06.53.29:525][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.30-06.53.29:525][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.30-06.53.29:527][581]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.30-06.53.29:631][581]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.05.30-06.53.29:632][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.30-06.53.29:632][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.30-06.53.29:632][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.30-06.53.29:633][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.30-06.53.29:633][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.30-06.53.29:636][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.30-06.53.29:636][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.30-06.53.29:636][581]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.30-06.53.29:636][581]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2024.05.30-06.53.29:636][581]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.30-06.53.29:639][581]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.30-06.53.29:660][581]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.30-15.53.29
+[2024.05.30-06.53.29:661][581]LogWorld: Bringing up level for play took: 0.021086
+[2024.05.30-06.53.29:663][581]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.05.30-06.53.29:667][581]PIE: 서버가 로그인했습니다.
+[2024.05.30-06.53.29:668][581]PIE: 에디터에서 플레이 총 시작 시간 0.226초입니다.
+[2024.05.30-06.53.38:359][230]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.30-06.53.38:359][230]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.30-06.53.39:231][299]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.30-06.53.39:231][299]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.30-06.53.40:644][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.53.40:644][401]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.53.40:644][401]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-06.53.40:646][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.53.40:646][401]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.05.30-06.53.40:649][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.30-06.53.40:655][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.53.40:676][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.53.40:676][401]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.30-06.53.40:676][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.30-06.53.40:678][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.30-06.53.40:691][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.05.30-06.53.40:777][402]LogPlayLevel: Display: Destroying online subsystem :Context_6
