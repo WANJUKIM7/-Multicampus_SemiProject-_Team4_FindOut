@@ -1258,3 +1258,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-06.06.10:815][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms
 [2024.05.30-06.06.10:818][429]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
 [2024.05.30-06.06.10:819][429]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.07.24:507][752]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.319 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18692 files in 20710 folders with total size 1190 MiB.
