@@ -1812,3 +1812,46 @@ LogInit: Object subsystem initialized
 [2024.05.30-00.47.29:062][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.30-00.47.29:065][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2024.05.30-00.47.29:202][767]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.05.30-00.54.43:862][408]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오후 6:54:43
+[2024.05.30-00.54.43:882][408]LogSlate: Took 0.000757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.30-00.54.43:937][409]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx)
+[2024.05.30-00.54.43:967][409]LogFbx: Loading FBX Scene from C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx
+[2024.05.30-00.54.43:979][409]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.30-00.54.48:035][409]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2024.05.30-00.54.48:171][409]LogStaticMesh: Built static mesh [0.00s] /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브.screen_큐브
+[2024.05.30-00.54.48:212][409]LogStaticMesh: Built static mesh [0.01s] /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더.screen_실린더
+[2024.05.30-00.54.48:245][409]LogStaticMesh: Built static mesh [0.01s] /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_002.screen_실린더_002
+[2024.05.30-00.54.48:276][409]LogStaticMesh: Built static mesh [0.01s] /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_004.screen_실린더_004
+[2024.05.30-00.54.48:462][409]LogStaticMesh: Built static mesh [0.06s] /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_005.screen_실린더_005
+[2024.05.30-00.54.48:501][409]LogStaticMesh: Built static mesh [0.00s] /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브_001.screen_큐브_001
+[2024.05.30-00.54.48:638][409]LogAutomationController: Ignoring very large delta of 4.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.30-00.54.48:649][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-00.54.48:763][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.30-00.54.48:774][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 277 ms)
+[2024.05.30-00.54.51:785][610]AssetReimport: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen 새 에셋 임포트중.
+[2024.05.30-00.54.54:081][764]LogSlate: Window '메시지 로그' being destroyed
+[2024.05.30-00.54.54:089][764]LogSlate: Window '메시지 로그' being destroyed
+[2024.05.30-00.54.56:905][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.30-00.54.58:909][993]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.05.30-00.54.58:922][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-00.54.59:021][993]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더
+[2024.05.30-00.54.59:021][993]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_실린더AA3FF53D431D1793B603B0BED5A1E42B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더.uasset'
+[2024.05.30-00.54.59:036][993]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_002
+[2024.05.30-00.54.59:036][993]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_실린더_00220C71D19427130920E9229B43AA34F6F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_002.uasset'
+[2024.05.30-00.54.59:054][993]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_004
+[2024.05.30-00.54.59:054][993]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_실린더_0043037FD6E4362F0101F43BB99685CF4B8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_004.uasset'
+[2024.05.30-00.54.59:075][993]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_005
+[2024.05.30-00.54.59:075][993]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_실린더_005F086BF5440AB649E43233EB9F6B0E109.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_005.uasset'
+[2024.05.30-00.54.59:091][993]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브
+[2024.05.30-00.54.59:091][993]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_큐브29DC301844A5AC2DA1ED64A9C8269975.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브.uasset'
+[2024.05.30-00.54.59:106][993]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브_001
+[2024.05.30-00.54.59:107][993]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_큐브_0016D7488F244AD0AB6079BF78068BF8553.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브_001.uasset'
+[2024.05.30-00.54.59:121][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 476 ms)
+[2024.05.30-00.54.59:125][993]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.05.30-00.54.59:125][993]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더.screen_실린더 유효성 검사 중
+[2024.05.30-00.54.59:125][993]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_002.screen_실린더_002 유효성 검사 중
+[2024.05.30-00.54.59:125][993]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_004.screen_실린더_004 유효성 검사 중
+[2024.05.30-00.54.59:125][993]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_005.screen_실린더_005 유효성 검사 중
+[2024.05.30-00.54.59:125][993]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브.screen_큐브 유효성 검사 중
+[2024.05.30-00.54.59:125][993]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브_001.screen_큐브_001 유효성 검사 중
+[2024.05.30-00.54.59:138][993]LogAutomationController: Ignoring very large delta of 2.25 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
