@@ -1259,3 +1259,439 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-06.06.10:818][429]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
 [2024.05.30-06.06.10:819][429]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
 [2024.05.30-06.07.24:507][752]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.319 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18692 files in 20710 folders with total size 1190 MiB.
+[2024.05.30-06.08.20:718][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.08.20:801][121]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.08.20:803][121]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUID74EB3564F1292FF298CC4851B5E3B49.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.08.20:814][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 212 ms)
+[2024.05.30-06.08.20:820][121]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.08.20:820][121]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.08.23:725][313]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.05.30-06.08.23:739][313]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.05.30-06.08.23:739][313]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.30-06.08.23:745][313]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 6 ms
+[2024.05.30-06.08.23:746][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.30-06.08.23:746][313]PIE: New page: PIE 세션: FirstPersonMap (2024. 5. 31. 오전 12:08:23)
+[2024.05.30-06.08.23:754][313]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.30-06.08.23:754][313]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.30-06.08.23:754][313]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.08.23:777][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023179s)
+[2024.05.30-06.08.23:777][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.023242s)
+[2024.05.30-06.08.23:806][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.05.30-06.08.23:809][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-06.08.23:809][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-06.08.23:810][313]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.30-06.08.23:812][313]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.30-06.08.23:812][313]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.30-06.08.23:812][313]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.30-06.08.23:812][313]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.30-06.08.23:817][313]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.05.30-06.08.23:817][313]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 490 ms)
+[2024.05.30-06.08.23:817][313]LogPlayLevel: PIE: World Init took: (0.007813s)
+[2024.05.30-06.08.23:817][313]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.30-06.08.23:817][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.30-06.08.23:817][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.30-06.08.23:817][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.30-06.08.23:817][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.30-06.08.23:817][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.30-06.08.23:817][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.30-06.08.23:817][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.30-06.08.23:817][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.30-06.08.23:818][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.30-06.08.23:818][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.30-06.08.23:818][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.30-06.08.23:822][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.30-06.08.24:007][313]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.05.30-06.08.24:007][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.30-06.08.24:007][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.30-06.08.24:007][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.30-06.08.24:008][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.30-06.08.24:008][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.30-06.08.24:011][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.30-06.08.24:011][313]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.30-06.08.24:011][313]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.05.30-06.08.24:011][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.30-06.08.24:011][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.30-06.08.24:014][313]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.30-06.08.24:023][313]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.30-15.08.24
+[2024.05.30-06.08.24:024][313]LogWorld: Bringing up level for play took: 0.008942
+[2024.05.30-06.08.24:026][313]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.05.30-06.08.24:036][313]PIE: 서버가 로그인했습니다.
+[2024.05.30-06.08.24:038][313]PIE: 에디터에서 플레이 총 시작 시간 0.299초입니다.
+[2024.05.30-06.08.26:293][422]LogShaderCompilers: Display: ================================================
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Total job queries 182, among them cache hits 108 (59.34%)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 47 distinct outputs (68.12%)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: RAM used: 1.36 MiB of 819.20 MiB budget. Usage: 0.17%
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Shaders Compiled: 5
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Jobs assigned 9, completed 5 (55.56%)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Average time worker was idle: 158.19 s
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 1.42 s
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 1.78 s
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Job life time (pending + execution): average 1.63 s, max 1.84
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Shader code size: average 35.891 KiB, min 32.945 KiB, max 37.809 KiB
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.27 s
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Average processing rate: 1.53 jobs/sec
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Total thread time: 3.269 s
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Total thread preprocess time: 0.8 s
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Percentage time preprocessing: 24.47%
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Effective parallelization: 1.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.68 sec, max 0.73 sec, min 0.63 sec)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 41.56% of total time (compiled    2 times, average 0.68 sec, max 0.73 sec, min 0.63 sec)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display:                                                 FLumenCardVS - 22.75% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.17% of total time (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.53% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.05.30-06.08.26:294][422]LogShaderCompilers: Display: ================================================
+[2024.05.30-06.08.28:891][602]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.30-06.08.28:891][602]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.30-06.08.37:262][396]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.30-06.08.37:262][396]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.30-06.08.40:525][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.08.40:525][677]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.08.40:525][677]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-06.08.40:526][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.08.40:526][677]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.05.30-06.08.40:529][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.30-06.08.40:534][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.08.40:550][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.08.40:550][677]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.30-06.08.40:550][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.30-06.08.40:552][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.30-06.08.40:564][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.05.30-06.08.40:623][678]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.05.30-06.09.18:319][333]LogSlate: Took 0.002091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.30-06.09.49:445][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:447][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:451][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:560][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:576][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:679][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:691][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:701][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:718][426]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:728][427]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:734][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:746][429]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:755][430]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:772][432]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:795][433]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:813][435]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:823][436]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:840][438]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:850][439]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:868][441]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:876][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:893][444]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:901][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:917][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:926][448]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:943][450]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:951][451]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:969][453]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:978][454]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.49:995][456]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:004][457]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:023][459]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:031][460]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:048][462]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:059][463]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:076][465]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:084][466]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:103][468]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:112][469]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:130][471]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:139][472]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:155][474]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:166][475]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:184][477]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:192][478]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:209][480]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:219][481]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:235][483]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:244][484]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:264][486]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:272][487]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:288][489]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:296][490]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:317][492]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:325][493]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:342][495]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:351][496]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:368][498]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:377][499]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:394][501]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:402][502]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:423][504]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:431][505]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:448][507]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:457][508]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:475][510]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:484][511]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:490][512]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:499][513]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:501][513]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:505][513]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:585][514]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:597][514]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:697][516]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:708][517]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:724][519]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:735][520]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:753][522]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:762][523]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:778][525]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:787][526]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:805][528]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:815][529]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:834][531]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:843][532]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:859][534]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:868][535]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:886][537]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:896][538]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:914][540]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:922][541]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:943][543]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:951][544]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:968][546]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:976][547]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.50:995][549]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:003][550]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:020][552]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:028][553]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:047][555]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:056][556]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:073][558]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:081][559]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:101][561]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:109][562]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:126][564]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:134][565]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:153][567]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:161][568]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:177][570]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:186][571]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:203][573]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:212][574]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:231][576]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.09.51:242][577]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2024.05.30-06.10.30:110][755]BlueprintLog: New page: WB_PauseMenuUI 컴파일
+[2024.05.30-06.10.30:138][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.30-06.10.31:312][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.10.31:393][853]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.10.31:394][853]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI05CCE5C747AB358E36D462B78C2174A3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.10.31:404][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 303 ms)
+[2024.05.30-06.10.31:408][853]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.10.31:408][853]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.10.40:761][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.10.40:834][670]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.10.40:836][670]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI44F9A6DB40E51965566069A3A69AD775.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.10.40:843][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 385 ms)
+[2024.05.30-06.10.40:847][670]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.10.40:847][670]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.11.04:272][294]BlueprintLog: New page: WB_PauseMenuUI 컴파일
+[2024.05.30-06.11.04:307][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.30-06.11.05:004][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.11.05:078][361]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.11.05:079][361]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI5464FC3249A947E73FDC2A87FF03D57A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.11.05:088][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 470 ms)
+[2024.05.30-06.11.05:091][361]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.11.05:091][361]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.11.05:482][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.11.05:578][406]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.11.05:580][406]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUIDA9879264EBCFFF0C3B6B78DAC57D463.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.11.05:587][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 575 ms)
+[2024.05.30-06.11.05:590][406]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.11.05:590][406]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.14.15:518][531]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.05.30-06.14.15:518][531]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.05.30-06.14.32:601][ 12]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.05.30-06.15.00:770][879]LogSlate: Window '색 선택 툴' being destroyed
+[2024.05.30-06.15.02:118][  7]BlueprintLog: New page: WB_PauseMenuUI 컴파일
+[2024.05.30-06.15.02:178][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.05.30-06.15.03:173][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.15.03:252][ 72]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.15.03:254][ 72]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI482E0CD44C791D1B3B06E2925C055808.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.15.03:263][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 665 ms)
+[2024.05.30-06.15.03:268][ 72]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.15.03:268][ 72]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.15.05:636][314]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.05.30-06.15.05:643][314]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.05.30-06.15.05:643][314]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.30-06.15.05:648][314]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5 ms (total: 11 ms)
+[2024.05.30-06.15.05:649][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.30-06.15.05:649][314]PIE: New page: PIE 세션: FirstPersonMap (2024. 5. 31. 오전 12:15:05)
+[2024.05.30-06.15.05:649][314]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.15.05:659][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009866s)
+[2024.05.30-06.15.05:659][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.009902s)
+[2024.05.30-06.15.05:677][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.30-06.15.05:678][314]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-06.15.05:678][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-06.15.05:679][314]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.30-06.15.05:679][314]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.30-06.15.05:679][314]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.30-06.15.05:679][314]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.30-06.15.05:679][314]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.30-06.15.05:682][314]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.05.30-06.15.05:682][314]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 493 ms)
+[2024.05.30-06.15.05:682][314]LogPlayLevel: PIE: World Init took: (0.004257s)
+[2024.05.30-06.15.05:682][314]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.30-06.15.05:682][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.30-06.15.05:682][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.30-06.15.05:682][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.30-06.15.05:682][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.30-06.15.05:682][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.30-06.15.05:682][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.30-06.15.05:683][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.30-06.15.05:683][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.30-06.15.05:683][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.30-06.15.05:683][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.30-06.15.05:683][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.30-06.15.05:686][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.30-06.15.05:820][314]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.05.30-06.15.05:821][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.30-06.15.05:821][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.30-06.15.05:821][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.30-06.15.05:822][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.30-06.15.05:822][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.30-06.15.05:824][314]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.30-06.15.05:825][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.30-06.15.05:825][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.30-06.15.05:825][314]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2024.05.30-06.15.05:825][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.30-06.15.05:827][314]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.30-06.15.05:833][314]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.30-15.15.05
+[2024.05.30-06.15.05:833][314]LogWorld: Bringing up level for play took: 0.005489
+[2024.05.30-06.15.05:836][314]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.05.30-06.15.05:839][314]PIE: 서버가 로그인했습니다.
+[2024.05.30-06.15.05:840][314]PIE: 에디터에서 플레이 총 시작 시간 0.196초입니다.
+[2024.05.30-06.15.07:013][415]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.30-06.15.07:013][415]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.30-06.15.17:462][538]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.30-06.15.17:462][538]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.30-06.15.22:044][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.15.22:044][973]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.15.22:044][973]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-06.15.22:045][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.15.22:046][973]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.05.30-06.15.22:048][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.30-06.15.22:053][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.15.22:069][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.30-06.15.22:069][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.30-06.15.22:069][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.30-06.15.22:071][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.30-06.15.22:076][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.15.22:081][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.30-06.15.22:146][974]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.05.30-06.15.30:258][831]BlueprintLog: New page: WB_PauseMenuUI 컴파일
+[2024.05.30-06.15.30:303][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.30-06.15.31:271][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.15.31:361][913]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.15.31:363][913]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI92F498B24CD471E1E36D31B917BAE855.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.15.31:371][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 764 ms)
+[2024.05.30-06.15.31:375][913]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.15.31:375][913]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.15.31:701][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.15.31:772][948]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.15.31:774][948]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI9180D3F649B8544E5AE1C69A7B15A872.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.15.31:783][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 847 ms)
+[2024.05.30-06.15.31:787][948]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.15.31:787][948]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.15.31:876][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.15.31:942][958]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.15.31:943][958]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI0F5F6FDE4D799BF636F349BE4E13F296.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.15.31:956][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 926 ms)
+[2024.05.30-06.15.31:960][958]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.15.31:960][958]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.15.32:188][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.15.32:243][974]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.15.32:245][974]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUIFCA1A86649C45C75FBBC739D1226B333.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.15.32:256][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 994 ms)
+[2024.05.30-06.15.32:260][974]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.15.32:260][974]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.15.32:483][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.15.32:557][997]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.15.32:558][997]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI4E3EC18C47377DAC2620B8903EF21D36.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.15.32:568][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.07 sec)
+[2024.05.30-06.15.32:572][997]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.15.32:572][997]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.15.32:771][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.15.32:842][ 18]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.30-06.15.32:843][ 18]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUIC7D79B9446D7CE0CD2A790B97F3BD39C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.30-06.15.32:852][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.15 sec)
+[2024.05.30-06.15.32:856][ 18]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.30-06.15.32:856][ 18]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.30-06.15.34:784][174]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.05.30-06.15.34:792][174]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.05.30-06.15.34:792][174]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.30-06.15.34:795][174]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3 ms (total: 15 ms)
+[2024.05.30-06.15.34:796][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.30-06.15.34:796][174]PIE: New page: PIE 세션: FirstPersonMap (2024. 5. 31. 오전 12:15:34)
+[2024.05.30-06.15.34:796][174]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.15.34:806][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010162s)
+[2024.05.30-06.15.34:806][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010196s)
+[2024.05.30-06.15.34:823][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.05.30-06.15.34:824][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-06.15.34:824][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-06.15.34:825][174]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.30-06.15.34:826][174]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.30-06.15.34:826][174]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.30-06.15.34:826][174]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.30-06.15.34:826][174]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.30-06.15.34:829][174]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.05.30-06.15.34:829][174]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 497 ms)
+[2024.05.30-06.15.34:829][174]LogPlayLevel: PIE: World Init took: (0.005165s)
+[2024.05.30-06.15.34:829][174]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.30-06.15.34:829][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.30-06.15.34:829][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.30-06.15.34:829][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.30-06.15.34:829][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.30-06.15.34:829][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.30-06.15.34:829][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.30-06.15.34:829][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.30-06.15.34:829][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.30-06.15.34:830][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.30-06.15.34:830][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.30-06.15.34:830][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.30-06.15.34:832][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.30-06.15.34:951][174]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.05.30-06.15.34:952][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.30-06.15.34:952][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.30-06.15.34:952][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.30-06.15.34:953][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.30-06.15.34:953][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.30-06.15.34:955][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.30-06.15.34:955][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.30-06.15.34:955][174]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.30-06.15.34:955][174]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2024.05.30-06.15.34:955][174]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.30-06.15.34:957][174]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.30-06.15.34:965][174]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.30-15.15.34
+[2024.05.30-06.15.34:965][174]LogWorld: Bringing up level for play took: 0.007152
+[2024.05.30-06.15.34:969][174]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.05.30-06.15.34:974][174]PIE: 서버가 로그인했습니다.
+[2024.05.30-06.15.34:975][174]PIE: 에디터에서 플레이 총 시작 시간 0.183초입니다.
+[2024.05.30-06.15.37:611][423]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.30-06.15.37:611][423]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.30-06.15.38:580][531]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.30-06.15.38:580][531]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.30-06.15.39:785][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.15.39:785][641]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.15.39:785][641]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-06.15.39:786][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.15.39:786][641]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.05.30-06.15.39:790][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.30-06.15.39:794][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.15.39:812][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.30-06.15.39:813][641]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.30-06.15.39:813][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.30-06.15.39:815][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.30-06.15.39:820][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.15.39:825][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.05.30-06.15.39:895][642]LogPlayLevel: Display: Destroying online subsystem :Context_6
