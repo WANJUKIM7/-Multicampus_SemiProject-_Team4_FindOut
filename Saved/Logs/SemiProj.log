@@ -2162,3 +2162,675 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-01.33.23:516][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.28 sec)
 [2024.05.30-01.33.23:519][877]AssetCheck: New page: 에셋 저장:  AC_InteractionTrace
 [2024.05.30-01.33.23:519][877]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Outline/AC_InteractionTrace.AC_InteractionTrace 유효성 검사 중
+[2024.05.30-01.39.47:117][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Outline/BP_interactionArea.BP_interactionArea
+[2024.05.30-01.39.47:118][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-01.39.47:118][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-01.40.01:034][895]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Outline/BP_TestInteractionActor.BP_TestInteractionActor
+[2024.05.30-01.40.01:034][895]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-01.40.01:034][895]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-01.40.10:193][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-01.40.10:294][940]LogSavePackage: Moving output files for package: /Game/Programming/Outline/BP_TestInteractionActor
+[2024.05.30-01.40.10:295][940]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_TestInteractionActor8DD6D2594EC20D957D64109E39704F1D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Outline/BP_TestInteractionActor.uasset'
+[2024.05.30-01.40.10:305][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.39 sec)
+[2024.05.30-01.40.10:308][940]AssetCheck: New page: 에셋 저장:  BP_TestInteractionActor
+[2024.05.30-01.40.10:308][940]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Outline/BP_TestInteractionActor.BP_TestInteractionActor 유효성 검사 중
+[2024.05.30-01.40.20:174][753]LogUObjectGlobals: Warning: 'Class /Game/Programming/Outline/BP_TestInteractionActor.BP_TestInteractionActor' 오브젝트를 찾는 데 실패했습니다.
+[2024.05.30-01.40.21:972][948]LogUObjectGlobals: Warning: 'Class /Game/Programming/Outline/BP_TestInteractionActor.BP_TestInteractionActor' 오브젝트를 찾는 데 실패했습니다.
+[2024.05.30-01.40.35:718][484]BlueprintLog: New page: BP_TestInteractionActor 컴파일
+[2024.05.30-01.40.35:760][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.05.30-01.40.36:613][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-01.40.36:710][579]LogSavePackage: Moving output files for package: /Game/Programming/Outline/BP_TestInteractionActor
+[2024.05.30-01.40.36:712][579]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_TestInteractionActor47E3B1294431D9275EED109B35228F7D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Outline/BP_TestInteractionActor.uasset'
+[2024.05.30-01.40.36:721][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.50 sec)
+[2024.05.30-01.40.36:724][579]AssetCheck: New page: 에셋 저장:  BP_TestInteractionActor
+[2024.05.30-01.40.36:724][579]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Outline/BP_TestInteractionActor.BP_TestInteractionActor 유효성 검사 중
+[2024.05.30-01.41.02:220][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.30-01.41.02:230][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2X/QBEN19KRF19PVGH5RQHM08_Auto1
+[2024.05.30-01.41.02:230][571]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/QBEN19KRF19PVGH5RQHM08_Auto13F6F52084A50629DD931EAAF3608D7DE.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2X/QBEN19KRF19PVGH5RQHM08_Auto1.uasset'
+[2024.05.30-01.41.02:233][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2024.05.30-01.41.02:233][571]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.05.30-01.42.28:792][723]BlueprintLog: New page: AC_InteractionTrace 컴파일
+[2024.05.30-01.42.28:845][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.30-01.42.29:411][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-01.42.29:484][777]LogSavePackage: Moving output files for package: /Game/Programming/Outline/AC_InteractionTrace
+[2024.05.30-01.42.29:485][777]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/AC_InteractionTraceC35D05504039F20D1674D3AA14884F97.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Outline/AC_InteractionTrace.uasset'
+[2024.05.30-01.42.29:494][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.58 sec)
+[2024.05.30-01.42.29:497][777]AssetCheck: New page: 에셋 저장:  AC_InteractionTrace
+[2024.05.30-01.42.29:498][777]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Outline/AC_InteractionTrace.AC_InteractionTrace 유효성 검사 중
+[2024.05.30-01.42.41:848][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-01.42.41:930][241]LogSavePackage: Moving output files for package: /Game/Programming/Outline/AC_InteractionTrace
+[2024.05.30-01.42.41:931][241]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/AC_InteractionTrace21B4FF874970262DCB433D88C2779E57.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Outline/AC_InteractionTrace.uasset'
+[2024.05.30-01.42.41:940][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.67 sec)
+[2024.05.30-01.42.41:943][241]AssetCheck: New page: 에셋 저장:  AC_InteractionTrace
+[2024.05.30-01.42.41:943][241]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Outline/AC_InteractionTrace.AC_InteractionTrace 유효성 검사 중
+[2024.05.30-01.42.42:237][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-01.42.42:314][275]LogSavePackage: Moving output files for package: /Game/Programming/Outline/AC_InteractionTrace
+[2024.05.30-01.42.42:316][275]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/AC_InteractionTraceEB5BC1B04948DD745B9EBDBE365DDD5B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Outline/AC_InteractionTrace.uasset'
+[2024.05.30-01.42.42:326][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.76 sec)
+[2024.05.30-01.42.42:329][275]AssetCheck: New page: 에셋 저장:  AC_InteractionTrace
+[2024.05.30-01.42.42:329][275]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Outline/AC_InteractionTrace.AC_InteractionTrace 유효성 검사 중
+[2024.05.30-01.43.06:733][192]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.30-01.43.06:733][192]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-01.43.06:733][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-02.07.59:274][241]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.197 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18072 files in 20014 folders with total size 1128 MiB.
+[2024.05.30-02.19.40:358][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.19.40:452][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.05.30-02.19.40:474][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.30-02.19.40:491][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.30-02.19.40:496][635]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2X/QBEN19KRF19PVGH5RQHM08
+[2024.05.30-02.19.40:497][635]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/QBEN19KRF19PVGH5RQHM086D2A227E4D0602EB0D139186D41D6A6D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2X/QBEN19KRF19PVGH5RQHM08.uasset'
+[2024.05.30-02.19.40:508][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.91 sec)
+[2024.05.30-02.19.40:513][635]AssetCheck: New page: 에셋 저장:  BP_TestInteractionActor_C_UAID_2CF05DA6DE3C81FA01_1275790893
+[2024.05.30-02.19.40:514][635]LogContentValidation: Display: /Game/Programming/Outline/BP_TestInteractionActor.BP_TestInteractionActor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestInteractionActor_C_UAID_2CF05DA6DE3C81FA01_1275790893 유효성 검사 중
+[2024.05.30-02.19.40:673][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.19.40:765][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.30-02.19.40:782][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.30-02.19.40:799][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.30-02.19.40:810][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 2.05 sec)
+[2024.05.30-02.26.24:614][468]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.05.30-02.26.25:476][512]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.05.30-02.26.25:518][512]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.05.30-02.26.25:536][513]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.05.30-02.26.27:276][630]LogContentBrowser: Attempting asset rename: 새 폴더 -> 새 폴더
+[2024.05.30-02.26.27:276][630]LogContentBrowser: End creating deferred item 새 폴더
+[2024.05.30-02.26.30:039][788]LogViewport: Scene viewport resized to 698x304, mode Windowed.
+[2024.05.30-02.26.36:174][988]LogInterchangeEngine: [대기중] 임포트 중
+[2024.05.30-02.26.36:175][988]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/128 Light 2.png]
+[2024.05.30-02.26.36:176][988]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:176][988]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/128 Light.png]
+[2024.05.30-02.26.36:176][988]LogInterchangeEngine: [대기중] 임포트 중 -  (3)
+[2024.05.30-02.26.36:176][988]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/128.png]
+[2024.05.30-02.26.36:177][988]LogInterchangeEngine: [대기중] 임포트 중 -  (4)
+[2024.05.30-02.26.36:178][988]LogInterchangeEngine: [대기중] 임포트 중 -  (5)
+[2024.05.30-02.26.36:178][988]LogInterchangeEngine: [대기중] 임포트 중 -  (6)
+[2024.05.30-02.26.36:179][988]LogInterchangeEngine: [대기중] 임포트 중 -  (7)
+[2024.05.30-02.26.36:179][988]LogInterchangeEngine: [대기중] 임포트 중 -  (8)
+[2024.05.30-02.26.36:180][988]LogInterchangeEngine: [대기중] 임포트 중 -  (9)
+[2024.05.30-02.26.36:181][988]LogInterchangeEngine: [대기중] 임포트 중 -  (10)
+[2024.05.30-02.26.36:181][988]LogInterchangeEngine: [대기중] 임포트 중 -  (11)
+[2024.05.30-02.26.36:182][988]LogInterchangeEngine: [대기중] 임포트 중 -  (12)
+[2024.05.30-02.26.36:182][988]LogInterchangeEngine: [대기중] 임포트 중 -  (13)
+[2024.05.30-02.26.36:183][988]LogInterchangeEngine: [대기중] 임포트 중 -  (14)
+[2024.05.30-02.26.36:183][988]LogInterchangeEngine: [대기중] 임포트 중 -  (15)
+[2024.05.30-02.26.36:184][988]LogInterchangeEngine: [대기중] 임포트 중 -  (16)
+[2024.05.30-02.26.36:185][988]LogInterchangeEngine: [대기중] 임포트 중 -  (17)
+[2024.05.30-02.26.36:185][988]LogInterchangeEngine: [대기중] 임포트 중 -  (18)
+[2024.05.30-02.26.36:186][988]LogInterchangeEngine: [대기중] 임포트 중 -  (19)
+[2024.05.30-02.26.36:186][988]LogInterchangeEngine: [대기중] 임포트 중 -  (20)
+[2024.05.30-02.26.36:187][988]LogInterchangeEngine: [대기중] 임포트 중 -  (21)
+[2024.05.30-02.26.36:187][988]LogInterchangeEngine: [대기중] 임포트 중 -  (22)
+[2024.05.30-02.26.36:188][988]LogInterchangeEngine: [대기중] 임포트 중 -  (23)
+[2024.05.30-02.26.36:188][988]LogInterchangeEngine: [대기중] 임포트 중 -  (24)
+[2024.05.30-02.26.36:189][988]LogInterchangeEngine: [대기중] 임포트 중 -  (25)
+[2024.05.30-02.26.36:189][988]LogInterchangeEngine: [대기중] 임포트 중 -  (26)
+[2024.05.30-02.26.36:190][988]LogInterchangeEngine: [대기중] 임포트 중 -  (27)
+[2024.05.30-02.26.36:190][988]LogInterchangeEngine: [대기중] 임포트 중 -  (28)
+[2024.05.30-02.26.36:191][988]LogInterchangeEngine: [대기중] 임포트 중 -  (29)
+[2024.05.30-02.26.36:191][988]LogInterchangeEngine: [대기중] 임포트 중 -  (30)
+[2024.05.30-02.26.36:192][988]LogInterchangeEngine: [대기중] 임포트 중 -  (31)
+[2024.05.30-02.26.36:192][988]LogInterchangeEngine: [대기중] 임포트 중 -  (32)
+[2024.05.30-02.26.36:193][988]LogInterchangeEngine: [대기중] 임포트 중 -  (33)
+[2024.05.30-02.26.36:193][988]LogInterchangeEngine: [대기중] 임포트 중 -  (34)
+[2024.05.30-02.26.36:194][988]LogInterchangeEngine: [대기중] 임포트 중 -  (35)
+[2024.05.30-02.26.36:194][988]LogInterchangeEngine: [대기중] 임포트 중 -  (36)
+[2024.05.30-02.26.36:195][988]LogInterchangeEngine: [대기중] 임포트 중 -  (37)
+[2024.05.30-02.26.36:195][988]LogInterchangeEngine: [대기중] 임포트 중 -  (38)
+[2024.05.30-02.26.36:196][988]LogInterchangeEngine: [대기중] 임포트 중 -  (39)
+[2024.05.30-02.26.36:197][988]LogInterchangeEngine: [대기중] 임포트 중 -  (40)
+[2024.05.30-02.26.36:197][988]LogInterchangeEngine: [대기중] 임포트 중 -  (41)
+[2024.05.30-02.26.36:198][988]LogInterchangeEngine: [대기중] 임포트 중 -  (42)
+[2024.05.30-02.26.36:198][988]LogInterchangeEngine: [대기중] 임포트 중 -  (43)
+[2024.05.30-02.26.36:199][988]LogInterchangeEngine: [대기중] 임포트 중 -  (44)
+[2024.05.30-02.26.36:199][988]LogInterchangeEngine: [대기중] 임포트 중 -  (45)
+[2024.05.30-02.26.36:200][988]LogInterchangeEngine: [대기중] 임포트 중 -  (46)
+[2024.05.30-02.26.36:200][988]LogInterchangeEngine: [대기중] 임포트 중 -  (47)
+[2024.05.30-02.26.36:201][988]LogInterchangeEngine: [대기중] 임포트 중 -  (48)
+[2024.05.30-02.26.36:201][988]LogInterchangeEngine: [대기중] 임포트 중 -  (49)
+[2024.05.30-02.26.36:202][988]LogInterchangeEngine: [대기중] 임포트 중 -  (50)
+[2024.05.30-02.26.36:202][988]LogInterchangeEngine: [대기중] 임포트 중 -  (51)
+[2024.05.30-02.26.36:203][988]LogInterchangeEngine: [대기중] 임포트 중 -  (52)
+[2024.05.30-02.26.36:203][988]LogInterchangeEngine: [대기중] 임포트 중 -  (53)
+[2024.05.30-02.26.36:204][988]LogInterchangeEngine: [대기중] 임포트 중 -  (54)
+[2024.05.30-02.26.36:204][988]LogInterchangeEngine: [대기중] 임포트 중 -  (55)
+[2024.05.30-02.26.36:205][988]LogInterchangeEngine: [대기중] 임포트 중 -  (56)
+[2024.05.30-02.26.36:205][988]LogInterchangeEngine: [대기중] 임포트 중 -  (57)
+[2024.05.30-02.26.36:206][988]LogInterchangeEngine: [대기중] 임포트 중 -  (58)
+[2024.05.30-02.26.36:207][988]LogInterchangeEngine: [대기중] 임포트 중 -  (59)
+[2024.05.30-02.26.36:207][988]LogInterchangeEngine: [대기중] 임포트 중 -  (60)
+[2024.05.30-02.26.36:208][988]LogInterchangeEngine: [대기중] 임포트 중 -  (61)
+[2024.05.30-02.26.36:208][988]LogInterchangeEngine: [대기중] 임포트 중 -  (62)
+[2024.05.30-02.26.36:209][988]LogInterchangeEngine: [대기중] 임포트 중 -  (63)
+[2024.05.30-02.26.36:209][988]LogInterchangeEngine: [대기중] 임포트 중 -  (64)
+[2024.05.30-02.26.36:210][988]LogInterchangeEngine: [대기중] 임포트 중 -  (65)
+[2024.05.30-02.26.36:219][988]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:219][988]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:221][988]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:235][989]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/128_Light.128_Light(TFO_AutoDXT, 516x516 x1x1x1)(예상 필요 메모리: 45.323608MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:241][989]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/128.128(BGRA8, 512x513 x1x1x1)(예상 필요 메모리: 7.744141MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:244][989]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/128_Light_2.128_Light_2(BGRA8, 514x515 x1x1x1)(예상 필요 메모리: 7.804199MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:252][989]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:252][989]LogInterchangeEngine: [대기중] 임포트 중 -  (64)
+[2024.05.30-02.26.36:252][989]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/32 Light 2.png]
+[2024.05.30-02.26.36:253][989]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:253][989]LogInterchangeEngine: [대기중] 임포트 중 -  (63)
+[2024.05.30-02.26.36:253][989]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/32 Light.png]
+[2024.05.30-02.26.36:253][989]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:253][989]LogInterchangeEngine: [대기중] 임포트 중 -  (62)
+[2024.05.30-02.26.36:253][989]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/32.png]
+[2024.05.30-02.26.36:258][989]LogInterchangeEngine: [대기중] 임포트 중 -  (62)
+[2024.05.30-02.26.36:263][989]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:264][989]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:265][989]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:305][990]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/32_Light_2.32_Light_2(BGRA8, 514x515 x1x1x1)(예상 필요 메모리: 7.804199MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:307][990]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/32.32(BGRA8, 512x513 x1x1x1)(예상 필요 메모리: 7.744141MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:311][990]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/32_Light.32_Light(TFO_AutoDXT, 516x516 x1x1x1)(예상 필요 메모리: 45.323608MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:321][990]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:321][990]LogInterchangeEngine: [대기중] 임포트 중 -  (61)
+[2024.05.30-02.26.36:321][990]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/64 Light 2.png]
+[2024.05.30-02.26.36:321][990]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:321][990]LogInterchangeEngine: [대기중] 임포트 중 -  (60)
+[2024.05.30-02.26.36:321][990]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/64 Light.png]
+[2024.05.30-02.26.36:321][990]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:321][990]LogInterchangeEngine: [대기중] 임포트 중 -  (59)
+[2024.05.30-02.26.36:322][990]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/64.png]
+[2024.05.30-02.26.36:325][990]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:326][990]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:327][990]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:388][991]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/64_Light_2.64_Light_2(BGRA8, 514x515 x1x1x1)(예상 필요 메모리: 7.804199MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:390][991]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/64_Light.64_Light(TFO_AutoDXT, 516x516 x1x1x1)(예상 필요 메모리: 45.323608MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:395][991]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:395][991]LogInterchangeEngine: [대기중] 임포트 중 -  (58)
+[2024.05.30-02.26.36:395][991]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/A.png]
+[2024.05.30-02.26.36:395][991]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:395][991]LogInterchangeEngine: [대기중] 임포트 중 -  (57)
+[2024.05.30-02.26.36:395][991]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Add Icon.png]
+[2024.05.30-02.26.36:395][991]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/64.64(BGRA8, 512x513 x1x1x1)(예상 필요 메모리: 7.744141MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:396][991]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:396][991]LogInterchangeEngine: [대기중] 임포트 중 -  (56)
+[2024.05.30-02.26.36:396][991]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/B.png]
+[2024.05.30-02.26.36:471][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:472][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:475][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:476][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/A.A(BGRA8, 516x133 x1x1x1)(예상 필요 메모리: 2.069595MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:477][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Add_Icon.Add_Icon(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:480][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/B.B(BGRA8, 390x133 x1x1x1)(예상 필요 메모리: 1.579491MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:480][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:480][992]LogInterchangeEngine: [대기중] 임포트 중 -  (55)
+[2024.05.30-02.26.36:480][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Bell.png]
+[2024.05.30-02.26.36:480][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:480][992]LogInterchangeEngine: [대기중] 임포트 중 -  (54)
+[2024.05.30-02.26.36:480][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/BTN_A1.png]
+[2024.05.30-02.26.36:481][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:481][992]LogInterchangeEngine: [대기중] 임포트 중 -  (53)
+[2024.05.30-02.26.36:481][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/BTN_A2.png]
+[2024.05.30-02.26.36:484][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:485][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:486][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Bell.Bell(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:488][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:489][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/BTN_A1.BTN_A1(BGRA8, 258x131 x1x1x1)(예상 필요 메모리: 1.050957MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:490][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:490][992]LogInterchangeEngine: [대기중] 임포트 중 -  (52)
+[2024.05.30-02.26.36:490][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/BTN_A3.png]
+[2024.05.30-02.26.36:492][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:492][992]LogInterchangeEngine: [대기중] 임포트 중 -  (51)
+[2024.05.30-02.26.36:492][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/BTN_Line_4PX_Large.png]
+[2024.05.30-02.26.36:492][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/BTN_A2.BTN_A2(BGRA8, 388x131 x1x1x1)(예상 필요 메모리: 1.549004MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:493][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:493][992]LogInterchangeEngine: [대기중] 임포트 중 -  (50)
+[2024.05.30-02.26.36:493][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/BTN_Line_4PX_Medium.png]
+[2024.05.30-02.26.36:495][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:496][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:497][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:499][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/BTN_A3.BTN_A3(BGRA8, 514x131 x1x1x1)(예상 필요 메모리: 2.031738MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:501][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/BTN_Line_4PX_Large.BTN_Line_4PX_Large(BGRA8, 516x133 x1x1x1)(예상 필요 메모리: 2.069595MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:503][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/BTN_Line_4PX_Medium.BTN_Line_4PX_Medium(BGRA8, 390x133 x1x1x1)(예상 필요 메모리: 1.579491MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:503][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:503][992]LogInterchangeEngine: [대기중] 임포트 중 -  (49)
+[2024.05.30-02.26.36:503][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/BTN_Line_4PX_Small.png]
+[2024.05.30-02.26.36:504][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:504][992]LogInterchangeEngine: [대기중] 임포트 중 -  (48)
+[2024.05.30-02.26.36:504][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/ButtonLargeRound.png]
+[2024.05.30-02.26.36:505][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:505][992]LogInterchangeEngine: [대기중] 임포트 중 -  (47)
+[2024.05.30-02.26.36:505][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/ButtonMediumRound.png]
+[2024.05.30-02.26.36:507][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:508][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:509][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:510][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/BTN_Line_4PX_Small.BTN_Line_4PX_Small(BGRA8, 260x133 x1x1x1)(예상 필요 메모리: 1.073814MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:513][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/ButtonLargeRound.ButtonLargeRound(BGRA8, 512x129 x1x1x1)(예상 필요 메모리: 1.994141MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:515][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/ButtonMediumRound.ButtonMediumRound(BGRA8, 386x129 x1x1x1)(예상 필요 메모리: 1.518776MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:516][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:516][992]LogInterchangeEngine: [대기중] 임포트 중 -  (46)
+[2024.05.30-02.26.36:516][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/ButtonSmallRound.png]
+[2024.05.30-02.26.36:516][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:516][992]LogInterchangeEngine: [대기중] 임포트 중 -  (45)
+[2024.05.30-02.26.36:516][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Button_Large_A.png]
+[2024.05.30-02.26.36:517][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:517][992]LogInterchangeEngine: [대기중] 임포트 중 -  (44)
+[2024.05.30-02.26.36:517][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Button_Medium_A.png]
+[2024.05.30-02.26.36:519][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:520][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:522][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:523][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/ButtonSmallRound.ButtonSmallRound(BGRA8, 256x129 x1x1x1)(예상 필요 메모리: 1.02832MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:525][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Button_Large_A.Button_Large_A(BGRA8, 512x129 x1x1x1)(예상 필요 메모리: 1.994141MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:527][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Button_Medium_A.Button_Medium_A(BGRA8, 386x129 x1x1x1)(예상 필요 메모리: 1.518776MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:527][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:527][992]LogInterchangeEngine: [대기중] 임포트 중 -  (43)
+[2024.05.30-02.26.36:527][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Button_Small_A.png]
+[2024.05.30-02.26.36:528][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:528][992]LogInterchangeEngine: [대기중] 임포트 중 -  (42)
+[2024.05.30-02.26.36:528][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/C.png]
+[2024.05.30-02.26.36:528][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:528][992]LogInterchangeEngine: [대기중] 임포트 중 -  (41)
+[2024.05.30-02.26.36:528][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/CIRCLE2PXLAR.png]
+[2024.05.30-02.26.36:530][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:531][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:532][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:533][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Button_Small_A.Button_Small_A(BGRA8, 256x129 x1x1x1)(예상 필요 메모리: 1.02832MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:535][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/C.C(BGRA8, 260x133 x1x1x1)(예상 필요 메모리: 1.073814MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:537][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/CIRCLE2PXLAR.CIRCLE2PXLAR(BGRA8, 202x203 x1x1x1)(예상 필요 메모리: 1.261749MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:538][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:538][992]LogInterchangeEngine: [대기중] 임포트 중 -  (40)
+[2024.05.30-02.26.36:538][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/CIRCLE2PXMED.png]
+[2024.05.30-02.26.36:538][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:538][992]LogInterchangeEngine: [대기중] 임포트 중 -  (39)
+[2024.05.30-02.26.36:538][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/CIRCLE2PXSMALL.png]
+[2024.05.30-02.26.36:538][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:539][992]LogInterchangeEngine: [대기중] 임포트 중 -  (38)
+[2024.05.30-02.26.36:539][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/CIRCLE4PXLAR.png]
+[2024.05.30-02.26.36:541][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:542][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:543][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:544][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/CIRCLE2PXMED.CIRCLE2PXMED(BGRA8, 152x153 x1x1x1)(예상 필요 메모리: 0.742645MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:546][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/CIRCLE2PXSMALL.CIRCLE2PXSMALL(BGRA8, 130x131 x1x1x1)(예상 필요 메모리: 0.560547MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:548][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/CIRCLE4PXLAR.CIRCLE4PXLAR(BGRA8, 204x205 x1x1x1)(예상 필요 메모리: 1.285568MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:548][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:548][992]LogInterchangeEngine: [대기중] 임포트 중 -  (37)
+[2024.05.30-02.26.36:548][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/CIRCLE4PXMED.png]
+[2024.05.30-02.26.36:549][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:549][992]LogInterchangeEngine: [대기중] 임포트 중 -  (36)
+[2024.05.30-02.26.36:549][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/CIRCLE4PXSMA.png]
+[2024.05.30-02.26.36:549][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:549][992]LogInterchangeEngine: [대기중] 임포트 중 -  (35)
+[2024.05.30-02.26.36:549][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Close BTN.png]
+[2024.05.30-02.26.36:551][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:553][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:554][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:555][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/CIRCLE4PXMED.CIRCLE4PXMED(BGRA8, 154x155 x1x1x1)(예상 필요 메모리: 0.76059MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:557][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/CIRCLE4PXSMA.CIRCLE4PXSMA(BGRA8, 132x133 x1x1x1)(예상 필요 메모리: 0.575943MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:559][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Close_BTN.Close_BTN(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:559][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:559][992]LogInterchangeEngine: [대기중] 임포트 중 -  (34)
+[2024.05.30-02.26.36:559][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Coin.png]
+[2024.05.30-02.26.36:560][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:560][992]LogInterchangeEngine: [대기중] 임포트 중 -  (33)
+[2024.05.30-02.26.36:560][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/D.png]
+[2024.05.30-02.26.36:561][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:561][992]LogInterchangeEngine: [대기중] 임포트 중 -  (32)
+[2024.05.30-02.26.36:561][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Divider.png]
+[2024.05.30-02.26.36:563][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:565][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:566][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:567][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Coin.Coin(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:569][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/D.D(BGRA8, 514x131 x1x1x1)(예상 필요 메모리: 2.031738MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:572][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:572][992]LogInterchangeEngine: [대기중] 임포트 중 -  (31)
+[2024.05.30-02.26.36:572][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Divider.Divider(BGRA8, 256x9 x1x1x1)(예상 필요 메모리: 0.129883MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:572][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Down Arrow.png]
+[2024.05.30-02.26.36:572][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:572][992]LogInterchangeEngine: [대기중] 임포트 중 -  (30)
+[2024.05.30-02.26.36:572][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Down BTN.png]
+[2024.05.30-02.26.36:573][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:573][992]LogInterchangeEngine: [대기중] 임포트 중 -  (29)
+[2024.05.30-02.26.36:573][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/E.png]
+[2024.05.30-02.26.36:575][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:577][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:578][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:579][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Down_Arrow.Down_Arrow(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:581][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Down_BTN.Down_BTN(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:583][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/E.E(BGRA8, 388x131 x1x1x1)(예상 필요 메모리: 1.549004MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:583][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:583][992]LogInterchangeEngine: [대기중] 임포트 중 -  (28)
+[2024.05.30-02.26.36:583][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/F.png]
+[2024.05.30-02.26.36:583][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:583][992]LogInterchangeEngine: [대기중] 임포트 중 -  (27)
+[2024.05.30-02.26.36:584][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Facebook 2.png]
+[2024.05.30-02.26.36:586][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:587][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:587][992]LogInterchangeEngine: [대기중] 임포트 중 -  (26)
+[2024.05.30-02.26.36:587][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Facebook.png]
+[2024.05.30-02.26.36:588][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:589][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/F.F(BGRA8, 258x131 x1x1x1)(예상 필요 메모리: 1.050957MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:592][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:593][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Facebook_2.Facebook_2(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:593][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:593][992]LogInterchangeEngine: [대기중] 임포트 중 -  (25)
+[2024.05.30-02.26.36:593][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Gem.png]
+[2024.05.30-02.26.36:595][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Facebook.Facebook(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:595][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:595][992]LogInterchangeEngine: [대기중] 임포트 중 -  (24)
+[2024.05.30-02.26.36:595][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Heart.png]
+[2024.05.30-02.26.36:596][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:596][992]LogInterchangeEngine: [대기중] 임포트 중 -  (23)
+[2024.05.30-02.26.36:596][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Icon Sets.png]
+[2024.05.30-02.26.36:598][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:599][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:601][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:602][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Gem.Gem(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:604][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Heart.Heart(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:606][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Icon_Sets.Icon_Sets(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:606][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:606][992]LogInterchangeEngine: [대기중] 임포트 중 -  (22)
+[2024.05.30-02.26.36:606][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Info.png]
+[2024.05.30-02.26.36:607][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:607][992]LogInterchangeEngine: [대기중] 임포트 중 -  (21)
+[2024.05.30-02.26.36:607][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/InputField.png]
+[2024.05.30-02.26.36:607][992]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:607][992]LogInterchangeEngine: [대기중] 임포트 중 -  (20)
+[2024.05.30-02.26.36:607][992]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Inventory.png]
+[2024.05.30-02.26.36:610][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:612][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:613][992]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:692][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Info.Info(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:694][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/InputField.InputField(TFO_AutoDXT, 512x128 x1x1x1)(예상 필요 메모리: 10.395709MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:697][992]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Inventory.Inventory(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:700][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:700][993]LogInterchangeEngine: [대기중] 임포트 중 -  (19)
+[2024.05.30-02.26.36:700][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Left Arrow.png]
+[2024.05.30-02.26.36:701][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:701][993]LogInterchangeEngine: [대기중] 임포트 중 -  (18)
+[2024.05.30-02.26.36:701][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Left BTN.png]
+[2024.05.30-02.26.36:701][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:701][993]LogInterchangeEngine: [대기중] 임포트 중 -  (17)
+[2024.05.30-02.26.36:701][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Lock.png]
+[2024.05.30-02.26.36:704][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:706][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:707][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:708][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Left_Arrow.Left_Arrow(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:711][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Left_BTN.Left_BTN(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:714][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:714][993]LogInterchangeEngine: [대기중] 임포트 중 -  (16)
+[2024.05.30-02.26.36:714][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Lock.Lock(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:714][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Messages.png]
+[2024.05.30-02.26.36:714][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:714][993]LogInterchangeEngine: [대기중] 임포트 중 -  (15)
+[2024.05.30-02.26.36:715][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Missions.png]
+[2024.05.30-02.26.36:717][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:717][993]LogInterchangeEngine: [대기중] 임포트 중 -  (14)
+[2024.05.30-02.26.36:717][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Music.png]
+[2024.05.30-02.26.36:719][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:721][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:722][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:724][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Missions.Missions(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:727][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Messages.Messages(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:729][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Music.Music(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:729][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:729][993]LogInterchangeEngine: [대기중] 임포트 중 -  (13)
+[2024.05.30-02.26.36:729][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Ranks.png]
+[2024.05.30-02.26.36:730][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:730][993]LogInterchangeEngine: [대기중] 임포트 중 -  (12)
+[2024.05.30-02.26.36:730][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Right Arrow.png]
+[2024.05.30-02.26.36:730][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:730][993]LogInterchangeEngine: [대기중] 임포트 중 -  (11)
+[2024.05.30-02.26.36:730][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Right BTN.png]
+[2024.05.30-02.26.36:732][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:734][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:735][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:736][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Ranks.Ranks(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:738][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Right_Arrow.Right_Arrow(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:741][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Right_BTN.Right_BTN(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:742][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:742][993]LogInterchangeEngine: [대기중] 임포트 중 -  (10)
+[2024.05.30-02.26.36:742][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Settings.png]
+[2024.05.30-02.26.36:742][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:742][993]LogInterchangeEngine: [대기중] 임포트 중 -  (9)
+[2024.05.30-02.26.36:742][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Shop.png]
+[2024.05.30-02.26.36:742][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:742][993]LogInterchangeEngine: [대기중] 임포트 중 -  (8)
+[2024.05.30-02.26.36:743][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Sound.png]
+[2024.05.30-02.26.36:745][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:746][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:747][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:749][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Settings.Settings(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:751][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Shop.Shop(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:754][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Sound.Sound(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:754][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:754][993]LogInterchangeEngine: [대기중] 임포트 중 -  (7)
+[2024.05.30-02.26.36:754][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Star.png]
+[2024.05.30-02.26.36:755][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:755][993]LogInterchangeEngine: [대기중] 임포트 중 -  (6)
+[2024.05.30-02.26.36:755][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Up Arrow.png]
+[2024.05.30-02.26.36:755][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:755][993]LogInterchangeEngine: [대기중] 임포트 중 -  (5)
+[2024.05.30-02.26.36:755][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/Up BTN.png]
+[2024.05.30-02.26.36:758][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:760][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:761][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:762][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Star.Star(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:765][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Up_Arrow.Up_Arrow(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:767][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/Up_BTN.Up_BTN(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:768][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:768][993]LogInterchangeEngine: [대기중] 임포트 중 -  (4)
+[2024.05.30-02.26.36:768][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/World.png]
+[2024.05.30-02.26.36:768][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:768][993]LogInterchangeEngine: [대기중] 임포트 중 -  (3)
+[2024.05.30-02.26.36:768][993]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/황보민/OneDrive/바탕 화면/DarkUI/X.png]
+[2024.05.30-02.26.36:769][993]LogInterchangeEngine: [대기중] 임포트 중 -  (2)
+[2024.05.30-02.26.36:771][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:772][993]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.30-02.26.36:774][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/World.World(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:775][993]LogTexture: Display: 텍스처 빌드 중: /Game/Programming/DarkUI/X.X(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 2.645795MB), 인코딩 속도: Fast
+[2024.05.30-02.26.36:775][993]LogInterchangeEngine: [대기중] 임포트 중 -  (1)
+[2024.05.30-02.26.37:299][993]LogInterchangeEngine: [성공] 임포트 완료
+[2024.05.30-02.26.37:418][994]LogInterchangeEngine: [성공] 임포트 완료
+[2024.05.30-02.26.38:569][ 42]LogViewport: Scene viewport resized to 702x444, mode Windowed.
+[2024.05.30-02.26.41:006][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.05.30-02.26.43:053][184]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.05.30-02.26.43:097][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.26.43:168][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/128
+[2024.05.30-02.26.43:168][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/128656E651041540FB10E104EBCC72377E7.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/128.uasset'
+[2024.05.30-02.26.43:179][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/128_Light
+[2024.05.30-02.26.43:179][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/128_Light40DD9E364E27D1DE28E57CB9ED9B414D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/128_Light.uasset'
+[2024.05.30-02.26.43:190][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/128_Light_2
+[2024.05.30-02.26.43:190][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/128_Light_298441290438ACA55541E1689269C9A57.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/128_Light_2.uasset'
+[2024.05.30-02.26.43:202][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/32
+[2024.05.30-02.26.43:202][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/32440EB13748E3B4B03977DB83DD252C50.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/32.uasset'
+[2024.05.30-02.26.43:214][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/32_Light
+[2024.05.30-02.26.43:215][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/32_Light852C76464AC05B60F7FCBBAB08EE4FCC.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/32_Light.uasset'
+[2024.05.30-02.26.43:227][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/32_Light_2
+[2024.05.30-02.26.43:227][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/32_Light_2E6265CBB4623215BE85778B05E159D55.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/32_Light_2.uasset'
+[2024.05.30-02.26.43:237][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/64
+[2024.05.30-02.26.43:237][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/64ABB6BACD4B21197DE575FC8BA064B3F4.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/64.uasset'
+[2024.05.30-02.26.43:249][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/64_Light
+[2024.05.30-02.26.43:249][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/64_Light36E1E40B41231578614239B4FB5E1B03.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/64_Light.uasset'
+[2024.05.30-02.26.43:262][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/64_Light_2
+[2024.05.30-02.26.43:262][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/64_Light_29A1DA940456C0D9D82A923AC89A1D810.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/64_Light_2.uasset'
+[2024.05.30-02.26.43:270][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/A
+[2024.05.30-02.26.43:271][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/AB8F5707842DF5A1FFC375E93C474B8EE.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/A.uasset'
+[2024.05.30-02.26.43:279][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Add_Icon
+[2024.05.30-02.26.43:279][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Add_Icon1CA2158645C6758D2B9E208B88F7C53E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Add_Icon.uasset'
+[2024.05.30-02.26.43:287][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/B
+[2024.05.30-02.26.43:287][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/B52A084F3458DDE2B431E308A2E86824E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/B.uasset'
+[2024.05.30-02.26.43:296][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Bell
+[2024.05.30-02.26.43:296][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Bell737EF90B473885883FC7FAAB29246B0F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Bell.uasset'
+[2024.05.30-02.26.43:307][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/BTN_A1
+[2024.05.30-02.26.43:307][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_A1F0F4E27A4EB86BB360465CBC295A49FF.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/BTN_A1.uasset'
+[2024.05.30-02.26.43:316][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/BTN_A2
+[2024.05.30-02.26.43:316][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_A248F663D3455D5C4C1CF681A555DF4F6B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/BTN_A2.uasset'
+[2024.05.30-02.26.43:324][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/BTN_A3
+[2024.05.30-02.26.43:325][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_A339883FC44B8909EEB5311780DD8CC666.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/BTN_A3.uasset'
+[2024.05.30-02.26.43:333][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/BTN_Line_4PX_Large
+[2024.05.30-02.26.43:333][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_Line_4PX_Large53B6538C494AD4BCA65377AD29355F20.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/BTN_Line_4PX_Large.uasset'
+[2024.05.30-02.26.43:341][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/BTN_Line_4PX_Medium
+[2024.05.30-02.26.43:341][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_Line_4PX_Medium0282830549317701CD7BCFAE1FB515BD.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/BTN_Line_4PX_Medium.uasset'
+[2024.05.30-02.26.43:349][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/BTN_Line_4PX_Small
+[2024.05.30-02.26.43:349][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_Line_4PX_Small471B1BF8411D30B624FBB9B92A2BFBA4.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/BTN_Line_4PX_Small.uasset'
+[2024.05.30-02.26.43:359][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Button_Large_A
+[2024.05.30-02.26.43:359][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Button_Large_A4EFF002C4345D7DEF8C798BFA1E5C7A3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Button_Large_A.uasset'
+[2024.05.30-02.26.43:369][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Button_Medium_A
+[2024.05.30-02.26.43:369][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Button_Medium_A38E4768C4B591D04700CBE9B27020BD3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Button_Medium_A.uasset'
+[2024.05.30-02.26.43:377][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Button_Small_A
+[2024.05.30-02.26.43:377][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Button_Small_A0367D2624A0929CF80D0228D3A6B8D7C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Button_Small_A.uasset'
+[2024.05.30-02.26.43:386][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/ButtonLargeRound
+[2024.05.30-02.26.43:386][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/ButtonLargeRound337CA3A244EFD66ADE6E9594D4F4A631.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/ButtonLargeRound.uasset'
+[2024.05.30-02.26.43:394][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/ButtonMediumRound
+[2024.05.30-02.26.43:394][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/ButtonMediumRound12F771694DAECEEBD15657B820BF39A8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/ButtonMediumRound.uasset'
+[2024.05.30-02.26.43:403][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/ButtonSmallRound
+[2024.05.30-02.26.43:403][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/ButtonSmallRoundE98AFCE5408666DC7AD446B626BD582D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/ButtonSmallRound.uasset'
+[2024.05.30-02.26.43:414][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/C
+[2024.05.30-02.26.43:415][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CEB40C6E44FDF12353EBC829FBE31DC36.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/C.uasset'
+[2024.05.30-02.26.43:425][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/CIRCLE2PXLAR
+[2024.05.30-02.26.43:425][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE2PXLAR9FD05EB94784C130A3716BB64A9BE9C3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/CIRCLE2PXLAR.uasset'
+[2024.05.30-02.26.43:434][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/CIRCLE2PXMED
+[2024.05.30-02.26.43:434][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE2PXMEDCC6E64FE49F71D27FC7B8CB508593D95.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/CIRCLE2PXMED.uasset'
+[2024.05.30-02.26.43:442][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/CIRCLE2PXSMALL
+[2024.05.30-02.26.43:442][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE2PXSMALL9EFFDE2E4C73496E214B25996EE099AB.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/CIRCLE2PXSMALL.uasset'
+[2024.05.30-02.26.43:450][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/CIRCLE4PXLAR
+[2024.05.30-02.26.43:450][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE4PXLAR43106E2143F456AA458BD48105DFC3F2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/CIRCLE4PXLAR.uasset'
+[2024.05.30-02.26.43:459][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/CIRCLE4PXMED
+[2024.05.30-02.26.43:459][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE4PXMED8DFDF629457B463511C57EB217173A20.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/CIRCLE4PXMED.uasset'
+[2024.05.30-02.26.43:468][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/CIRCLE4PXSMA
+[2024.05.30-02.26.43:468][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE4PXSMAC4AC27DA47D6362CE8991F9A358C6276.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/CIRCLE4PXSMA.uasset'
+[2024.05.30-02.26.43:476][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Close_BTN
+[2024.05.30-02.26.43:476][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Close_BTN73C2612E4C49659F218D58BEBD0E6EFB.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Close_BTN.uasset'
+[2024.05.30-02.26.43:485][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Coin
+[2024.05.30-02.26.43:485][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CoinAF528AF848976B6709E3A4AEB9159C8D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Coin.uasset'
+[2024.05.30-02.26.43:495][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/D
+[2024.05.30-02.26.43:495][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/D0F2AB2544A73EDE4C37FD683A3971E24.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/D.uasset'
+[2024.05.30-02.26.43:504][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Divider
+[2024.05.30-02.26.43:504][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/DividerB9C34C844EF8D6CAD1D7D1963EECD1D8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Divider.uasset'
+[2024.05.30-02.26.43:515][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Down_Arrow
+[2024.05.30-02.26.43:516][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Down_Arrow7D9AAA3D4549B3DD6267D48DC303FB58.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Down_Arrow.uasset'
+[2024.05.30-02.26.43:527][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Down_BTN
+[2024.05.30-02.26.43:527][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Down_BTN7F19DC4D4ABC749C24C8D8BBFEC09A91.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Down_BTN.uasset'
+[2024.05.30-02.26.43:538][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/E
+[2024.05.30-02.26.43:538][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/EF7A95EFA423A3831057B6AABDCF8AFBB.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/E.uasset'
+[2024.05.30-02.26.43:548][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/F
+[2024.05.30-02.26.43:548][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/F8552EFDD4A2C4C2E27C5BE8402DF24EA.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/F.uasset'
+[2024.05.30-02.26.43:562][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Facebook
+[2024.05.30-02.26.43:563][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Facebook2C9DE6F948D9F5CAF2D6C690CE5301E8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Facebook.uasset'
+[2024.05.30-02.26.43:575][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Facebook_2
+[2024.05.30-02.26.43:575][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Facebook_26C7AC30444CE0A44B66A4CA296C13D06.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Facebook_2.uasset'
+[2024.05.30-02.26.43:586][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Gem
+[2024.05.30-02.26.43:586][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Gem59B7AB1A4EF6CFEFD89B8D8FBF3B28F5.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Gem.uasset'
+[2024.05.30-02.26.43:594][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Heart
+[2024.05.30-02.26.43:595][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Heart8AED086449F3C0ECF9AB14BB6EAAEFA8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Heart.uasset'
+[2024.05.30-02.26.43:604][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Icon_Sets
+[2024.05.30-02.26.43:604][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Icon_Sets202E64FD4C6994DA27B4D5BCE390D89D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Icon_Sets.uasset'
+[2024.05.30-02.26.43:617][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Info
+[2024.05.30-02.26.43:617][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Info9FB35625452FDB7507D6B8A22F5BAF2C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Info.uasset'
+[2024.05.30-02.26.43:628][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/InputField
+[2024.05.30-02.26.43:628][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/InputField3B98CD154154416CE61D3D81AFAE6C94.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/InputField.uasset'
+[2024.05.30-02.26.43:639][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Inventory
+[2024.05.30-02.26.43:639][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/InventoryA029096748802E7F9E8E88A0DD15EB6D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Inventory.uasset'
+[2024.05.30-02.26.43:650][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Left_Arrow
+[2024.05.30-02.26.43:650][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Left_ArrowEA00FA6C42A38A6105C5189A4BC62CF2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Left_Arrow.uasset'
+[2024.05.30-02.26.43:662][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Left_BTN
+[2024.05.30-02.26.43:662][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Left_BTN3DCDCB084BDF3E4862813F8EB814B816.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Left_BTN.uasset'
+[2024.05.30-02.26.43:673][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Lock
+[2024.05.30-02.26.43:673][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Lock4363B5884DC8F290839859A28DA8B031.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Lock.uasset'
+[2024.05.30-02.26.43:684][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Messages
+[2024.05.30-02.26.43:684][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MessagesEA3AFF6D4A8933B9342FC2864856239E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Messages.uasset'
+[2024.05.30-02.26.43:695][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Missions
+[2024.05.30-02.26.43:696][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Missions1A40E57E48EEAA1E587A6BACEEE00517.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Missions.uasset'
+[2024.05.30-02.26.43:708][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Music
+[2024.05.30-02.26.43:708][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Music4C36D265487786CF9DE301B6E1D10E98.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Music.uasset'
+[2024.05.30-02.26.43:719][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Ranks
+[2024.05.30-02.26.43:719][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Ranks27409F5C4E731C08612BB1A8DDDF8D82.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Ranks.uasset'
+[2024.05.30-02.26.43:730][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Right_Arrow
+[2024.05.30-02.26.43:730][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Right_Arrow0BB5F58B4290BE18879B0FBD32CB0C90.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Right_Arrow.uasset'
+[2024.05.30-02.26.43:741][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Right_BTN
+[2024.05.30-02.26.43:741][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Right_BTNC51C184B4CD1AD473F5E0CB6D655B178.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Right_BTN.uasset'
+[2024.05.30-02.26.43:753][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Settings
+[2024.05.30-02.26.43:753][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Settings101055E7486C935D33DD80AF59A40F2F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Settings.uasset'
+[2024.05.30-02.26.43:767][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Shop
+[2024.05.30-02.26.43:767][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Shop9968FB834C25F004DD275E8B14260DD6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Shop.uasset'
+[2024.05.30-02.26.43:776][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Sound
+[2024.05.30-02.26.43:777][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Sound651BA8F34306CAD89CBC4BA488529CAC.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Sound.uasset'
+[2024.05.30-02.26.43:786][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Star
+[2024.05.30-02.26.43:787][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Star8CF5FBAD4EC9EA16862006AB5C74175A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Star.uasset'
+[2024.05.30-02.26.43:798][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Up_Arrow
+[2024.05.30-02.26.43:798][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Up_Arrow33BC40BB4038CD0736B85A8B86EE5D6B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Up_Arrow.uasset'
+[2024.05.30-02.26.43:809][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/Up_BTN
+[2024.05.30-02.26.43:809][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Up_BTND82DDF2D4FADD7107C535AA8D46B2D33.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/Up_BTN.uasset'
+[2024.05.30-02.26.43:819][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/World
+[2024.05.30-02.26.43:820][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WorldB32C473044C8F4D50027B389DBB9487B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/World.uasset'
+[2024.05.30-02.26.43:831][184]LogSavePackage: Moving output files for package: /Game/Programming/DarkUI/X
+[2024.05.30-02.26.43:831][184]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/XE9E9F32F4E53A4F1D75D27BB77DF7909.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/DarkUI/X.uasset'
+[2024.05.30-02.26.43:851][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 753 ms (total: 2.80 sec)
+[2024.05.30-02.26.43:881][184]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/128.128 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/128_Light.128_Light 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/128_Light_2.128_Light_2 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/32.32 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/32_Light.32_Light 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/32_Light_2.32_Light_2 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/64.64 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/64_Light.64_Light 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/64_Light_2.64_Light_2 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/A.A 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Add_Icon.Add_Icon 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/B.B 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Bell.Bell 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/BTN_A1.BTN_A1 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/BTN_A2.BTN_A2 유효성 검사 중
+[2024.05.30-02.26.43:881][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/BTN_A3.BTN_A3 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/BTN_Line_4PX_Large.BTN_Line_4PX_Large 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/BTN_Line_4PX_Medium.BTN_Line_4PX_Medium 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/BTN_Line_4PX_Small.BTN_Line_4PX_Small 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Button_Large_A.Button_Large_A 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Button_Medium_A.Button_Medium_A 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Button_Small_A.Button_Small_A 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/ButtonLargeRound.ButtonLargeRound 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/ButtonMediumRound.ButtonMediumRound 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/ButtonSmallRound.ButtonSmallRound 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/C.C 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/CIRCLE2PXLAR.CIRCLE2PXLAR 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/CIRCLE2PXMED.CIRCLE2PXMED 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/CIRCLE2PXSMALL.CIRCLE2PXSMALL 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/CIRCLE4PXLAR.CIRCLE4PXLAR 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/CIRCLE4PXMED.CIRCLE4PXMED 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/CIRCLE4PXSMA.CIRCLE4PXSMA 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Close_BTN.Close_BTN 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Coin.Coin 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/D.D 유효성 검사 중
+[2024.05.30-02.26.43:882][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Divider.Divider 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Down_Arrow.Down_Arrow 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Down_BTN.Down_BTN 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/E.E 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/F.F 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Facebook.Facebook 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Facebook_2.Facebook_2 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Gem.Gem 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Heart.Heart 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Icon_Sets.Icon_Sets 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Info.Info 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/InputField.InputField 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Inventory.Inventory 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Left_Arrow.Left_Arrow 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Left_BTN.Left_BTN 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Lock.Lock 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Messages.Messages 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Missions.Missions 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Music.Music 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Ranks.Ranks 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Right_Arrow.Right_Arrow 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Right_BTN.Right_BTN 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Settings.Settings 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Shop.Shop 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Sound.Sound 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Star.Star 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Up_Arrow.Up_Arrow 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/Up_BTN.Up_BTN 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/World.World 유효성 검사 중
+[2024.05.30-02.26.43:883][184]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/DarkUI/X.X 유효성 검사 중
+[2024.05.30-02.26.47:282][368]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Programming/DarkUI/CIRCLE2PXLAR.CIRCLE2PXLAR
+[2024.05.30-02.26.47:461][368]LogViewport: Scene viewport resized to 943x842, mode Windowed.
+[2024.05.30-02.26.57:103][100]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Programming/DarkUI/32.32
+[2024.05.30-02.26.57:228][100]LogViewport: Scene viewport resized to 943x842, mode Windowed.
+[2024.05.30-02.27.01:743][506]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Programming/DarkUI/64.64
+[2024.05.30-02.27.01:859][506]LogViewport: Scene viewport resized to 943x842, mode Windowed.
+[2024.05.30-02.27.11:160][158]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Programming/DarkUI/BTN_Line_4PX_Large.BTN_Line_4PX_Large
+[2024.05.30-02.27.11:279][158]LogViewport: Scene viewport resized to 943x842, mode Windowed.
+[2024.05.30-02.27.20:331][803]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Programming/DarkUI/C.C
+[2024.05.30-02.27.20:447][803]LogViewport: Scene viewport resized to 943x842, mode Windowed.
