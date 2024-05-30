@@ -1282,3 +1282,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-04.38.56:637][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 402 ms
 [2024.05.30-04.38.56:641][870]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
 [2024.05.30-04.38.56:641][870]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-04.39.36:711][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Outline/AC_InteractionTrace.AC_InteractionTrace
+[2024.05.30-04.39.36:712][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-04.39.36:712][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-04.39.36:803][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Outline/BI_Interaction.BI_Interaction
+[2024.05.30-04.39.36:804][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-04.39.36:804][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-04.39.36:878][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Outline/BP_interactionArea.BP_interactionArea
+[2024.05.30-04.39.36:878][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-04.39.36:878][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-04.39.37:010][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Outline/BP_TestInteractionActor.BP_TestInteractionActor
+[2024.05.30-04.39.37:011][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-04.39.37:011][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-04.39.37:187][154]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI
+[2024.05.30-04.39.37:187][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-04.39.37:187][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-04.39.37:197][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-04.39.37:197][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-04.39.37:210][154]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2024.05.30-04.39.37:588][154]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2024.05.30-04.39.37:590][154]LogSlate: Took 0.001432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
