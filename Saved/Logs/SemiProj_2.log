@@ -1910,3 +1910,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-08.50.20:908][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.64 sec)
 [2024.05.30-08.50.20:911][ 78]AssetCheck: New page: 에셋 저장:  WB_Option
 [2024.05.30-08.50.20:911][ 78]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_Option.WB_Option 유효성 검사 중
+[2024.05.30-08.50.36:568][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-08.50.36:664][388]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_Option
+[2024.05.30-08.50.36:666][388]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_Option38D3DA9A44C5DBA17D04D2B4F3446B40.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_Option.uasset'
+[2024.05.30-08.50.36:676][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 5.75 sec)
+[2024.05.30-08.50.36:680][388]AssetCheck: New page: 에셋 저장:  WB_Option
+[2024.05.30-08.50.36:680][388]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_Option.WB_Option 유효성 검사 중
+[2024.05.30-08.50.36:879][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-08.50.36:979][409]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_Option
+[2024.05.30-08.50.36:980][409]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_Option2C46CD694D1F687F668D709F34097248.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_Option.uasset'
+[2024.05.30-08.50.36:988][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 5.86 sec)
+[2024.05.30-08.50.36:991][409]AssetCheck: New page: 에셋 저장:  WB_Option
+[2024.05.30-08.50.36:991][409]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_Option.WB_Option 유효성 검사 중
