@@ -2834,3 +2834,318 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-02.27.11:279][158]LogViewport: Scene viewport resized to 943x842, mode Windowed.
 [2024.05.30-02.27.20:331][803]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Programming/DarkUI/C.C
 [2024.05.30-02.27.20:447][803]LogViewport: Scene viewport resized to 943x842, mode Windowed.
+[2024.05.30-02.29.31:578][146]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.05.30-02.29.31:592][146]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.05.30-02.29.31:611][147]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.05.30-02.29.33:548][282]LogContentBrowser: Attempting asset rename: 새 폴더 -> UI
+[2024.05.30-02.29.33:549][282]LogContentBrowser: End creating deferred item 새 폴더
+[2024.05.30-02.29.35:930][445]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Base' 브러시를 찾을 수 없습니다.'
+[2024.05.30-02.29.35:930][445]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Mask' 브러시를 찾을 수 없습니다.'
+[2024.05.30-02.29.38:397][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.29.38:459][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/128_Light
+[2024.05.30-02.29.38:459][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/128_Light29DFD74541999779693CB69DA1C02B7F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/128_Light.uasset'
+[2024.05.30-02.29.38:471][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/128
+[2024.05.30-02.29.38:471][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/12858BCC60A44D6077A14455CA29DD83E5B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/128.uasset'
+[2024.05.30-02.29.38:486][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/128_Light_2
+[2024.05.30-02.29.38:486][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/128_Light_203DEF9B441C1FEE3F86BD88BC9AA7EA2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/128_Light_2.uasset'
+[2024.05.30-02.29.38:495][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/32_Light_2
+[2024.05.30-02.29.38:495][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/32_Light_27927BDF24928C78E1FA0C5971D7F57FE.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/32_Light_2.uasset'
+[2024.05.30-02.29.38:503][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/32_Light
+[2024.05.30-02.29.38:504][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/32_LightB91A2D924AC62DF4F2694688D9392787.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/32_Light.uasset'
+[2024.05.30-02.29.38:515][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/32
+[2024.05.30-02.29.38:516][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/3201AE96D44045405781BECA84415FB4E3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/32.uasset'
+[2024.05.30-02.29.38:525][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/64_Light_2
+[2024.05.30-02.29.38:525][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/64_Light_227B7698B4DA74348C9C4A38851535930.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/64_Light_2.uasset'
+[2024.05.30-02.29.38:533][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/64_Light
+[2024.05.30-02.29.38:533][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/64_LightD05602D34133437D2B0D32ACA7B7345D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/64_Light.uasset'
+[2024.05.30-02.29.38:544][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/64
+[2024.05.30-02.29.38:544][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/64934C97E64435CE989A84F3B12CB99DD0.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/64.uasset'
+[2024.05.30-02.29.38:552][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/A
+[2024.05.30-02.29.38:552][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/A17529F4A4A31C7CFCF81A18DD2C4E05E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/A.uasset'
+[2024.05.30-02.29.38:560][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Add_Icon
+[2024.05.30-02.29.38:560][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Add_Icon359DB7F744A271FF871B5FB24DF1594E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Add_Icon.uasset'
+[2024.05.30-02.29.38:568][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/B
+[2024.05.30-02.29.38:568][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/B11D0DE9F4236FA84AA972F84FCF1C740.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/B.uasset'
+[2024.05.30-02.29.38:577][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Bell
+[2024.05.30-02.29.38:577][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Bell7C0127544B4F993C96F8AAB5FFD04DA6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Bell.uasset'
+[2024.05.30-02.29.38:585][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/BTN_A1
+[2024.05.30-02.29.38:585][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_A184C3F9ED4C74C2F6E13496B7E2673BD9.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/BTN_A1.uasset'
+[2024.05.30-02.29.38:592][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/BTN_A2
+[2024.05.30-02.29.38:592][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_A26EA26F9F41A0223BAFD95D91912AB841.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/BTN_A2.uasset'
+[2024.05.30-02.29.38:600][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/BTN_A3
+[2024.05.30-02.29.38:600][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_A3B39E053C4D9620A46FBCF49DAC453EEB.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/BTN_A3.uasset'
+[2024.05.30-02.29.38:612][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/BTN_Line_4PX_Large
+[2024.05.30-02.29.38:612][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_Line_4PX_Large48EB45B94E72CE816CD39FB47C882611.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/BTN_Line_4PX_Large.uasset'
+[2024.05.30-02.29.38:621][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/BTN_Line_4PX_Medium
+[2024.05.30-02.29.38:621][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_Line_4PX_Medium2CF7E144480CFDAA4A1DDEA1C67FA541.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/BTN_Line_4PX_Medium.uasset'
+[2024.05.30-02.29.38:629][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/BTN_Line_4PX_Small
+[2024.05.30-02.29.38:629][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BTN_Line_4PX_SmallA40DD59F4712E5BDCD124EAAD96E836D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/BTN_Line_4PX_Small.uasset'
+[2024.05.30-02.29.38:637][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/ButtonLargeRound
+[2024.05.30-02.29.38:637][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/ButtonLargeRound1D4EBBCC43F8CB5BB8463A9AD48D57F4.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/ButtonLargeRound.uasset'
+[2024.05.30-02.29.38:645][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/ButtonMediumRound
+[2024.05.30-02.29.38:645][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/ButtonMediumRound6DCA90F442F21A48B487C58F9FDD3B70.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/ButtonMediumRound.uasset'
+[2024.05.30-02.29.38:657][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/ButtonSmallRound
+[2024.05.30-02.29.38:657][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/ButtonSmallRound314FEBAF41A9198DC11AAEBF68C4D76F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/ButtonSmallRound.uasset'
+[2024.05.30-02.29.38:666][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Button_Large_A
+[2024.05.30-02.29.38:666][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Button_Large_AE4DB13334FA22A3F7A344DA5827B291A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Button_Large_A.uasset'
+[2024.05.30-02.29.38:676][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Button_Medium_A
+[2024.05.30-02.29.38:676][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Button_Medium_A6F005EE64FA2509ADDC87EA2E99C8723.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Button_Medium_A.uasset'
+[2024.05.30-02.29.38:684][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Button_Small_A
+[2024.05.30-02.29.38:684][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Button_Small_AAC8CE3C1435E56942100E3BE4851AE40.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Button_Small_A.uasset'
+[2024.05.30-02.29.38:695][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/C
+[2024.05.30-02.29.38:695][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CE5E2215B428F0A2DCE8530A06325CEF2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/C.uasset'
+[2024.05.30-02.29.38:706][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/CIRCLE2PXLAR
+[2024.05.30-02.29.38:707][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE2PXLAREECBADC74A0B063FF0388BB74B249A14.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/CIRCLE2PXLAR.uasset'
+[2024.05.30-02.29.38:715][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/CIRCLE2PXMED
+[2024.05.30-02.29.38:715][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE2PXMEDEE9980514FD131B34FEBB3A34D02EAAF.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/CIRCLE2PXMED.uasset'
+[2024.05.30-02.29.38:724][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/CIRCLE2PXSMALL
+[2024.05.30-02.29.38:724][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE2PXSMALL7EED879C47CDDB4B42D339AE9A36D9BD.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/CIRCLE2PXSMALL.uasset'
+[2024.05.30-02.29.38:734][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/CIRCLE4PXLAR
+[2024.05.30-02.29.38:734][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE4PXLARE5F120D84B2F345646F152844E7D2AF3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/CIRCLE4PXLAR.uasset'
+[2024.05.30-02.29.38:742][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/CIRCLE4PXMED
+[2024.05.30-02.29.38:742][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE4PXMED0AB0D4EB4B750540DB622DAF0A42C7BC.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/CIRCLE4PXMED.uasset'
+[2024.05.30-02.29.38:750][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/CIRCLE4PXSMA
+[2024.05.30-02.29.38:750][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CIRCLE4PXSMAB259304B4EEF86566F9221B04D1EE070.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/CIRCLE4PXSMA.uasset'
+[2024.05.30-02.29.38:759][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Close_BTN
+[2024.05.30-02.29.38:759][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Close_BTN907AAA3747E38E711C6A778E015A0A56.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Close_BTN.uasset'
+[2024.05.30-02.29.38:768][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Coin
+[2024.05.30-02.29.38:768][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/CoinD9F0AD4E4330636C2209DA933B63C11A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Coin.uasset'
+[2024.05.30-02.29.38:776][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/D
+[2024.05.30-02.29.38:776][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/D2CFED3114994BCC2ADB177BB555ECA02.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/D.uasset'
+[2024.05.30-02.29.38:784][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Divider
+[2024.05.30-02.29.38:784][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Divider89E2D6174ABFB27E6A0C8B85E97AD55A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Divider.uasset'
+[2024.05.30-02.29.38:791][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Down_Arrow
+[2024.05.30-02.29.38:791][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Down_Arrow76A3B63A415BFCA1095858ADCE4EC57B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Down_Arrow.uasset'
+[2024.05.30-02.29.38:799][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Down_BTN
+[2024.05.30-02.29.38:799][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Down_BTN5A377CE24EE54BC6B105B4AD57FAABFF.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Down_BTN.uasset'
+[2024.05.30-02.29.38:808][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/E
+[2024.05.30-02.29.38:808][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/EF8FCDD134DC4117744170C9802BEDDA2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/E.uasset'
+[2024.05.30-02.29.38:817][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/F
+[2024.05.30-02.29.38:817][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/F3634A31440CA6E6AC9B226AF2D995E31.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/F.uasset'
+[2024.05.30-02.29.38:825][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Facebook_2
+[2024.05.30-02.29.38:825][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Facebook_2FF4025D04485F7CB797117AE9168985A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Facebook_2.uasset'
+[2024.05.30-02.29.38:832][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Facebook
+[2024.05.30-02.29.38:833][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/FacebookAA06B3B149EECA21F82C25B7AF9DEEE4.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Facebook.uasset'
+[2024.05.30-02.29.38:840][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Gem
+[2024.05.30-02.29.38:840][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/GemA115DA47498E038BE34156BFB326623F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Gem.uasset'
+[2024.05.30-02.29.38:848][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Heart
+[2024.05.30-02.29.38:848][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Heart74BBBB814AEAE858796A3BA39F04FC6C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Heart.uasset'
+[2024.05.30-02.29.38:859][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Icon_Sets
+[2024.05.30-02.29.38:859][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Icon_Sets4E3E620C4D7604C85E344693ACC71566.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Icon_Sets.uasset'
+[2024.05.30-02.29.38:871][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Info
+[2024.05.30-02.29.38:872][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/InfoFDF8D14043CBCDD379192E8C522DD9A1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Info.uasset'
+[2024.05.30-02.29.38:879][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/InputField
+[2024.05.30-02.29.38:880][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/InputField0973C0124565CF4416AE0484AA499203.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/InputField.uasset'
+[2024.05.30-02.29.38:886][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Inventory
+[2024.05.30-02.29.38:886][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/InventoryC94970F04B47906399AFEBABCAB9996D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Inventory.uasset'
+[2024.05.30-02.29.38:894][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Left_Arrow
+[2024.05.30-02.29.38:894][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Left_ArrowF058D3B24F953D61D63D239887309925.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Left_Arrow.uasset'
+[2024.05.30-02.29.38:913][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Left_BTN
+[2024.05.30-02.29.38:913][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Left_BTN26AEE6BE400854AA230739BEFE68AA5B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Left_BTN.uasset'
+[2024.05.30-02.29.38:921][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Lock
+[2024.05.30-02.29.38:921][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Lock080424D949C8049E7E34B68045B40CDE.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Lock.uasset'
+[2024.05.30-02.29.38:931][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Missions
+[2024.05.30-02.29.38:931][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MissionsAACB16D349D5C39E0EC296A09CFC6086.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Missions.uasset'
+[2024.05.30-02.29.38:938][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Messages
+[2024.05.30-02.29.38:939][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Messages2FE9B9584CD6D793C142FE8CFBED0B0D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Messages.uasset'
+[2024.05.30-02.29.38:946][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Music
+[2024.05.30-02.29.38:946][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Music324F7E5043EFF09B607633BA83067897.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Music.uasset'
+[2024.05.30-02.29.38:954][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Ranks
+[2024.05.30-02.29.38:954][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Ranks01D70F23428A08890ACC609F297979E1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Ranks.uasset'
+[2024.05.30-02.29.38:963][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Right_Arrow
+[2024.05.30-02.29.38:963][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Right_ArrowD6CEAA9C42F5E766A40EAC9D0CFBB1AD.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Right_Arrow.uasset'
+[2024.05.30-02.29.38:972][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Right_BTN
+[2024.05.30-02.29.38:972][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Right_BTN36DA3F4A403F97B755FA8B998A0A228F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Right_BTN.uasset'
+[2024.05.30-02.29.38:981][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Settings
+[2024.05.30-02.29.38:981][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Settings428976D94F8E75F4D51B66A018DD463A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Settings.uasset'
+[2024.05.30-02.29.38:989][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Shop
+[2024.05.30-02.29.38:989][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/ShopDDC61FBC467CC09CAF9954A713AA99F3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Shop.uasset'
+[2024.05.30-02.29.38:997][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Sound
+[2024.05.30-02.29.38:997][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/SoundDD703EFA4272C8E9F4DBBEB09F9E48B6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Sound.uasset'
+[2024.05.30-02.29.39:004][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Star
+[2024.05.30-02.29.39:004][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/StarF57ACDDE45FAF493A92DC8B7C2B047A6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Star.uasset'
+[2024.05.30-02.29.39:012][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Up_Arrow
+[2024.05.30-02.29.39:012][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Up_ArrowD06392A941BD4FFDBEEA1882A52D2567.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Up_Arrow.uasset'
+[2024.05.30-02.29.39:020][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/Up_BTN
+[2024.05.30-02.29.39:020][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Up_BTNB031F6384F9175F0B7530DBF5B07E6C0.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/Up_BTN.uasset'
+[2024.05.30-02.29.39:027][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/World
+[2024.05.30-02.29.39:027][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WorldFFE651FA4F8519712F4C2C9A955147B1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/World.uasset'
+[2024.05.30-02.29.39:034][581]LogSavePackage: Moving output files for package: /Game/Programming/UI/DarkUI/X
+[2024.05.30-02.29.39:034][581]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/X991F9D9D4CE7C5F8203C049E7549DDCA.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/DarkUI/X.uasset'
+[2024.05.30-02.29.39:053][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 656 ms (total: 3.46 sec)
+[2024.05.30-02.29.39:675][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.30-02.29.39:698][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.05.30-02.29.39:717][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.30-02.29.39:849][581]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/128_Light.128_Light 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/128.128 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/128_Light_2.128_Light_2 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/32_Light_2.32_Light_2 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/32_Light.32_Light 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/32.32 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/64_Light_2.64_Light_2 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/64_Light.64_Light 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/64.64 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/A.A 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Add_Icon.Add_Icon 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/B.B 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Bell.Bell 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/BTN_A1.BTN_A1 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/BTN_A2.BTN_A2 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/BTN_A3.BTN_A3 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/BTN_Line_4PX_Large.BTN_Line_4PX_Large 유효성 검사 중
+[2024.05.30-02.29.39:849][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/BTN_Line_4PX_Medium.BTN_Line_4PX_Medium 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/BTN_Line_4PX_Small.BTN_Line_4PX_Small 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/ButtonLargeRound.ButtonLargeRound 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/ButtonMediumRound.ButtonMediumRound 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/ButtonSmallRound.ButtonSmallRound 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Button_Large_A.Button_Large_A 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Button_Medium_A.Button_Medium_A 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Button_Small_A.Button_Small_A 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/C.C 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/CIRCLE2PXLAR.CIRCLE2PXLAR 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/CIRCLE2PXMED.CIRCLE2PXMED 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/CIRCLE2PXSMALL.CIRCLE2PXSMALL 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/CIRCLE4PXLAR.CIRCLE4PXLAR 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/CIRCLE4PXMED.CIRCLE4PXMED 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/CIRCLE4PXSMA.CIRCLE4PXSMA 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Close_BTN.Close_BTN 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Coin.Coin 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/D.D 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Divider.Divider 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Down_Arrow.Down_Arrow 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Down_BTN.Down_BTN 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/E.E 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/F.F 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Facebook_2.Facebook_2 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Facebook.Facebook 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Gem.Gem 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Heart.Heart 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Icon_Sets.Icon_Sets 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Info.Info 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/InputField.InputField 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Inventory.Inventory 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Left_Arrow.Left_Arrow 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Left_BTN.Left_BTN 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Lock.Lock 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Missions.Missions 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Messages.Messages 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Music.Music 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Ranks.Ranks 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Right_Arrow.Right_Arrow 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Right_BTN.Right_BTN 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Settings.Settings 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Shop.Shop 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Sound.Sound 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Star.Star 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Up_Arrow.Up_Arrow 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/Up_BTN.Up_BTN 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/World.World 유효성 검사 중
+[2024.05.30-02.29.39:850][581]LogContentValidation: Display: /Script/Engine.Texture2D /Game/Programming/UI/DarkUI/X.X 유효성 검사 중
+[2024.05.30-02.30.44:979][946]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2024.05.30-02.30.44:989][946]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.30-02.30.44:996][946]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.30-02.30.45:020][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.30-02.31.04:477][ 28]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Ingame
+[2024.05.30-02.31.04:490][ 28]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.30-02.31.07:979][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.31.08:060][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.30-02.31.08:081][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.30-02.31.08:098][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.30-02.31.08:107][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 3.58 sec)
+[2024.05.30-02.31.08:809][305]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/WB_Ingame.WB_Ingame
+[2024.05.30-02.31.08:812][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-02.31.08:812][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-02.31.08:820][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-02.31.08:820][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-02.31.08:826][305]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2024.05.30-02.31.09:163][305]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2024.05.30-02.31.09:165][305]LogSlate: Took 0.000771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.30-02.31.17:923][344]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-02.31.17:923][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-02.31.17:932][344]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-02.31.17:932][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-02.31.19:922][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.31.20:008][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.05.30-02.31.20:025][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.30-02.31.20:046][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.30-02.31.20:054][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 3.72 sec)
+[2024.05.30-02.31.22:509][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.30-02.31.23:457][648]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.05.30-02.31.23:467][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.31.23:526][648]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_Ingame
+[2024.05.30-02.31.23:526][648]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_Ingame1758773D4D8849905D611BBF1F2EFD23.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_Ingame.uasset'
+[2024.05.30-02.31.23:537][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 3.79 sec)
+[2024.05.30-02.31.23:539][648]AssetCheck: New page: 에셋 저장:  WB_Ingame
+[2024.05.30-02.31.23:539][648]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_Ingame.WB_Ingame 유효성 검사 중
+[2024.05.30-02.31.24:428][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.31.24:503][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.05.30-02.31.24:520][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.30-02.31.24:538][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.30-02.31.24:546][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.91 sec)
+[2024.05.30-02.40.55:738][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.30-02.40.57:007][681]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-02.40.57:046][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.05.30-02.40.57:069][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.30-02.40.57:088][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.30-02.41.02:557][919]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2024.05.30-02.41.02:580][919]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.30-02.41.02:587][919]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.30-02.41.02:604][920]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.30-02.41.08:132][328]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PauseMenuUI
+[2024.05.30-02.41.08:139][328]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.30-02.41.09:025][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.41.09:087][394]LogSavePackage: Moving output files for package: /Game/Programming/UI/PauseMenuUI
+[2024.05.30-02.41.09:087][394]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PauseMenuUIF837C3984E153424B5C45E9D9655423E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/PauseMenuUI.uasset'
+[2024.05.30-02.41.09:098][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.98 sec)
+[2024.05.30-02.41.09:099][394]AssetCheck: New page: 에셋 저장:  PauseMenuUI
+[2024.05.30-02.41.09:099][394]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI 유효성 검사 중
+[2024.05.30-02.41.10:211][466]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI
+[2024.05.30-02.41.10:212][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-02.41.10:212][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-02.41.10:221][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-02.41.10:221][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-02.44.04:155][423]BlueprintLog: New page: PauseMenuUI 컴파일
+[2024.05.30-02.44.04:192][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.30-02.44.33:925][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.30-02.44.33:927][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.05.30-02.44.33:929][ 88]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Programming/UI/PauseMenuUI] ([2] browsable assets)...
+[2024.05.30-02.44.33:932][ 88]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI]
+[2024.05.30-02.44.33:932][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Programming/UI/PauseMenuUI]
+[2024.05.30-02.44.33:937][ 88]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Programming/UI/PauseMenuUI_Auto2
+[2024.05.30-02.44.33:937][ 88]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PauseMenuUI_Auto28C32C3A4484A6713D65E47AFA5A2EBD9.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Programming/UI/PauseMenuUI_Auto2.uasset'
+[2024.05.30-02.44.33:939][ 88]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.05.30-02.45.49:288][510]BlueprintLog: New page: PauseMenuUI 컴파일
+[2024.05.30-02.45.49:321][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.30-02.45.50:027][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.45.50:082][574]LogSavePackage: Moving output files for package: /Game/Programming/UI/PauseMenuUI
+[2024.05.30-02.45.50:083][574]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PauseMenuUIB206F36A44052F4FEA1310AA7D52AE73.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/PauseMenuUI.uasset'
+[2024.05.30-02.45.50:092][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.04 sec)
+[2024.05.30-02.45.50:096][574]AssetCheck: New page: 에셋 저장:  PauseMenuUI
+[2024.05.30-02.45.50:096][574]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI 유효성 검사 중
+[2024.05.30-02.46.14:023][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.46.14:095][559]LogSavePackage: Moving output files for package: /Game/Programming/UI/PauseMenuUI
+[2024.05.30-02.46.14:101][559]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PauseMenuUIFC647BC540CAF50D75BCC397063E0880.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/PauseMenuUI.uasset'
+[2024.05.30-02.46.14:114][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 4.13 sec)
+[2024.05.30-02.46.14:120][559]AssetCheck: New page: 에셋 저장:  PauseMenuUI
+[2024.05.30-02.46.14:120][559]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI 유효성 검사 중
+[2024.05.30-02.46.14:449][592]BlueprintLog: New page: PauseMenuUI 컴파일
+[2024.05.30-02.46.14:496][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.30-02.47.13:766][253]BlueprintLog: New page: PauseMenuUI 컴파일
+[2024.05.30-02.47.13:798][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.30-02.47.14:963][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.47.15:022][381]LogSavePackage: Moving output files for package: /Game/Programming/UI/PauseMenuUI
+[2024.05.30-02.47.15:024][381]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PauseMenuUIB53A8A184F9D129496AF4A9EE3C99E53.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/PauseMenuUI.uasset'
+[2024.05.30-02.47.15:033][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.20 sec)
+[2024.05.30-02.47.15:037][381]AssetCheck: New page: 에셋 저장:  PauseMenuUI
+[2024.05.30-02.47.15:037][381]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI 유효성 검사 중
+[2024.05.30-02.47.26:842][725]BlueprintLog: New page: PauseMenuUI 컴파일
+[2024.05.30-02.47.26:875][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.30-02.47.27:602][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-02.47.27:667][769]LogSavePackage: Moving output files for package: /Game/Programming/UI/PauseMenuUI
+[2024.05.30-02.47.27:668][769]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PauseMenuUI331287544EC8594E48D087B5EB4F68E0.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/PauseMenuUI.uasset'
+[2024.05.30-02.47.27:679][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 4.28 sec)
+[2024.05.30-02.47.27:682][769]AssetCheck: New page: 에셋 저장:  PauseMenuUI
+[2024.05.30-02.47.27:682][769]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI 유효성 검사 중
+[2024.05.30-03.07.59:367][584]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.290 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18236 files in 20165 folders with total size 1129 MiB.
+[2024.05.30-04.07.59:348][380]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.270 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18236 files in 20165 folders with total size 1129 MiB.
