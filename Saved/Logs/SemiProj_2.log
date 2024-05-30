@@ -1954,3 +1954,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-08.53.41:355][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 6.39 sec)
 [2024.05.30-08.53.41:357][ 28]AssetCheck: New page: 에셋 저장:  WB_Option
 [2024.05.30-08.53.41:357][ 28]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_Option.WB_Option 유효성 검사 중
+[2024.05.30-08.54.07:577][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-08.54.07:663][320]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_Option
+[2024.05.30-08.54.07:664][320]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionF1E3A5A6474865EA5C2AE3B1399A88D1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_Option.uasset'
+[2024.05.30-08.54.07:674][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 6.49 sec)
+[2024.05.30-08.54.07:677][320]AssetCheck: New page: 에셋 저장:  WB_Option
+[2024.05.30-08.54.07:677][320]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_Option.WB_Option 유효성 검사 중
