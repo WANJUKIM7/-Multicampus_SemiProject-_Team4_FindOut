@@ -1329,3 +1329,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-06.45.44:162][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms
 [2024.05.30-06.45.44:165][478]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
 [2024.05.30-06.45.44:165][478]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.49.25:450][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.49.25:548][340]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.49.25:551][340]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter4A64BDBD4734F1D4E4FC13A49093ECAF.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.49.25:562][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 316 ms)
+[2024.05.30-06.49.25:566][340]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.49.25:566][340]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.49.33:317][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-06.49.33:418][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
