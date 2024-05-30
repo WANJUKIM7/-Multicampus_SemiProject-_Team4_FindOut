@@ -1020,3 +1020,44 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-04.28.20:807][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: df720a31f5da2bb2113d9ed054fb68cb59d6de46), compiling. 
 [2024.05.30-04.28.21:957][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2024.05.30-04.30.48:103][  0]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.482 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18417 files in 20347 folders with total size 1132 MiB.
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: SCW 10 Queued Jobs, Finished 10 single jobs
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 0 [Single] Failed: Global/FVirtualShadowMapProjectionCS/16:/Engine/Private/VirtualShadowMaps/VirtualShadowMapProjection.usf|VirtualShadowMapProjection Type 'FVirtualShadowMapProjectionCS' '/Engine/Private/VirtualShadowMaps/VirtualShadowMapProjection.usf' Entry 'VirtualShadowMapProjection' Permutation 16 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 1 [Single] Failed: Global/FReflectionTraceVoxelsCS/46:/Engine/Private/Lumen/LumenReflectionTracing.usf|ReflectionTraceVoxelsCS Type 'FReflectionTraceVoxelsCS' '/Engine/Private/Lumen/LumenReflectionTracing.usf' Entry 'ReflectionTraceVoxelsCS' Permutation 46 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 2 [Single] Failed: Global/FReflectionResolveCS/0:/Engine/Private/Lumen/LumenReflections.usf|ReflectionResolveCS Type 'FReflectionResolveCS' '/Engine/Private/Lumen/LumenReflections.usf' Entry 'ReflectionResolveCS' Permutation 0 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 3 [Single] Failed: Global/FReflectionResolveCS/15:/Engine/Private/Lumen/LumenReflections.usf|ReflectionResolveCS Type 'FReflectionResolveCS' '/Engine/Private/Lumen/LumenReflections.usf' Entry 'ReflectionResolveCS' Permutation 15 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 4 [Single] Failed: Global/FReflectionGenerateRaysCS/3:/Engine/Private/Lumen/LumenReflections.usf|ReflectionGenerateRaysCS Type 'FReflectionGenerateRaysCS' '/Engine/Private/Lumen/LumenReflections.usf' Entry 'ReflectionGenerateRaysCS' Permutation 3 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 5 [Single] Failed: Global/FRadianceCacheTraceFromProbesCS/4:/Engine/Private/Lumen/LumenRadianceCache.usf|TraceFromProbesCS Type 'FRadianceCacheTraceFromProbesCS' '/Engine/Private/Lumen/LumenRadianceCache.usf' Entry 'TraceFromProbesCS' Permutation 4 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 6 [Single] Failed: Global/FCompactCulledObjectsCS/2:/Engine/Private/Lumen/LumenMeshSDFCulling.usf|CompactCulledObjectsCS Type 'FCompactCulledObjectsCS' '/Engine/Private/Lumen/LumenMeshSDFCulling.usf' Entry 'CompactCulledObjectsCS' Permutation 2 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 7 [Single] Failed: Global/FMeshSDFObjectCullPS/18:/Engine/Private/Lumen/LumenMeshSDFCulling.usf|MeshSDFObjectCullPS Type 'FMeshSDFObjectCullPS' '/Engine/Private/Lumen/LumenMeshSDFCulling.usf' Entry 'MeshSDFObjectCullPS' Permutation 18 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 8 [Single] Failed: Global/FMeshSDFObjectCullPS/19:/Engine/Private/Lumen/LumenMeshSDFCulling.usf|MeshSDFObjectCullPS Type 'FMeshSDFObjectCullPS' '/Engine/Private/Lumen/LumenMeshSDFCulling.usf' Entry 'MeshSDFObjectCullPS' Permutation 19 
+[2024.05.30-04.32.15:292][  0]LogShaderCompilers: Error: Job 9 [Single] Failed: Global/FMeshSDFObjectCullPS/23:/Engine/Private/Lumen/LumenMeshSDFCulling.usf|MeshSDFObjectCullPS Type 'FMeshSDFObjectCullPS' '/Engine/Private/Lumen/LumenMeshSDFCulling.usf' Entry 'MeshSDFObjectCullPS' Permutation 23 
+[2024.05.30-04.32.15:322][  0]LogShaderCompilers: Error: ShaderCompileWorker crashed!
+Assertion failed: bDirectoryExists [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\ShaderCore.cpp] [Line: 2755] 
+FPaths::DirectoryExists(C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Intermediate/ShaderAutogen C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Intermediate/ShaderAutogen) DESKTOP-GU08UNG
+
+0x00007ff68eda2b3a ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff68ed9eb09 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff68ed9babb ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff68ed9bd52 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff68edad989 ShaderCompileWorker.exe!wmain() []
+0x00007ff68edaf09c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007fff42c67344 KERNEL32.DLL!UnknownFunction []
+0x00007fff42e226b1 ntdll.dll!UnknownFunction []
+
+
+
+
+[2024.05.30-04.32.15:322][  0]LogShaderCompilers: Error: File path: "C:/Users/황보민/AppData/Local/Temp/UnrealShaderWorkingDir/29A87FE64611BF9F90966F99216EA32B/0/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
+[2024.05.30-04.32.18:795][  0]Message dialog closed, result: Ok, title: Corrupted ShaderCompileWorker output file, text: File path: "C:/Users/황보민/AppData/Local/Temp/UnrealShaderWorkingDir/29A87FE64611BF9F90966F99216EA32B/0/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+[2024.05.30-04.32.18:795][  0]LogWindows: FPlatformMisc::RequestExit(0, ShaderCompiler.ModalErrorOrLog)
+[2024.05.30-04.32.18:795][  0]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, ShaderCompiler.ModalErrorOrLog)
+[2024.05.30-04.32.18:795][  0]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.05.30-04.32.18:795][  0]LogShaderCompilers: Error: File path: "C:/Users/황보민/AppData/Local/Temp/UnrealShaderWorkingDir/29A87FE64611BF9F90966F99216EA32B/0/WorkerOutputOnly.out"
+Expecting 10 single jobs, got 0 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
