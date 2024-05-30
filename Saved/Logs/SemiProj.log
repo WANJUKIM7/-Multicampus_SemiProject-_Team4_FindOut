@@ -3154,3 +3154,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-04.18.24:309][974]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
 [2024.05.30-04.18.35:659][271]BlueprintLog: New page: PauseMenuUI 컴파일
 [2024.05.30-04.18.35:715][271]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2024.05.30-04.19.06:891][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.05.30-04.19.06:893][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.033
+[2024.05.30-04.19.06:894][ 92]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Programming/UI/PauseMenuUI] ([2] browsable assets)...
+[2024.05.30-04.19.06:898][ 92]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI]
+[2024.05.30-04.19.06:898][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Programming/UI/PauseMenuUI]
+[2024.05.30-04.19.06:904][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Programming/UI/PauseMenuUI_Auto3
+[2024.05.30-04.19.06:905][ 92]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PauseMenuUI_Auto37582431D429BC1C0B87349836AC2E354.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Programming/UI/PauseMenuUI_Auto3.uasset'
+[2024.05.30-04.19.06:907][ 92]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.05.30-04.26.27:707][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-04.26.27:802][ 84]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-04.26.27:803][ 84]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacterFD138914410A2332D6163FB907BD97D8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-04.26.27:817][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 4.39 sec)
+[2024.05.30-04.26.27:821][ 84]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-04.26.27:821][ 84]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-04.26.30:994][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-04.26.31:059][403]LogSavePackage: Moving output files for package: /Game/Programming/UI/PauseMenuUI
+[2024.05.30-04.26.31:060][403]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PauseMenuUIFA5997B2417684FC05E49991164E8CD7.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/PauseMenuUI.uasset'
+[2024.05.30-04.26.31:070][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 4.47 sec)
+[2024.05.30-04.26.31:074][403]AssetCheck: New page: 에셋 저장:  PauseMenuUI
+[2024.05.30-04.26.31:074][403]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/PauseMenuUI.PauseMenuUI 유효성 검사 중
