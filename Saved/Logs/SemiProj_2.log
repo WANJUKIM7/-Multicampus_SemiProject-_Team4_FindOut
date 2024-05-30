@@ -1302,3 +1302,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-04.39.37:210][154]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
 [2024.05.30-04.39.37:588][154]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
 [2024.05.30-04.39.37:590][154]LogSlate: Took 0.001432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.30-04.41.32:689][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-04.41.32:790][871]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-04.41.32:791][871]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter5F8AEAAD4102DFF1DE528583650EE09E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-04.41.32:801][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 514 ms)
+[2024.05.30-04.41.32:804][871]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-04.41.32:805][871]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-04.41.33:859][949]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-04.41.33:859][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-04.41.35:712][ 45]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.30-04.41.35:713][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-04.41.35:713][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
