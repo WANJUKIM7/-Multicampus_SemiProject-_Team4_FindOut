@@ -1695,3 +1695,148 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-06.15.39:820][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.30-06.15.39:825][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
 [2024.05.30-06.15.39:895][642]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.05.30-06.19.26:687][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.19.26:720][784]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-06.19.26:925][784]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.19.26:927][784]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter07FD7D194FBE0538E1E3E5AAECF2FEAB.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.19.26:938][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 1.41 sec)
+[2024.05.30-06.19.26:943][784]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.19.26:943][784]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: ================================================
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Total job queries 196, among them cache hits 118 (60.20%)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Tracking 78 distinct input hashes that result in 53 distinct outputs (67.95%)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: RAM used: 1.59 MiB of 819.20 MiB budget. Usage: 0.19%
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Average time worker was idle: 131.82 s
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Time job spent in pending queue: average 0.36 s, longest 1.84 s
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Job execution time: average 1.51 s, max 1.93 s
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Job life time (pending + execution): average 1.88 s, max 2.67
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Shader code size: average 36.687 KiB, min 31.5 KiB, max 42.895 KiB
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.52 s
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Average processing rate: 2.21 jobs/sec
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Total thread time: 8.333 s
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Total thread preprocess time: 1.396 s
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Percentage time preprocessing: 16.75%
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Effective parallelization: 1.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.91 sec, max 1.27 sec, min 0.69 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                                FAnisotropyVS (compiled    2 times, average 0.77 sec, max 0.83 sec, min 0.71 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.67 sec, max 0.73 sec, min 0.63 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.72% of total time (compiled    3 times, average 0.91 sec, max 1.27 sec, min 0.69 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.17% of total time (compiled    3 times, average 0.67 sec, max 0.73 sec, min 0.63 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                                FAnisotropyVS - 18.59% of total time (compiled    2 times, average 0.77 sec, max 0.83 sec, min 0.71 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                                FAnisotropyPS - 9.90% of total time (compiled    2 times, average 0.41 sec, max 0.44 sec, min 0.39 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.92% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.05.30-06.19.26:949][784]LogShaderCompilers: Display: ================================================
+[2024.05.30-06.19.28:393][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.19.28:492][894]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.19.28:494][894]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacterC0A16AB5447EAB74E9B5F89B974F595C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.19.28:503][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.51 sec)
+[2024.05.30-06.19.28:506][894]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.19.28:506][894]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.20.49:303][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.30-06.20.49:304][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.025
+[2024.05.30-06.20.49:306][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.05.30-06.20.49:400][985]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.05.30-06.20.49:400][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.05.30-06.20.49:466][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2024.05.30-06.20.49:467][985]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter_Auto17B55A49D4767A3B41AA670B57698358E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2024.05.30-06.20.49:468][985]LogFileHelpers: Auto-saving content packages took 0.164
+[2024.05.30-06.26.51:662][209]BlueprintLog: New page: BP_FirstPersonCharacter 컴파일
+[2024.05.30-06.26.51:763][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.30-06.26.52:996][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.26.53:113][312]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.26.53:114][312]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter26CBFF8B4E3357D014E315AB021DE21B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.26.53:124][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1.64 sec)
+[2024.05.30-06.26.53:127][312]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.26.53:127][312]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.27.09:208][992]BlueprintLog: New page: BP_FirstPersonCharacter 컴파일
+[2024.05.30-06.27.09:301][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.30-06.27.10:187][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.27.10:309][ 51]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.27.10:310][ 51]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter628254CF450EAF177FFFD688A5ADE767.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.27.10:319][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1.78 sec)
+[2024.05.30-06.27.10:322][ 51]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.27.10:322][ 51]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.27.10:548][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.27.10:649][ 69]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.27.10:651][ 69]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter287B96714806EAF64D1562955BC41BD1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.27.10:661][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.89 sec)
+[2024.05.30-06.27.10:665][ 69]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.27.10:665][ 69]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.27.10:862][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-06.27.10:968][ 85]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.30-06.27.10:970][ 85]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter2E2C1C7141E8F765F4DE86A5D7311889.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.30-06.27.10:978][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.00 sec)
+[2024.05.30-06.27.10:981][ 85]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.30-06.27.10:981][ 85]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.05.30-06.33.30:265][943]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.05.30-06.33.30:275][943]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.05.30-06.33.30:275][943]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.30-06.33.30:281][943]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 6 ms (total: 21 ms)
+[2024.05.30-06.33.30:282][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.30-06.33.30:282][943]PIE: New page: PIE 세션: FirstPersonMap (2024. 5. 31. 오전 12:33:30)
+[2024.05.30-06.33.30:282][943]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.33.30:293][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010825s)
+[2024.05.30-06.33.30:293][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010879s)
+[2024.05.30-06.33.30:313][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.30-06.33.30:315][943]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-06.33.30:315][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-06.33.30:316][943]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.30-06.33.30:317][943]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.30-06.33.30:317][943]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.30-06.33.30:317][943]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.30-06.33.30:317][943]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.30-06.33.30:319][943]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.05.30-06.33.30:319][943]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 500 ms)
+[2024.05.30-06.33.30:319][943]LogPlayLevel: PIE: World Init took: (0.004334s)
+[2024.05.30-06.33.30:320][943]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.30-06.33.30:320][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.30-06.33.30:320][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.30-06.33.30:320][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.30-06.33.30:320][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.30-06.33.30:320][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.30-06.33.30:320][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.30-06.33.30:320][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.30-06.33.30:320][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.30-06.33.30:320][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.30-06.33.30:320][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.30-06.33.30:320][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.30-06.33.30:324][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.30-06.33.30:457][943]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.05.30-06.33.30:458][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.30-06.33.30:458][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.30-06.33.30:458][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.30-06.33.30:459][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.30-06.33.30:459][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.30-06.33.30:461][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.30-06.33.30:461][943]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.30-06.33.30:461][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.30-06.33.30:461][943]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2024.05.30-06.33.30:461][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.30-06.33.30:464][943]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.30-06.33.30:470][943]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.30-15.33.30
+[2024.05.30-06.33.30:470][943]LogWorld: Bringing up level for play took: 0.005906
+[2024.05.30-06.33.30:473][943]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.05.30-06.33.30:478][943]PIE: 서버가 로그인했습니다.
+[2024.05.30-06.33.30:479][943]PIE: 에디터에서 플레이 총 시작 시간 0.204초입니다.
+[2024.05.30-06.33.38:394][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.33.38:394][667]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.30-06.33.38:394][667]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-06.33.38:395][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.33.38:396][667]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.05.30-06.33.38:399][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.30-06.33.38:406][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-06.33.38:425][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.30-06.33.38:425][667]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.30-06.33.38:425][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.30-06.33.38:427][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.30-06.33.38:437][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.30-06.33.38:512][668]LogPlayLevel: Display: Destroying online subsystem :Context_8
