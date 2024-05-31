@@ -1411,3 +1411,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.31-00.23.56:553][179]LogViewport: Scene viewport resized to 780x465, mode Windowed.
 [2024.05.31-00.23.56:585][180]LogViewport: Scene viewport resized to 780x469, mode Windowed.
 [2024.05.31-00.23.56:636][181]LogViewport: Scene viewport resized to 780x472, mode Windowed.
+[2024.05.31-00.26.16:197][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Blueprints/BP_Puzzle_3_1.BP_Puzzle_3_1
+[2024.05.31-00.26.16:197][602]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-00.26.16:197][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-00.26.30:554][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-00.26.30:672][238]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.013498 seconds
+[2024.05.31-00.26.30:694][238]LogSavePackage: Moving output files for package: /Game/Programming/Blueprints/BP_Puzzle_3_1
+[2024.05.31-00.26.30:695][238]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_Puzzle_3_1A827DD9B4106371B25DA24AD062C8C01.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Blueprints/BP_Puzzle_3_1.uasset'
+[2024.05.31-00.26.30:709][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms
+[2024.05.31-00.26.30:712][238]AssetCheck: New page: 에셋 저장:  BP_Puzzle_3_1
+[2024.05.31-00.26.30:712][238]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Blueprints/BP_Puzzle_3_1.BP_Puzzle_3_1 유효성 검사 중
+[2024.05.31-00.26.37:063][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-00.26.37:133][524]LogSavePackage: Moving output files for package: /Game/Programming/Blueprints/BP_Puzzle_3_1
+[2024.05.31-00.26.37:135][524]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_Puzzle_3_150AA823C4348E53DF137FE80B60A3551.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Blueprints/BP_Puzzle_3_1.uasset'
+[2024.05.31-00.26.37:146][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 239 ms)
+[2024.05.31-00.26.37:149][524]AssetCheck: New page: 에셋 저장:  BP_Puzzle_3_1
+[2024.05.31-00.26.37:149][524]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Blueprints/BP_Puzzle_3_1.BP_Puzzle_3_1 유효성 검사 중
+[2024.05.31-00.26.41:427][711]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Functions/Functions.Functions
+[2024.05.31-00.26.41:427][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-00.26.41:427][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-00.27.28:364][ 28]LogViewport: Scene viewport resized to 720x646, mode Windowed.
+[2024.05.31-00.27.40:513][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-00.27.40:577][636]LogSavePackage: Moving output files for package: /Game/Programming/Blueprints/BP_Puzzle_3_1
+[2024.05.31-00.27.40:579][636]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_Puzzle_3_186B3E1F246D478609D4DB1B509AE5A61.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Blueprints/BP_Puzzle_3_1.uasset'
+[2024.05.31-00.27.40:590][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 316 ms)
+[2024.05.31-00.27.40:594][636]AssetCheck: New page: 에셋 저장:  BP_Puzzle_3_1
+[2024.05.31-00.27.40:594][636]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Blueprints/BP_Puzzle_3_1.BP_Puzzle_3_1 유효성 검사 중
+[2024.05.31-00.28.23:349][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-00.28.23:399][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-00.28.23:497][345]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.31-00.28.23:498][345]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter150B3F9A4B828E02B554029B5B4A481C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.31-00.28.23:508][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 475 ms)
+[2024.05.31-00.28.23:512][345]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.05.31-00.28.23:512][345]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
