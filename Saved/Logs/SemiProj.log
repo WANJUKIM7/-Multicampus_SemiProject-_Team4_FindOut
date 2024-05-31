@@ -5523,3 +5523,175 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.31-06.40.32:648][392]LogContentStreaming: Texture pool size now 800 MB
 [2024.05.31-06.40.33:306][444]LogEditorViewport: Clicking Background
 [2024.05.31-06.40.43:246][920]LogEditorViewport: Clicking Background
+[2024.05.31-06.42.05:290][871]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Base' 브러시를 찾을 수 없습니다.'
+[2024.05.31-06.42.05:290][871]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Mask' 브러시를 찾을 수 없습니다.'
+[2024.05.31-06.42.09:743][162]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Blueprints/BP_Puzzle_3_1.BP_Puzzle_3_1
+[2024.05.31-06.42.09:745][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.42.09:746][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.42.13:673][304]LogWorld: UWorld::CleanupWorld for World_134, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.42.13:673][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.42.15:106][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.42.15:215][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.05.31-06.42.15:228][440]LogSavePackage: Moving output files for package: /Game/LV_Design/MainMenuMap
+[2024.05.31-06.42.15:228][440]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainMenuMap0F3045F14D086895C5AC2C8E220372BB.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/MainMenuMap.umap'
+[2024.05.31-06.42.15:239][440]LogFileHelpers: Saving map 'MainMenuMap' took 0.073
+[2024.05.31-06.42.15:251][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 14.7 sec)
+[2024.05.31-06.42.15:253][440]AssetCheck: New page: 에셋 저장:  MainMenuMap
+[2024.05.31-06.42.15:253][440]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/MainMenuMap.MainMenuMap 유효성 검사 중
+[2024.05.31-06.42.23:422][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.42.23:524][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.31-06.42.23:533][ 16]LogSavePackage: Moving output files for package: /Game/LV_Design/MainMenuMap
+[2024.05.31-06.42.23:534][ 16]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainMenuMap0AD72C324848A3544AFFC18D6AB07EC8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/MainMenuMap.umap'
+[2024.05.31-06.42.23:545][ 16]LogFileHelpers: Saving map 'MainMenuMap' took 0.065
+[2024.05.31-06.42.23:553][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 14.8 sec)
+[2024.05.31-06.42.23:556][ 16]AssetCheck: New page: 에셋 저장:  MainMenuMap
+[2024.05.31-06.42.23:556][ 16]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/MainMenuMap.MainMenuMap 유효성 검사 중
+[2024.05.31-06.42.50:217][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.42.50:340][953]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_GraphicsUI
+[2024.05.31-06.42.50:340][953]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_GraphicsUI43F8C5974BC5262181D9E39629311E5D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_GraphicsUI.uasset'
+[2024.05.31-06.42.50:359][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 14.9 sec)
+[2024.05.31-06.42.50:360][953]AssetCheck: New page: 에셋 저장:  WB_GraphicsUI
+[2024.05.31-06.42.50:360][953]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_GraphicsUI.WB_GraphicsUI 유효성 검사 중
+[2024.05.31-06.43.16:387][289]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI
+[2024.05.31-06.43.16:390][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.43.16:390][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.43.16:397][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.43.16:397][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.43.20:104][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.43.20:169][673]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-06.43.20:169][673]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUIA06F3F604D1BB502145F318F2074E89D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-06.43.20:181][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 15.0 sec)
+[2024.05.31-06.43.20:182][673]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-06.43.20:182][673]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-06.43.27:102][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.31-06.43.29:026][245]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.31-06.43.29:064][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.31-06.43.29:085][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.31-06.43.29:106][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.31-06.43.30:674][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.43.30:758][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.31-06.43.30:772][357]LogSavePackage: Moving output files for package: /Game/LV_Design/MainMenuMap
+[2024.05.31-06.43.30:774][357]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainMenuMapF36DE05D4D03053AEBCCCB9386A96D65.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/MainMenuMap.umap'
+[2024.05.31-06.43.30:785][357]LogFileHelpers: Saving map 'MainMenuMap' took 0.070
+[2024.05.31-06.43.30:793][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 15.1 sec)
+[2024.05.31-06.43.30:796][357]AssetCheck: New page: 에셋 저장:  MainMenuMap
+[2024.05.31-06.43.30:797][357]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/MainMenuMap.MainMenuMap 유효성 검사 중
+[2024.05.31-06.43.52:888][681]BlueprintLog: New page: WB_OptionUI 컴파일
+[2024.05.31-06.43.52:922][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.05.31-06.43.53:546][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.43.53:606][711]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-06.43.53:608][711]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUIA818BE6D41E26B71AF50768B305A49A4.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-06.43.53:618][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 15.2 sec)
+[2024.05.31-06.43.53:621][711]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-06.43.53:622][711]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-06.44.26:841][630]BlueprintLog: New page: WB_PauseMenuUI 컴파일
+[2024.05.31-06.44.26:883][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.05.31-06.44.27:913][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.44.27:964][674]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.31-06.44.27:966][674]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI47BE584A4941FDA3616697AE163456A3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.31-06.44.27:981][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 15.3 sec)
+[2024.05.31-06.44.27:985][674]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.31-06.44.27:985][674]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.31-06.44.31:057][942]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.05.31-06.44.31:065][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.31-06.44.31:065][942]PIE: New page: PIE 세션: MainMenuMap (2024. 6. 1. 오전 12:44:31)
+[2024.05.31-06.44.31:067][942]LogPlayLevel: Creating play world package: /Game/LV_Design/UEDPIE_0_MainMenuMap
+[2024.05.31-06.44.31:069][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001920s)
+[2024.05.31-06.44.31:069][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Design/MainMenuMap.MainMenuMap to /Game/LV_Design/UEDPIE_0_MainMenuMap.MainMenuMap (0.001990s)
+[2024.05.31-06.44.31:095][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.05.31-06.44.31:100][942]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.44.31:100][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.44.31:101][942]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.05.31-06.44.31:101][942]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2024.05.31-06.44.31:102][942]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.05.31-06.44.31:102][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-06.44.31:102][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-06.44.31:102][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-06.44.31:102][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-06.44.31:102][942]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.31-06.44.31:102][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-06.44.31:102][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.31-06.44.31:102][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-06.44.31:103][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-06.44.31:104][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-06.44.31:104][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-06.44.31:108][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-06.44.31:232][942]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.05.31-06.44.31:233][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-06.44.31:233][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-06.44.31:233][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-06.44.31:235][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.05.31-06.44.31:235][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.05.31-06.44.31:239][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.05.31-06.44.31:239][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.05.31-06.44.31:239][942]LogInit: FAudioDevice initialized with ID 24.
+[2024.05.31-06.44.31:239][942]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenuMap'.
+[2024.05.31-06.44.31:239][942]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.05.31-06.44.31:312][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.44.31:312][942]LogLoad: Game class is 'MenuGamemode_C'
+[2024.05.31-06.44.31:312][942]LogWorld: Bringing World /Game/LV_Design/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.05.31-15.44.31
+[2024.05.31-06.44.31:313][942]LogWorld: Bringing up level for play took: 0.000663
+[2024.05.31-06.44.31:316][942]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.05.31-06.44.31:316][942]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.31-06.44.31:319][942]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.31-06.44.31:319][942]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.31-06.44.31:322][942]PIE: 서버가 로그인했습니다.
+[2024.05.31-06.44.31:324][942]PIE: 에디터에서 플레이 총 시작 시간 0.26초입니다.
+[2024.05.31-06.44.31:344][942]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.05.31-06.44.35:105][180]LogViewport: Scene viewport resized to 1060x813, mode Windowed.
+[2024.05.31-06.44.37:722][352]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.31-06.44.37:722][352]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.31-06.44.37:723][352]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.31-06.44.37:723][352]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.31-06.44.37:724][352]LogWorld: BeginTearingDown for /Game/LV_Design/UEDPIE_0_MainMenuMap
+[2024.05.31-06.44.37:724][352]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.44.37:724][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.44.37:738][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.31-06.44.37:740][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.31-06.44.37:760][352]LogAudio: Display: Audio Device (ID: 24) registered with world 'FirstPersonMap'.
+[2024.05.31-06.44.37:760][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.44.37:760][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.44.37:760][352]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.31-06.44.37:761][352]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.31-06.44.37:761][352]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.31-06.44.37:761][352]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.05.31-06.44.37:761][352]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.31-06.44.37:764][352]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.31-06.44.37:873][352]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 109 ms (total: 2.11 sec)
+[2024.05.31-06.44.37:876][352]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.05.31-06.44.37:876][352]LogWorldPartition: Display: WorldPartition initialize took 114 ms (total: 2.92 sec)
+[2024.05.31-06.44.37:876][352]LogPlayLevel: PIE: World Init took: (0.116216s)
+[2024.05.31-06.44.37:876][352]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.31-06.44.37:911][352]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.31-15.44.37
+[2024.05.31-06.44.37:911][352]LogWorld: Bringing up level for play took: 0.034462
+[2024.05.31-06.44.37:915][352]LogLoad: Took 0.191367 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.05.31-06.44.39:364][428]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.31-06.44.39:364][428]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.31-06.44.48:939][ 13]LogViewport: Scene viewport resized to 1920x1080, mode WindowedFullscreen.
+[2024.05.31-06.44.48:992][ 13]LogViewport: Scene viewport resized to 1914x1040, mode WindowedFullscreen.
+[2024.05.31-06.44.52:104][201]Cmd: quit
+[2024.05.31-06.44.52:121][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.44.52:121][201]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.31-06.44.52:122][201]LogSlate: Window 'SemiProj 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-06.44.52:155][201]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.44.52:157][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.44.52:158][201]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.05.31-06.44.52:162][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.31-06.44.52:172][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.44.52:191][201]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.05.31-06.44.52:191][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.05.31-06.44.52:194][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.05.31-06.44.52:207][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.05.31-06.44.52:235][202]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.05.31-06.44.54:530][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.44.54:596][405]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.31-06.44.54:598][405]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI62AF0E4149A319403080648C1933C953.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.31-06.44.54:608][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 15.4 sec)
+[2024.05.31-06.44.54:612][405]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.31-06.44.54:612][405]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
+[2024.05.31-06.44.54:896][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.44.54:965][427]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_PauseMenuUI
+[2024.05.31-06.44.54:967][427]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_PauseMenuUI7AA9BBE44CE2EC130FD57BBA70551591.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_PauseMenuUI.uasset'
+[2024.05.31-06.44.54:980][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 15.4 sec)
+[2024.05.31-06.44.54:983][427]AssetCheck: New page: 에셋 저장:  WB_PauseMenuUI
+[2024.05.31-06.44.54:983][427]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_PauseMenuUI.WB_PauseMenuUI 유효성 검사 중
