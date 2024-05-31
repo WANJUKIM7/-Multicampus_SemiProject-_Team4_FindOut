@@ -6482,3 +6482,126 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.31-07.16.34:218][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 20.6 sec)
 [2024.05.31-07.16.34:221][555]AssetCheck: New page: 에셋 저장:  MainMenuMap
 [2024.05.31-07.16.34:221][555]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/MainMenuMap.MainMenuMap 유효성 검사 중
+[2024.05.31-07.17.55:318][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.17.55:417][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.31-07.17.55:429][430]LogSavePackage: Moving output files for package: /Game/LV_Design/MainMenuMap
+[2024.05.31-07.17.55:430][430]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainMenuMap7F58CAF24CA0FBC3CB2CAEB6113A16B1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/MainMenuMap.umap'
+[2024.05.31-07.17.55:444][430]LogFileHelpers: Saving map 'MainMenuMap' took 0.075
+[2024.05.31-07.17.55:452][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 20.7 sec)
+[2024.05.31-07.17.55:455][430]AssetCheck: New page: 에셋 저장:  MainMenuMap
+[2024.05.31-07.17.55:455][430]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/MainMenuMap.MainMenuMap 유효성 검사 중
+[2024.05.31-07.17.55:850][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.17.55:955][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.31-07.17.55:967][452]LogSavePackage: Moving output files for package: /Game/LV_Design/MainMenuMap
+[2024.05.31-07.17.55:969][452]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainMenuMap52DDF4EA41296C59876A8A82353A96B3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/MainMenuMap.umap'
+[2024.05.31-07.17.55:983][452]LogFileHelpers: Saving map 'MainMenuMap' took 0.078
+[2024.05.31-07.17.55:991][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 20.9 sec)
+[2024.05.31-07.17.55:994][452]AssetCheck: New page: 에셋 저장:  MainMenuMap
+[2024.05.31-07.17.55:994][452]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/MainMenuMap.MainMenuMap 유효성 검사 중
+[2024.05.31-07.19.23:325][455]LogEditorViewport: Clicking Background
+[2024.05.31-07.23.14:785][742]BlueprintLog: New page: WB_OptionUI 컴파일
+[2024.05.31-07.23.14:826][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.31-07.23.15:954][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.23.16:024][773]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-07.23.16:025][773]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUI1CE07CF54B87281410ED53BA3BE87F83.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-07.23.16:035][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 21.0 sec)
+[2024.05.31-07.23.16:039][773]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-07.23.16:039][773]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-07.23.23:779][550]BlueprintLog: New page: WB_OptionUI 컴파일
+[2024.05.31-07.23.23:821][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.05.31-07.23.24:904][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.23.24:974][599]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-07.23.24:976][599]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUID44A7892414C821F5CA915BFBE3EE5B8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-07.23.24:985][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 21.1 sec)
+[2024.05.31-07.23.24:988][599]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-07.23.24:988][599]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-07.23.49:549][221]BlueprintLog: New page: WB_OptionUI 컴파일
+[2024.05.31-07.23.49:591][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.05.31-07.23.50:298][229]BlueprintLog: New page: WB_OptionUI 컴파일
+[2024.05.31-07.23.50:337][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.05.31-07.23.50:934][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.23.51:026][230]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-07.23.51:028][230]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUI5896DF384B6954A4F7237AB6E1940EAE.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-07.23.51:039][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 21.2 sec)
+[2024.05.31-07.23.51:042][230]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-07.23.51:042][230]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-07.23.51:744][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.23.51:823][306]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-07.23.51:825][306]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUI1C18DD0643CF5BE0DF49FD9CFE7FE7F3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-07.23.51:835][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 21.2 sec)
+[2024.05.31-07.23.51:837][306]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-07.23.51:838][306]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-07.24.00:393][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.24.00:474][255]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-07.24.00:475][255]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUIF4DD59C24711ADCAB53B52BEDF4DCE4B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-07.24.00:486][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 21.3 sec)
+[2024.05.31-07.24.00:489][255]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-07.24.00:489][255]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-07.24.08:962][ 97]BlueprintLog: New page: WB_OptionUI 컴파일
+[2024.05.31-07.24.09:004][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.05.31-07.24.10:005][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.24.10:076][131]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-07.24.10:078][131]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUID578E9274E9B6CED42BF1ABEFF501A26.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-07.24.10:089][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 21.4 sec)
+[2024.05.31-07.24.10:092][131]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-07.24.10:092][131]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-07.24.33:756][951]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2024.05.31-07.24.33:765][951]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.31-07.24.33:774][951]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.31-07.24.33:790][952]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.31-07.24.42:866][806]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_GameplayUI
+[2024.05.31-07.24.42:874][806]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.31-07.24.43:538][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.24.43:598][855]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_GameplayUI
+[2024.05.31-07.24.43:598][855]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_GameplayUIA28B683546600E05072F4490BE47FEF9.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_GameplayUI.uasset'
+[2024.05.31-07.24.43:612][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 21.5 sec)
+[2024.05.31-07.24.43:612][855]AssetCheck: New page: 에셋 저장:  WB_GameplayUI
+[2024.05.31-07.24.43:612][855]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_GameplayUI.WB_GameplayUI 유효성 검사 중
+[2024.05.31-07.24.44:913][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.24.45:026][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.05.31-07.24.45:041][968]LogSavePackage: Moving output files for package: /Game/LV_Design/MainMenuMap
+[2024.05.31-07.24.45:042][968]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainMenuMapC8B97EB34DB00639FAD8CBA7459A825E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/MainMenuMap.umap'
+[2024.05.31-07.24.45:058][968]LogFileHelpers: Saving map 'MainMenuMap' took 0.083
+[2024.05.31-07.24.45:068][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 21.7 sec)
+[2024.05.31-07.24.45:071][968]AssetCheck: New page: 에셋 저장:  MainMenuMap
+[2024.05.31-07.24.45:071][968]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/MainMenuMap.MainMenuMap 유효성 검사 중
+[2024.05.31-07.25.25:096][711]BlueprintLog: New page: WB_OptionUI 컴파일
+[2024.05.31-07.25.25:138][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.31-07.25.26:108][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.25.26:177][750]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-07.25.26:179][750]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUIC2E51920492DC2185957F1BDB4EB892E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-07.25.26:190][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 21.7 sec)
+[2024.05.31-07.25.26:193][750]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-07.25.26:193][750]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-07.25.26:321][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.25.26:395][761]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.05.31-07.25.26:396][761]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUI3470058A4D047C9FAC6D45B92F926B34.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.05.31-07.25.26:411][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 21.8 sec)
+[2024.05.31-07.25.26:414][761]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.05.31-07.25.26:414][761]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.05.31-07.30.13:879][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.30.13:932][627]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.05.31-07.30.13:933][627]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI8AB8F11546E675D2017153BD5A391626.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.05.31-07.30.13:944][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 21.9 sec)
+[2024.05.31-07.30.13:947][627]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.05.31-07.30.13:947][627]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.05.31-07.30.14:317][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.30.14:365][667]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.05.31-07.30.14:366][667]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUID029D88F42F23A998F02EA991B41B348.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.05.31-07.30.14:379][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 22.0 sec)
+[2024.05.31-07.30.14:383][667]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.05.31-07.30.14:383][667]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.05.31-07.31.43:919][754]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.05.31-07.31.43:965][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.31-07.31.44:779][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.31.44:835][820]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.05.31-07.31.44:837][820]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI5470E5344C50916CDC222C91962AB720.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.05.31-07.31.44:850][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 22.0 sec)
+[2024.05.31-07.31.44:856][820]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.05.31-07.31.44:856][820]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.05.31-07.31.46:064][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-07.31.46:133][961]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.05.31-07.31.46:134][961]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI0E2EC3C848664E159B1ABD970E587BC8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.05.31-07.31.46:144][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 22.1 sec)
+[2024.05.31-07.31.46:148][961]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.05.31-07.31.46:148][961]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
