@@ -2141,3 +2141,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.03-03.18.26:894][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Programming/UI/WB_AudioUI_Auto3
 [2024.06.03-03.18.26:896][377]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI_Auto3A77D4AA8432F74C12C4A69860395E10C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Programming/UI/WB_AudioUI_Auto3.uasset'
 [2024.06.03-03.18.26:899][377]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.06.03-03.54.01:305][854]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-03.54.01:369][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.06.03-03.54.02:452][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.54.02:535][920]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-03.54.02:536][920]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI6668BF7740E683F5CC2071B09A4618CA.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-03.54.02:544][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.48 sec)
+[2024.06.03-03.54.02:548][920]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-03.54.02:548][920]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-03.54.03:152][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.54.03:210][959]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-03.54.03:212][959]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI75930A644AEBE83BC15FF4B3FEA4A65F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-03.54.03:224][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.55 sec)
+[2024.06.03-03.54.03:229][959]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-03.54.03:229][959]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
