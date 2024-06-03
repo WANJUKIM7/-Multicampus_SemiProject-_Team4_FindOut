@@ -1153,3 +1153,87 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.03-01.05.33:056][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\37\E2Z9Z7WRUMDDGHZ0B1T4UV.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Puzzleaset/frequency_큐브'
 [2024.06.03-01.05.33:061][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\50\JD4KBXW0KAQ0VQ5J7KSR01.uasset: '/Game/Puzzleaset/frequency_실린더_007' 로드 실패: 파일을 찾을 수 없습니다.
 [2024.06.03-01.05.33:061][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\50\JD4KBXW0KAQ0VQ5J7KSR01.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Puzzleaset/frequency_실린더_007'
+[2024.06.03-01.05.33:256][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\8\OK\5MEDS0GGJ6FDAD8OISHF65.uasset: '/Game/Puzzleaset/frequency_큐브_016' 로드 실패: 파일을 찾을 수 없습니다.
+[2024.06.03-01.05.33:257][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\8\OK\5MEDS0GGJ6FDAD8OISHF65.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Puzzleaset/frequency_큐브_016'
+[2024.06.03-01.05.33:553][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\D\62\2JE163MKBWD7VYAAXPCPPU.uasset: '/Game/Puzzleaset/frequency_실린더_008' 로드 실패: 파일을 찾을 수 없습니다.
+[2024.06.03-01.05.33:554][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\D\62\2JE163MKBWD7VYAAXPCPPU.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Puzzleaset/frequency_실린더_008'
+[2024.06.03-01.05.33:785][  0]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.06.03-01.05.33:786][  0]LogWorldPartition: Display: WorldPartition initialize took 1.00 sec
+[2024.06.03-01.05.33:811][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.03-01.05.33:824][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.06.03-01.05.33:824][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.03-01.05.33:825][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.588ms.
+[2024.06.03-01.05.33:845][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.598
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: ================================================
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.03-01.05.33:845][  0]LogShaderCompilers: Display: ================================================
+[2024.06.03-01.05.33:925][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:986][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:987][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.33:987][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.06.03-01.05.34:019][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-01.05.34:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-01.05.34:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-01.05.34:082][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-01.05.34:128][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:130][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:130][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:132][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:132][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:133][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:134][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:135][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:136][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:137][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:137][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:138][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:139][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:140][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:140][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:141][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:141][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:142][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:143][  0]LogPakFile: Initializing PakPlatformFile
+[2024.06.03-01.05.34:144][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.06.03-01.05.34:508][  0]LogSlate: Took 0.004133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2024.06.03-01.05.34:509][  0]LogSlate: Took 0.000857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.06.03-01.05.34:513][  0]LogSlate: Took 0.000567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.06.03-01.05.34:517][  0]LogSlate: Took 0.004013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2024.06.03-01.05.34:564][  0]LogViewport: Scene viewport resized to 1175x504, mode Windowed.
+[2024.06.03-01.05.34:645][  0]LogSlate: Took 0.000535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.03-01.05.37:512][  0]LogStall: Startup...
+[2024.06.03-01.05.37:515][  0]LogStall: Startup complete.
+[2024.06.03-01.05.37:548][  0]LogLoad: (Engine Initialization) Total time: 24.30 seconds
+[2024.06.03-01.05.37:548][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.06.03-01.05.37:696][  0]LogContentStreaming: Texture pool size now 800 MB
+[2024.06.03-01.05.37:846][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.06.03-01.05.37:856][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.072323 secs
+[2024.06.03-01.05.37:947][  1]LogAssetRegistry: AssetRegistryGather time 0.3444s: AssetDataDiscovery 0.1150s, AssetDataGather 0.1587s, StoreResults 0.0707s.
+[2024.06.03-01.05.38:010][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
