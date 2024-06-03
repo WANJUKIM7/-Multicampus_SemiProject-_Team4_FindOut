@@ -2363,3 +2363,117 @@ Script Stack (0 frames) :
 [2024.06.03-04.06.41:536][269]AssetCheck: New page: 에셋 저장:  WB_AudioUI
 [2024.06.03-04.06.41:536][269]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
 [2024.06.03-04.09.18:611][983]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10096 files in 12340 folders with total size 856 MiB.
+[2024.06.03-04.12.44:967][262]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-04.12.45:024][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.06.03-04.12.46:018][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.12.46:095][324]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.12.46:097][324]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIA19250AE4583E1D94C66ADADA5424BF9.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.12.46:107][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 9.00 sec)
+[2024.06.03-04.12.46:111][324]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.12.46:111][324]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.14.04:871][874]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-04.14.04:923][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.06.03-04.14.05:927][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.14.05:996][944]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.14.05:997][944]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIF4B5E74143EBF038AEBF6EB6C77EF450.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.14.06:007][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 9.08 sec)
+[2024.06.03-04.14.06:011][944]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.14.06:011][944]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.14.24:160][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.14.24:248][778]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.14.24:249][778]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIF72F7F3B45410663836B9CB2C36A7F6A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.14.24:258][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 9.18 sec)
+[2024.06.03-04.14.24:261][778]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.14.24:261][778]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.14.24:718][813]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-04.14.24:824][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.06.03-04.14.26:039][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.14.26:115][897]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.14.26:117][897]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI91AA2F57439283B16875278871A572CF.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.14.26:127][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 9.27 sec)
+[2024.06.03-04.14.26:131][897]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.14.26:131][897]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.17.08:374][862]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.17.11:523][ 39]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.17.12:734][101]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.17.14:120][186]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.17.41:821][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.06.03-04.17.41:824][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2024.06.03-04.17.41:825][208]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Programming/UI/WB_AudioUI] ([2] browsable assets)...
+[2024.06.03-04.17.41:830][208]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI]
+[2024.06.03-04.17.41:830][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Programming/UI/WB_AudioUI]
+[2024.06.03-04.17.41:863][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Programming/UI/WB_AudioUI_Auto4
+[2024.06.03-04.17.41:863][208]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI_Auto4B52F75E44D02887F340D61844052BA71.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Programming/UI/WB_AudioUI_Auto4.uasset'
+[2024.06.03-04.17.41:865][208]LogFileHelpers: Auto-saving content packages took 0.041
+[2024.06.03-04.18.08:576][247]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-04.18.08:629][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.06.03-04.18.09:431][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.18.09:521][291]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.18.09:523][291]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI99B34DBE4186D1E46615CEBA7003066C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.18.09:532][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 9.37 sec)
+[2024.06.03-04.18.09:536][291]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.18.09:536][291]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.30.55:667][551]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.30.59:410][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.31.00:165][922]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.31.02:761][124]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.03:077][147]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.09:812][665]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.19:692][434]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.21:958][550]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.26:551][819]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.29:474][986]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.29:723][  4]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.32:771][233]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.32.35:278][445]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.33.02:098][839]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.33.06:537][186]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.33.07:310][240]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.33.09:550][420]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.33.13:625][743]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.33.16:180][966]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-04.34.04:355][480]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2024.06.03-04.34.46:697][167]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-04.34.46:761][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.03-04.34.47:900][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.34.47:993][214]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.34.47:995][214]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI8B79F28C4856B63D5D33E6BBBBAD9647.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.34.48:004][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 9.48 sec)
+[2024.06.03-04.34.48:008][214]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.34.48:008][214]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.35.41:187][550]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-04.35.41:247][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.06.03-04.35.42:115][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.35.42:194][579]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.35.42:195][579]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI6E5BB1104CA17B020D504B85547E105C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.35.42:205][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 9.57 sec)
+[2024.06.03-04.35.42:209][579]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.35.42:209][579]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.37.18:845][576]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-04.37.18:907][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.06.03-04.37.19:677][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.37.19:777][599]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.37.19:778][599]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI1F84FDA24C1D5EE6DF38CF9059BF1C46.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.37.19:786][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 9.68 sec)
+[2024.06.03-04.37.19:790][599]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.37.19:790][599]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.37.27:467][ 48]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-04.37.27:537][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.06.03-04.37.28:466][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.37.28:561][ 77]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.37.28:562][ 77]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI240BCA5B42CBD79BE7A381BB51701984.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.37.28:570][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 9.78 sec)
+[2024.06.03-04.37.28:573][ 77]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.37.28:573][ 77]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.37.38:024][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.37.38:124][749]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.37.38:126][749]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUID389C99C48A93E8A0BAD2195B9B411B9.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.37.38:136][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 9.89 sec)
+[2024.06.03-04.37.38:139][749]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.37.38:139][749]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.40.06:839][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.40.06:924][805]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.40.06:925][805]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI1F0312FE4BBE90D28C4821AB65C3375A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.40.06:933][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 9.99 sec)
+[2024.06.03-04.40.06:936][805]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.40.06:937][805]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
