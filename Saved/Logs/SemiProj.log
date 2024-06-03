@@ -1055,3 +1055,101 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.03-01.05.24:701][  0]LogMetasoundEngine: MetaSound Engine Initialized
 [2024.06.03-01.05.25:027][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EFDFAB034DD90CC2F0AF27B960C5668D | Instance: 793DDDDE4AA131BA81865DAA946DB73A (DESKTOP-GU08UNG-17196).
 [2024.06.03-01.05.25:405][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.06.03-01.05.25:418][  0]LogUdpMessaging: Display: Added local interface '192.168.45.130' to multicast group '230.0.0.1:6666'
+[2024.06.03-01.05.25:431][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.06.03-01.05.25:983][  0]LogOpenImageDenoise: OIDN starting up
+[2024.06.03-01.05.26:092][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.06.03-01.05.26:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.03-01.05.26:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.03-01.05.27:979][  0]LogUProjectInfo: Found projects:
+[2024.06.03-01.05.28:275][  0]LogCollectionManager: Loaded 0 collections in 0.002261 seconds
+[2024.06.03-01.05.28:277][  0]LogFileCache: Scanning file cache for directory 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Collections/' took 0.00s
+[2024.06.03-01.05.28:280][  0]LogFileCache: Scanning file cache for directory 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Developers/황보민/Collections/' took 0.00s
+[2024.06.03-01.05.28:283][  0]LogFileCache: Scanning file cache for directory 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Collections/' took 0.00s
+[2024.06.03-01.05.28:956][  0]LogEngine: Initializing Engine...
+[2024.06.03-01.05.28:964][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.06.03-01.05.29:143][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.06.03-01.05.29:155][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-01.05.29:156][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-01.05.29:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.06.03-01.05.29:166][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.06.03-01.05.29:166][  0]LogInit: Texture streaming: Enabled
+[2024.06.03-01.05.29:196][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.06.03-01.05.29:209][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.06.03-01.05.29:228][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.06.03-01.05.29:229][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.06.03-01.05.29:229][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.06.03-01.05.29:231][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.06.03-01.05.29:231][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.06.03-01.05.29:231][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.06.03-01.05.29:231][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.06.03-01.05.29:232][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.06.03-01.05.29:232][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.06.03-01.05.29:232][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-01.05.29:232][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-01.05.29:232][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-01.05.29:232][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-01.05.29:232][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-01.05.29:232][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-01.05.29:232][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-01.05.29:232][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-01.05.29:233][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-01.05.29:233][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-01.05.29:233][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-01.05.29:243][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.03-01.05.29:425][  0]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.06.03-01.05.29:426][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-01.05.29:433][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-01.05.29:433][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-01.05.29:434][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.06.03-01.05.29:434][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.03-01.05.29:437][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.03-01.05.29:437][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.06.03-01.05.29:437][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.06.03-01.05.29:437][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.06.03-01.05.29:437][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.03-01.05.29:464][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.06.03-01.05.29:472][  0]LogInit: Undo buffer set to 32 MB
+[2024.06.03-01.05.29:472][  0]LogInit: Transaction tracking system initialized
+[2024.06.03-01.05.29:585][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-GU08UNG: (Name=DESKTOP-GU08UNG, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2024.06.03-01.05.29:592][  0]LogSlate: Took 0.002818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2024.06.03-01.05.29:593][  0]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.06.03-01.05.30:699][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.06.03-01.05.30:706][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/SourceControl/UncontrolledChangelists.json
+[2024.06.03-01.05.30:706][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.06.03-01.05.30:730][  0]BlueprintLog: New page: 에디터 로드
+[2024.06.03-01.05.30:733][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.026319 seconds (Found 0 uncontrolled assets)
+[2024.06.03-01.05.30:953][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2024.06.03-01.05.31:012][  0]TimingProfiler: Initialize
+[2024.06.03-01.05.31:012][  0]TimingProfiler: OnSessionChanged
+[2024.06.03-01.05.31:012][  0]LoadingProfiler: Initialize
+[2024.06.03-01.05.31:012][  0]LoadingProfiler: OnSessionChanged
+[2024.06.03-01.05.31:012][  0]NetworkingProfiler: Initialize
+[2024.06.03-01.05.31:013][  0]NetworkingProfiler: OnSessionChanged
+[2024.06.03-01.05.31:013][  0]MemoryProfiler: Initialize
+[2024.06.03-01.05.31:013][  0]MemoryProfiler: OnSessionChanged
+[2024.06.03-01.05.31:624][  0]LogFileCache: Scanning file cache for directory 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/' took 0.06s
+[2024.06.03-01.05.32:030][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.06.03-01.05.32:070][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.06.03-01.05.32:073][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.826
+[2024.06.03-01.05.32:073][  0]LightingResults: New page: 라이팅 빌드
+[2024.06.03-01.05.32:076][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-01.05.32:076][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-01.05.32:077][  0]MapCheck: New page: 맵 체크
+[2024.06.03-01.05.32:077][  0]LightingResults: New page: 라이팅 빌드
+[2024.06.03-01.05.32:082][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.03-01.05.32:086][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.06.03-01.05.32:133][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.06.03-01.05.32:658][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.06.03-01.05.32:778][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.06.03-01.05.32:778][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-01.05.32:778][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-01.05.32:779][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.03-01.05.32:780][  0]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.06.03-01.05.32:780][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.03-01.05.32:780][  0]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.03-01.05.32:810][  0]LogAssetRegistry: Display: Asset registry cache written as 19.0 MiB to ../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Intermediate/CachedAssetRegistry_*.bin
+[2024.06.03-01.05.33:056][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\37\E2Z9Z7WRUMDDGHZ0B1T4UV.uasset: '/Game/Puzzleaset/frequency_큐브' 로드 실패: 파일을 찾을 수 없습니다.
+[2024.06.03-01.05.33:056][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\37\E2Z9Z7WRUMDDGHZ0B1T4UV.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Puzzleaset/frequency_큐브'
+[2024.06.03-01.05.33:061][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\50\JD4KBXW0KAQ0VQ5J7KSR01.uasset: '/Game/Puzzleaset/frequency_실린더_007' 로드 실패: 파일을 찾을 수 없습니다.
+[2024.06.03-01.05.33:061][  0]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\50\JD4KBXW0KAQ0VQ5J7KSR01.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Puzzleaset/frequency_실린더_007'
