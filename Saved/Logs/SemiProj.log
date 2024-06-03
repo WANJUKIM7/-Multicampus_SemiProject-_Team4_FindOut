@@ -1250,3 +1250,894 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.03-01.19.35:681][893]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
 [2024.06.03-01.19.35:681][893]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
 [2024.06.03-01.19.35:682][893]LogShaderCompilers: Display: ================================================
+[2024.06.03-01.42.53:303][135]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2024.06.03-01.42.53:326][135]LogContentBrowser: Creating deferred item: NewSoundClass
+[2024.06.03-01.42.53:346][136]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundClass).
+[2024.06.03-01.42.58:932][552]LogContentBrowser: Attempting asset rename: NewSoundClass -> SFX_Music
+[2024.06.03-01.42.59:122][552]LogContentBrowser: End creating deferred item NewSoundClass
+[2024.06.03-01.43.12:812][536]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2024.06.03-01.43.12:842][536]LogContentBrowser: Creating deferred item: NewSoundClass
+[2024.06.03-01.43.12:861][537]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundClass).
+[2024.06.03-01.43.17:083][791]LogContentBrowser: Attempting asset rename: NewSoundClass -> SFX_Ambient
+[2024.06.03-01.43.17:365][791]LogContentBrowser: End creating deferred item NewSoundClass
+[2024.06.03-01.43.18:107][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-01.43.18:193][814]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.018794 seconds
+[2024.06.03-01.43.18:195][814]LogSavePackage: Moving output files for package: /Game/Programming/Audio/SFX_Ambient
+[2024.06.03-01.43.18:195][814]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/SFX_Ambient6CFFDB504E567212208452A3E059D9A3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/SFX_Ambient.uasset'
+[2024.06.03-01.43.18:930][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 823 ms
+[2024.06.03-01.43.18:932][814]AssetCheck: New page: 에셋 저장:  SFX_Ambient
+[2024.06.03-01.43.18:932][814]LogContentValidation: Display: /Script/Engine.SoundClass /Game/Programming/Audio/SFX_Ambient.SFX_Ambient 유효성 검사 중
+[2024.06.03-01.43.24:216][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.06.03-01.43.25:639][ 39]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.06.03-01.43.25:861][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-01.43.25:921][ 39]LogSavePackage: Moving output files for package: /Game/Programming/Audio/SFX_Music
+[2024.06.03-01.43.25:921][ 39]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/SFX_MusicC23E302F4FB7F3181DA7AC9F9D17028F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/SFX_Music.uasset'
+[2024.06.03-01.43.26:350][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 488 ms (total: 1.31 sec)
+[2024.06.03-01.43.26:352][ 39]AssetCheck: New page: 에셋 저장:  SFX_Music
+[2024.06.03-01.43.26:352][ 39]LogContentValidation: Display: /Script/Engine.SoundClass /Game/Programming/Audio/SFX_Music.SFX_Music 유효성 검사 중
+[2024.06.03-01.43.26:365][ 39]LogAutomationController: Ignoring very large delta of 2.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-01.43.40:901][328]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/MainSoundMix.MainSoundMix
+[2024.06.03-01.43.53:343][953]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.03-01.43.54:483][ 32]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.44.14:711][572]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.44.14:819][578]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.44.15:958][651]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Normal_Attack.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Normal_Attack.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.44.15:973][652]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.44.22:932][102]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.44.54:189][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.06.03-01.44.54:193][599]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.06.03-01.44.54:195][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Programming/Audio/MainSoundMix] ([1] browsable assets)...
+[2024.06.03-01.44.54:195][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Programming/Audio/MainSoundMix]
+[2024.06.03-01.44.54:198][599]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Programming/Audio/MainSoundMix_Auto1
+[2024.06.03-01.44.54:198][599]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainSoundMix_Auto16D39E79147DB7E0DA542578B68A7011A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Programming/Audio/MainSoundMix_Auto1.uasset'
+[2024.06.03-01.44.54:200][599]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.06.03-01.45.52:791][920]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.45.53:422][960]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.45.54:117][  4]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.45.57:785][199]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.45.58:342][229]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.45.58:360][230]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.46.12:028][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-01.46.12:087][983]LogSavePackage: Moving output files for package: /Game/Programming/Audio/MainSoundMix
+[2024.06.03-01.46.12:088][983]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainSoundMix94E38B724DBC5BF36C922F9939DB5053.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/MainSoundMix.uasset'
+[2024.06.03-01.46.12:097][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.38 sec)
+[2024.06.03-01.46.12:100][983]AssetCheck: New page: 에셋 저장:  MainSoundMix
+[2024.06.03-01.46.12:100][983]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/MainSoundMix.MainSoundMix 유효성 검사 중
+[2024.06.03-01.46.12:875][ 11]LogSlate: Window 'MainSoundMix' being destroyed
+[2024.06.03-01.46.15:760][185]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.06.03-01.46.29:917][257]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2024.06.03-01.46.29:944][257]LogContentBrowser: Creating deferred item: NewSoundClass
+[2024.06.03-01.46.29:962][258]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundClass).
+[2024.06.03-01.46.34:624][617]LogContentBrowser: Attempting asset rename: NewSoundClass -> SFX_Master
+[2024.06.03-01.46.34:826][617]LogContentBrowser: End creating deferred item NewSoundClass
+[2024.06.03-01.46.37:386][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-01.46.37:435][789]LogSavePackage: Moving output files for package: /Game/Programming/Audio/SFX_Master
+[2024.06.03-01.46.37:435][789]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/SFX_MasterB5C3408F4D09B7DFAA07D29773218C68.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/SFX_Master.uasset'
+[2024.06.03-01.46.37:815][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 428 ms (total: 1.80 sec)
+[2024.06.03-01.46.37:816][789]AssetCheck: New page: 에셋 저장:  SFX_Master
+[2024.06.03-01.46.37:816][789]LogContentValidation: Display: /Script/Engine.SoundClass /Game/Programming/Audio/SFX_Master.SFX_Master 유효성 검사 중
+[2024.06.03-01.46.40:954][  4]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/MainSoundMix.MainSoundMix
+[2024.06.03-01.46.53:803][675]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.46.58:979][983]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.46.59:031][986]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.47.00:906][ 96]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/SFX.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.47.00:940][ 98]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Normal_Attack.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Normal_Attack.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-01.47.03:114][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-01.47.03:170][202]LogSavePackage: Moving output files for package: /Game/Programming/Audio/MainSoundMix
+[2024.06.03-01.47.03:171][202]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainSoundMix130911B3415B1766157940A59434E67E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/MainSoundMix.uasset'
+[2024.06.03-01.47.03:181][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.87 sec)
+[2024.06.03-01.47.03:184][202]AssetCheck: New page: 에셋 저장:  MainSoundMix
+[2024.06.03-01.47.03:184][202]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/MainSoundMix.MainSoundMix 유효성 검사 중
+[2024.06.03-01.47.03:771][226]LogSlate: Window 'MainSoundMix' being destroyed
+[2024.06.03-01.48.46:885][911]LogContentBrowser: Deferred new asset file creation: NewSoundSourceBus
+[2024.06.03-01.48.46:913][911]LogContentBrowser: Creating deferred item: NewSoundSourceBus
+[2024.06.03-01.48.46:935][912]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundSourceBus).
+[2024.06.03-01.48.48:111][995]LogContentBrowser: Attempting asset rename: NewSoundSourceBus -> NewSoundSourceBus
+[2024.06.03-01.48.48:322][995]LogContentBrowser: End creating deferred item NewSoundSourceBus
+[2024.06.03-01.48.50:072][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.06.03-01.48.53:088][127]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.03-01.48.53:105][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.06.03-01.48.53:113][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.06.03-01.48.53:121][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.03-01.48.53:151][127]LogAutomationController: Ignoring very large delta of 3.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-01.49.42:036][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.06.03-01.49.44:357][728]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.03-01.49.44:566][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.03-01.49.44:572][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.06.03-01.49.44:577][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.03-01.49.45:064][728]SourceControl: Error: Updated 0 paths from the index
+[2024.06.03-01.49.45:373][728]SourceControl: rm 'Content/Programming/UI/PauseMenuUI.uasset'
+[2024.06.03-01.49.45:400][728]LogAutomationController: Ignoring very large delta of 3.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-01.49.49:901][ 29]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.06.03-01.49.49:910][ 29]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.06.03-01.49.49:910][ 29]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.03-01.49.49:919][ 29]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 8 ms
+[2024.06.03-01.49.49:919][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.03-01.49.49:920][ 29]PIE: New page: PIE 세션: FirstPersonMap (2024. 6. 3. 오후 7:49:49)
+[2024.06.03-01.49.49:930][ 29]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.06.03-01.49.49:930][ 29]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.06.03-01.49.49:930][ 29]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.03-01.49.49:947][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016971s)
+[2024.06.03-01.49.49:947][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.017061s)
+[2024.06.03-01.49.49:953][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.06.03-01.49.49:954][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-01.49.49:954][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-01.49.49:955][ 29]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.03-01.49.49:956][ 29]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.03-01.49.49:956][ 29]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.03-01.49.49:956][ 29]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.03-01.49.49:956][ 29]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.03-01.49.49:959][ 29]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.06.03-01.49.49:959][ 29]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 897 ms)
+[2024.06.03-01.49.49:959][ 29]LogPlayLevel: PIE: World Init took: (0.005435s)
+[2024.06.03-01.49.49:959][ 29]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.03-01.49.49:960][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-01.49.49:960][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-01.49.49:960][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-01.49.49:960][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-01.49.49:960][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-01.49.49:960][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-01.49.49:960][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-01.49.49:960][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-01.49.49:960][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-01.49.49:960][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-01.49.49:960][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-01.49.49:963][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.03-01.49.50:097][ 29]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.06.03-01.49.50:097][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-01.49.50:097][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-01.49.50:097][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-01.49.50:099][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.06.03-01.49.50:099][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.06.03-01.49.50:102][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.06.03-01.49.50:102][ 29]LogInit: FAudioDevice initialized with ID 2.
+[2024.06.03-01.49.50:102][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.06.03-01.49.50:102][ 29]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.06.03-01.49.50:102][ 29]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.03-01.49.50:106][ 29]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.03-01.49.50:115][ 29]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.03-10.49.50
+[2024.06.03-01.49.50:116][ 29]LogWorld: Bringing up level for play took: 0.009376
+[2024.06.03-01.49.50:118][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2024.06.03-01.49.50:130][ 29]PIE: 서버가 로그인했습니다.
+[2024.06.03-01.49.50:132][ 29]PIE: 에디터에서 플레이 총 시작 시간 0.222초입니다.
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: ================================================
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: Total job queries 426, among them cache hits 340 (79.81%)
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 56 distinct outputs (65.12%)
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: RAM used: 1.76 MiB of 819.20 MiB budget. Usage: 0.22%
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.03-01.49.51:300][ 81]LogShaderCompilers: Display: ================================================
+[2024.06.03-01.49.52:683][151]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.03-01.49.52:683][151]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.03-01.50.01:295][788]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.03-01.50.01:295][788]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.06.03-01.50.01:295][788]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.06.03-01.50.01:295][788]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.06.03-01.50.01:295][788]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.06.03-01.50.01:295][788]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.06.03-01.50.01:298][788]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.06.03-01.50.01:298][788]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.06.03-01.50.01:298][788]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.06.03-01.50.01:299][788]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.06.03-01.50.01:299][788]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.03-01.50.01:299][788]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.03-01.50.01:299][788]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.06.03-01.50.01:299][788]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.06.03-01.50.01:300][788]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.06.03-01.50.01:300][788]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.06.03-01.50.01:300][788]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2024.06.03-01.50.01:300][788]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.06.03-01.50.01:300][788]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.06.03-01.50.01:300][788]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.06.03-01.50.01:300][788]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.06.03-01.50.01:310][788]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.06.03-01.50.02:012][792]LogContentStreaming: Texture pool size now 1000 MB
+[2024.06.03-01.50.03:843][929]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2024.06.03-01.50.03:843][929]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.06.03-01.50.03:843][929]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.06.03-01.50.03:843][929]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.06.03-01.50.03:843][929]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.06.03-01.50.03:843][929]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.06.03-01.50.03:843][929]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.06.03-01.50.03:844][929]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2024.06.03-01.50.03:844][929]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2024.06.03-01.50.03:844][929]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.06.03-01.50.03:844][929]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.06.03-01.50.03:880][929]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.06.03-01.50.04:118][931]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.06.03-01.50.04:789][932]LogContentStreaming: Texture pool size now 600 MB
+[2024.06.03-01.50.09:194][311]LogNet: Browse: /Game/LV_Design/MainMenuMap
+[2024.06.03-01.50.09:194][311]LogLoad: LoadMap: /Game/LV_Design/MainMenuMap
+[2024.06.03-01.50.09:194][311]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.03-01.50.09:195][311]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-01.50.09:197][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-01.50.09:197][311]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.03-01.50.09:225][311]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.03-01.50.09:229][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.06.03-01.50.09:234][311]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\LV_Design\MainMenuMap.umap: '/Game/Programming/UI/MenuGamemode' 로드 실패: 파일을 찾을 수 없습니다.
+[2024.06.03-01.50.09:234][311]LogLinker: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\LV_Design\MainMenuMap.umap: VerifyImport: Failed to load package for import object 'Package /Game/Programming/UI/MenuGamemode'
+[2024.06.03-01.50.09:240][311]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenuMap'.
+[2024.06.03-01.50.09:240][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-01.50.09:240][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-01.50.09:241][311]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.06.03-01.50.09:241][311]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2024.06.03-01.50.09:241][311]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.03-01.50.09:242][311]LogWorld: Bringing World /Game/LV_Design/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.06.03-10.50.09
+[2024.06.03-01.50.09:242][311]LogWorld: Bringing up level for play took: 0.000621
+[2024.06.03-01.50.09:243][311]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.03-01.50.09:247][311]LogLoad: Took 0.053429 seconds to LoadMap(/Game/LV_Design/MainMenuMap)
+[2024.06.03-01.50.13:393][727]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.03-01.50.13:393][727]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.06.03-01.50.13:393][727]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.06.03-01.50.13:394][727]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.06.03-01.50.13:394][727]LogWorld: BeginTearingDown for /Game/LV_Design/UEDPIE_0_MainMenuMap
+[2024.06.03-01.50.13:395][727]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-01.50.13:395][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-01.50.13:425][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.03-01.50.13:427][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.06.03-01.50.13:430][727]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.03-01.50.13:442][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011684s)
+[2024.06.03-01.50.13:442][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.011749s)
+[2024.06.03-01.50.13:442][727]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.06.03-01.50.13:442][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-01.50.13:442][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-01.50.13:442][727]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.03-01.50.13:443][727]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.03-01.50.13:443][727]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.03-01.50.13:443][727]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.03-01.50.13:443][727]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.03-01.50.13:446][727]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.06.03-01.50.13:446][727]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 900 ms)
+[2024.06.03-01.50.13:446][727]LogPlayLevel: PIE: World Init took: (0.004315s)
+[2024.06.03-01.50.13:446][727]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.03-01.50.13:453][727]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.03-10.50.13
+[2024.06.03-01.50.13:453][727]LogWorld: Bringing up level for play took: 0.006475
+[2024.06.03-01.50.13:458][727]LogLoad: Took 0.063558 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2024.06.03-01.50.16:621][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-01.50.16:621][973]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.03-01.50.16:621][973]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-01.50.16:622][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-01.50.16:623][973]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.03-01.50.16:627][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-01.50.16:630][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-01.50.16:637][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-01.50.16:638][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.03-01.50.16:638][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.03-01.50.16:640][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.03-01.50.16:650][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.06.03-01.50.16:777][974]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.06.03-01.50.19:674][188]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.06.03-01.50.19:674][188]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.06.03-01.50.19:674][188]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.06.03-01.50.19:674][188]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.06.03-01.50.19:675][188]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.06.03-01.50.19:683][188]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.06.03-01.50.19:699][189]LogContentStreaming: Texture pool size now 400 MB
+[2024.06.03-02.05.04:460][729]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI
+[2024.06.03-02.05.04:460][729]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-02.05.04:460][729]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-02.05.04:468][729]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-02.05.04:468][729]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-02.05.04:481][729]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2024.06.03-02.05.04:488][729]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.06.03-02.05.06:195][729]LogSlate: Took 0.000746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.06.03-02.05.06:204][729]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2024.06.03-02.05.06:206][729]LogSlate: Took 0.000919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.06.03-02.09.18:494][119]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.130 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10071 files in 12315 folders with total size 856 MiB.
+[2024.06.03-02.12.10:135][810]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/WB_GraphicsUI.WB_GraphicsUI
+[2024.06.03-02.12.10:136][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-02.12.10:136][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-02.12.10:144][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-02.12.10:144][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-02.12.26:078][628]LogSlate: Took 0.004422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.06.03-02.12.52:114][600]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.12.52:154][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.06.03-02.12.52:989][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.12.53:051][666]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.12.53:052][666]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI1DC378F949841152FF66578F466E7E0C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.12.53:060][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.94 sec)
+[2024.06.03-02.12.53:064][666]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.12.53:064][666]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.13.24:464][134]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.13.24:496][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.06.03-02.13.25:457][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.13.25:517][196]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.13.25:518][196]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI644CE47C4434DC80BF5D62A51A03F37F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.13.25:528][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.01 sec)
+[2024.06.03-02.13.25:533][196]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.13.25:533][196]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.13.42:192][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.13.42:263][961]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.13.42:265][961]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIB161F4C14CC51D5896C757BF59A5F593.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.13.42:274][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.10 sec)
+[2024.06.03-02.13.42:278][961]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.13.42:278][961]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.13.42:448][981]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.13.42:479][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.06.03-02.15.39:476][ 68]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.15.39:519][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.06.03-02.15.40:597][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.15.40:647][129]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.15.40:649][129]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIE9BB8DF148B2DF7700184C8F3E7A50B1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.15.40:658][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.16 sec)
+[2024.06.03-02.15.40:662][129]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.15.40:662][129]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.16.05:325][925]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.16.05:359][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.06.03-02.16.16:842][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.16.16:899][ 27]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.16.16:901][ 27]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUID11175344F00A6D9585AE296865AE29B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.16.16:908][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.22 sec)
+[2024.06.03-02.16.16:912][ 27]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.16.16:912][ 27]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.16.33:507][761]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.16.33:540][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.06.03-02.16.47:230][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.16.47:302][155]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.16.47:304][155]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI3434E3D945CAA10606E0BBA3E07CB4BA.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.16.47:314][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.31 sec)
+[2024.06.03-02.16.47:319][155]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.16.47:319][155]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.17.54:750][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.06.03-02.17.54:752][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2024.06.03-02.17.54:752][977]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Programming/UI/WB_AudioUI] ([2] browsable assets)...
+[2024.06.03-02.17.54:756][977]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI]
+[2024.06.03-02.17.54:756][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/Programming/UI/WB_AudioUI]
+[2024.06.03-02.17.54:763][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Programming/UI/WB_AudioUI_Auto2
+[2024.06.03-02.17.54:763][977]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI_Auto2044C72164EE3FCDB3B240A9CD3CA73EC.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Programming/UI/WB_AudioUI_Auto2.uasset'
+[2024.06.03-02.17.54:764][977]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.06.03-02.18.08:407][435]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2024.06.03-02.18.43:277][289]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.06.03-02.18.43:277][289]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.06.03-02.19.05:129][719]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.19.05:160][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.06.03-02.19.06:443][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.19.06:499][800]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.19.06:500][800]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIABDB6D644E263087F35326B147864DF2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.19.06:507][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.37 sec)
+[2024.06.03-02.19.06:511][800]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.19.06:511][800]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.19.18:044][901]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.06.03-02.19.43:913][567]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.19.43:947][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.03-02.20.36:494][202]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-02.20.44:265][967]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-02.21.03:344][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.21.03:402][955]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.21.03:404][955]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI4EFE661B48AAE16EFF11028F7335C469.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.21.03:414][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.44 sec)
+[2024.06.03-02.21.03:418][955]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.21.03:418][955]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.21.03:629][975]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.21.03:667][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.06.03-02.21.39:262][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.21.39:358][802]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.21.39:360][802]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIBF82432B4F343FA88262718B69A31BA2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.21.39:370][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.55 sec)
+[2024.06.03-02.21.39:376][802]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.21.39:376][802]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.21.40:395][860]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.21.40:436][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.06.03-02.21.41:229][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.21.41:311][901]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.21.41:313][901]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIBA9C3ADB4B129675CE631EBF8154CED6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.21.41:322][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.64 sec)
+[2024.06.03-02.21.41:327][901]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.21.41:327][901]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.21.45:182][253]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-02.21.46:321][371]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2024.06.03-02.21.48:680][545]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-02.21.50:073][664]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-02.21.50:626][700]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-02.21.51:267][764]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2024.06.03-02.21.51:916][786]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2024.06.03-02.21.53:472][932]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-02.21.54:434][ 13]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-02.22.03:294][927]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.22.03:330][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.06.03-02.22.04:182][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.22.04:328][965]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.22.04:329][965]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUID8402FC641ADCF20168D9B95D98A4C68.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.22.04:340][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 2.80 sec)
+[2024.06.03-02.22.04:344][965]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.22.04:344][965]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.22.43:354][464]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.22.43:392][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.06.03-02.22.44:289][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.22.44:435][506]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.22.44:436][506]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIF5D277C1414D300E8CF342A69E0ECC8A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.22.44:445][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 2.96 sec)
+[2024.06.03-02.22.44:451][506]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.22.44:451][506]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.22.45:562][556]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.22.45:604][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.06.03-02.22.46:586][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.22.46:719][601]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.22.46:720][601]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI7236991B4631B392E54366A0E81110DE.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.22.46:731][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.10 sec)
+[2024.06.03-02.22.46:739][601]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.22.46:739][601]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.23.48:005][993]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.23.48:045][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.06.03-02.23.49:165][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.03-02.23.49:352][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.23.49:512][ 75]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.23.49:514][ 75]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI3495C6224D948A8B77FB028E4BD4FCEC.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.23.49:524][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 3.27 sec)
+[2024.06.03-02.23.49:530][ 75]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.23.49:530][ 75]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.23.52:045][252]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.23.52:082][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.03-02.23.52:755][291]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.23.52:779][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.03-02.23.53:000][291]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.23.53:029][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.06.03-02.23.53:715][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.23.53:869][304]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.23.53:871][304]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI6997D2824C91766A6CEE6198F585A575.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.23.53:881][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 3.44 sec)
+[2024.06.03-02.23.53:887][304]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.23.53:887][304]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.23.54:152][309]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.23.54:193][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.06.03-02.23.54:401][309]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.23.54:430][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.03-02.24.05:464][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.24.05:531][348]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.24.05:532][348]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIA0872B164965C51DDE741F8184A1253A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.24.05:541][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.52 sec)
+[2024.06.03-02.24.05:548][348]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.24.05:548][348]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.24.06:028][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.24.06:113][357]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.24.06:116][357]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIBD0258B8461B77F7D3A5CDA4DC602D37.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.24.06:132][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 3.62 sec)
+[2024.06.03-02.24.06:144][357]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.24.06:144][357]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.24.06:846][382]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.24.06:896][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.06.03-02.24.08:879][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.24.09:042][535]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.24.09:043][535]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI2361B246465D8603FE38CAA3A75285AD.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.24.09:054][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 3.79 sec)
+[2024.06.03-02.24.09:060][535]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.24.09:060][535]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.24.11:005][710]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.24.11:045][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.06.03-02.24.13:536][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.06.03-02.24.15:432][928]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.06.03-02.24.15:747][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.24.15:905][928]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.24.15:906][928]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI2E7E1F37409BA9A08B6EBDBC94654C03.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.24.15:917][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 3.96 sec)
+[2024.06.03-02.24.15:934][928]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.24.15:934][928]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.24.16:017][928]LogAutomationController: Ignoring very large delta of 2.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-02.24.18:241][136]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.24.18:278][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.06.03-02.24.20:715][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.24.20:834][343]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.24.20:835][343]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI28E5450C4CAF767A06449F9F93C000EF.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.24.20:844][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.09 sec)
+[2024.06.03-02.24.20:849][343]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.24.20:849][343]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.24.23:361][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.06.03-02.24.26:204][540]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.06.03-02.24.26:482][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.24.26:603][540]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.24.26:604][540]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI8473FA0144ABF3D52D7A6E8A33CD575C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.24.26:615][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 4.23 sec)
+[2024.06.03-02.24.26:627][540]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.24.26:627][540]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.24.26:694][540]LogAutomationController: Ignoring very large delta of 3.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-02.24.32:613][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.03-02.24.37:320][ 99]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.06.03-02.24.37:573][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.24.37:693][ 99]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.24.37:694][ 99]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI7097BE8E49989274ECD056B40C192AF4.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.24.37:704][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 4.36 sec)
+[2024.06.03-02.24.37:713][ 99]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.24.37:713][ 99]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.24.37:785][ 99]LogAutomationController: Ignoring very large delta of 5.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-02.24.40:364][327]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.24.40:414][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.06.03-02.24.42:050][472]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.24.42:079][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.06.03-02.24.45:675][822]LogEditorTransaction: Undo 앵커 이동
+[2024.06.03-02.25.18:472][152]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.25.18:500][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.06.03-02.25.20:096][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.25.20:166][303]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.25.20:167][303]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUID3015D574B840A2BDEC33CA126FF6914.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.25.20:177][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 4.44 sec)
+[2024.06.03-02.25.20:181][303]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.25.20:182][303]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.25.20:639][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.25.20:730][328]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.25.20:732][328]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI375FA42D4CE8294AA25C78917108460F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.25.20:741][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 4.54 sec)
+[2024.06.03-02.25.20:744][328]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.25.20:744][328]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.25.21:171][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.25.21:252][341]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.25.21:254][341]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI358ECCE84F46EA4AFF45CABE237A6BB8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.25.21:267][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.63 sec)
+[2024.06.03-02.25.21:271][341]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.25.21:272][341]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.25.21:818][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.25.21:912][368]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.25.21:914][368]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIC7F5F38640BE5A8D25C3F09CC1F570AA.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.25.21:927][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 4.74 sec)
+[2024.06.03-02.25.21:928][368]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.25.21:928][368]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.32.21:651][951]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.32.24:526][270]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.32.28:233][696]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.32.28:275][700]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.32.31:490][ 65]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.32.35:501][531]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.32.35:548][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.06.03-02.32.36:373][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.32.36:454][595]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.32.36:456][595]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI9B198FD445FB5523F16E79BEF8F2D34A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.32.36:465][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.84 sec)
+[2024.06.03-02.32.36:469][595]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.32.36:469][595]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.33.13:445][909]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-02.33.13:489][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.06.03-02.33.14:322][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.33.14:390][975]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.33.14:392][975]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIC0BA3F134702AB6B75CF6FBCB93E0E99.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.33.14:399][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 4.91 sec)
+[2024.06.03-02.33.14:402][975]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.33.14:402][975]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.34.16:776][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.34.16:853][432]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.34.16:855][432]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIEF8EC5B24289D26B91876286D283A3B8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.34.16:863][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.00 sec)
+[2024.06.03-02.34.16:867][432]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-02.34.16:867][432]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.34.40:412][866]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/Programming/Audio/SFX_Music.SFX_Music
+[2024.06.03-02.34.42:528][946]LogSlate: Window 'SFX_Music' being destroyed
+[2024.06.03-02.35.05:213][178]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/MainSoundMix.MainSoundMix
+[2024.06.03-02.35.20:019][982]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.35.22:753][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.35.22:803][128]LogSavePackage: Moving output files for package: /Game/Programming/Audio/MainSoundMix
+[2024.06.03-02.35.22:804][128]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainSoundMixAB4BD64B4DC07C0EFA4FF280EF7C2AD4.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/MainSoundMix.uasset'
+[2024.06.03-02.35.22:812][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 5.06 sec)
+[2024.06.03-02.35.22:816][128]AssetCheck: New page: 에셋 저장:  MainSoundMix
+[2024.06.03-02.35.22:816][128]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/MainSoundMix.MainSoundMix 유효성 검사 중
+[2024.06.03-02.35.23:522][162]LogSlate: Window 'MainSoundMix' being destroyed
+[2024.06.03-02.35.31:379][722]LogContentBrowser: Attempting asset rename: MainSoundMix -> MasterMix
+[2024.06.03-02.35.32:821][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.35.32:873][722]LogSavePackage: Moving output files for package: /Game/Programming/Audio/MasterMix
+[2024.06.03-02.35.32:873][722]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MasterMix2913C79445BDA6888EF2F7BDCAC792FA.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/MasterMix.uasset'
+[2024.06.03-02.35.32:879][722]LogSavePackage: Moving output files for package: /Game/Programming/Audio/MainSoundMix
+[2024.06.03-02.35.32:881][722]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MainSoundMix482115284CDFFF20D5194890DC0F3024.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/MainSoundMix.uasset'
+[2024.06.03-02.35.33:292][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 470 ms (total: 5.53 sec)
+[2024.06.03-02.35.33:860][722]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.06.03-02.35.33:860][722]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/MasterMix.MasterMix 유효성 검사 중
+[2024.06.03-02.35.33:860][722]LogContentValidation: Display: /Script/CoreUObject.ObjectRedirector /Game/Programming/Audio/MainSoundMix.MainSoundMix 유효성 검사 중
+[2024.06.03-02.35.33:880][722]LogAutomationController: Ignoring very large delta of 2.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-02.35.41:998][179]LogContentBrowser: Deferred new asset file creation: NewSoundMix
+[2024.06.03-02.35.42:012][179]LogContentBrowser: Creating deferred item: NewSoundMix
+[2024.06.03-02.35.42:030][180]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundMix).
+[2024.06.03-02.35.46:664][545]LogContentBrowser: Attempting asset rename: NewSoundMix -> MusicMix
+[2024.06.03-02.35.46:859][545]LogContentBrowser: End creating deferred item NewSoundMix
+[2024.06.03-02.35.48:540][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.35.48:606][662]LogSavePackage: Moving output files for package: /Game/Programming/Audio/MusicMix
+[2024.06.03-02.35.48:606][662]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MusicMix04C268654FEECAA8A1D7FCBD8DD74AD6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/MusicMix.uasset'
+[2024.06.03-02.35.48:972][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 432 ms (total: 5.96 sec)
+[2024.06.03-02.35.48:973][662]AssetCheck: New page: 에셋 저장:  MusicMix
+[2024.06.03-02.35.48:973][662]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/MusicMix.MusicMix 유효성 검사 중
+[2024.06.03-02.35.53:144][880]LogContentBrowser: Deferred new asset file creation: NewSoundMix
+[2024.06.03-02.35.53:160][880]LogContentBrowser: Creating deferred item: NewSoundMix
+[2024.06.03-02.35.53:178][881]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundMix).
+[2024.06.03-02.35.59:851][380]LogContentBrowser: Attempting asset rename: NewSoundMix -> EffectsMix
+[2024.06.03-02.36.00:056][380]LogContentBrowser: End creating deferred item NewSoundMix
+[2024.06.03-02.36.05:171][673]LogContentBrowser: Deferred new asset file creation: NewSoundMix
+[2024.06.03-02.36.05:186][673]LogContentBrowser: Creating deferred item: NewSoundMix
+[2024.06.03-02.36.05:204][674]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundMix).
+[2024.06.03-02.36.11:675][199]LogContentBrowser: Attempting asset rename: NewSoundMix -> AmbientMix
+[2024.06.03-02.36.11:881][199]LogContentBrowser: End creating deferred item NewSoundMix
+[2024.06.03-02.36.14:007][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.36.14:055][343]LogSavePackage: Moving output files for package: /Game/Programming/Audio/AmbientMix
+[2024.06.03-02.36.14:055][343]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/AmbientMixBB6E9C5D4313039876ABDC9CE63E2CCE.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/AmbientMix.uasset'
+[2024.06.03-02.36.14:400][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 392 ms (total: 6.35 sec)
+[2024.06.03-02.36.14:400][343]AssetCheck: New page: 에셋 저장:  AmbientMix
+[2024.06.03-02.36.14:401][343]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/AmbientMix.AmbientMix 유효성 검사 중
+[2024.06.03-02.36.16:361][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.06.03-02.36.17:728][465]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.06.03-02.36.18:083][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.36.18:137][465]LogSavePackage: Moving output files for package: /Game/Programming/Audio/EffectsMix
+[2024.06.03-02.36.18:137][465]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/EffectsMixBF5F0056444C0445A779B483D8B4B9D8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/EffectsMix.uasset'
+[2024.06.03-02.36.18:163][465]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-02.36.18:164][465]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUID818EE4A4F8D1CCD2CE2AB8C6A50ACD4.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-02.36.18:567][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 483 ms (total: 6.84 sec)
+[2024.06.03-02.36.18:586][465]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.06.03-02.36.18:586][465]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/EffectsMix.EffectsMix 유효성 검사 중
+[2024.06.03-02.36.18:586][465]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-02.36.18:608][465]LogAutomationController: Ignoring very large delta of 2.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-02.36.30:335][357]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/AmbientMix.AmbientMix
+[2024.06.03-02.36.36:739][707]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.36.40:307][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.36.40:353][902]LogSavePackage: Moving output files for package: /Game/Programming/Audio/AmbientMix
+[2024.06.03-02.36.40:355][902]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/AmbientMix7C169F844D3861A9EC01269A0235DA58.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/AmbientMix.uasset'
+[2024.06.03-02.36.40:364][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 6.89 sec)
+[2024.06.03-02.36.40:367][902]AssetCheck: New page: 에셋 저장:  AmbientMix
+[2024.06.03-02.36.40:367][902]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/AmbientMix.AmbientMix 유효성 검사 중
+[2024.06.03-02.36.40:865][929]LogSlate: Window 'AmbientMix' being destroyed
+[2024.06.03-02.36.42:143][ 16]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/EffectsMix.EffectsMix
+[2024.06.03-02.36.48:771][379]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.36.52:321][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.36.52:374][574]LogSavePackage: Moving output files for package: /Game/Programming/Audio/EffectsMix
+[2024.06.03-02.36.52:375][574]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/EffectsMix32792DE645643563A00ED0ABA285816F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/EffectsMix.uasset'
+[2024.06.03-02.36.52:387][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 6.96 sec)
+[2024.06.03-02.36.52:390][574]AssetCheck: New page: 에셋 저장:  EffectsMix
+[2024.06.03-02.36.52:390][574]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/EffectsMix.EffectsMix 유효성 검사 중
+[2024.06.03-02.36.52:858][595]LogSlate: Window 'EffectsMix' being destroyed
+[2024.06.03-02.36.54:680][702]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/MusicMix.MusicMix
+[2024.06.03-02.37.00:238][996]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-02.37.03:505][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.37.03:553][179]LogSavePackage: Moving output files for package: /Game/Programming/Audio/MusicMix
+[2024.06.03-02.37.03:554][179]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MusicMixF8817B1B4EAC8FB1E94855B4CE04CB6B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/MusicMix.uasset'
+[2024.06.03-02.37.03:563][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 7.02 sec)
+[2024.06.03-02.37.03:566][179]AssetCheck: New page: 에셋 저장:  MusicMix
+[2024.06.03-02.37.03:566][179]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/MusicMix.MusicMix 유효성 검사 중
+[2024.06.03-02.37.04:138][205]LogSlate: Window 'MusicMix' being destroyed
+[2024.06.03-02.37.05:082][255]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/MasterMix.MasterMix
+[2024.06.03-02.37.07:794][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-02.37.07:853][371]LogSavePackage: Moving output files for package: /Game/Programming/Audio/MasterMix
+[2024.06.03-02.37.07:855][371]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MasterMix38C9A2E84F50F74AB8C105859A083845.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Audio/MasterMix.uasset'
+[2024.06.03-02.37.07:863][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 7.09 sec)
+[2024.06.03-02.37.07:866][371]AssetCheck: New page: 에셋 저장:  MasterMix
+[2024.06.03-02.37.07:866][371]LogContentValidation: Display: /Script/Engine.SoundMix /Game/Programming/Audio/MasterMix.MasterMix 유효성 검사 중
+[2024.06.03-02.37.08:319][393]LogSlate: Window 'MasterMix' being destroyed
+[2024.06.03-02.37.09:215][453]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/MusicMix.MusicMix
+[2024.06.03-02.37.11:071][523]LogSlate: Window 'MusicMix' being destroyed
+[2024.06.03-02.37.11:815][574]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/EffectsMix.EffectsMix
+[2024.06.03-02.37.13:567][642]LogSlate: Window 'EffectsMix' being destroyed
+[2024.06.03-02.37.14:312][692]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/AmbientMix.AmbientMix
+[2024.06.03-02.37.16:263][773]LogSlate: Window 'AmbientMix' being destroyed
+[2024.06.03-03.00.59:882][911]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-03.01.00:053][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.06.03-03.01.00:811][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.01.00:894][959]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-03.01.00:896][959]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIAD20E1E844102A2986AD579BD78543A2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-03.01.00:907][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.18 sec)
+[2024.06.03-03.01.00:912][959]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-03.01.00:912][959]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-03.01.18:663][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.01.18:746][509]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-03.01.18:747][509]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUID73EF192442201E7D51611B56FF87398.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-03.01.18:757][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 7.28 sec)
+[2024.06.03-03.01.18:762][509]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-03.01.18:762][509]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-03.09.18:612][938]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.247 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10072 files in 12317 folders with total size 856 MiB.
+[2024.06.03-03.10.47:737][325]LogSlate: Took 0.001357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.06.03-03.10.55:407][189]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-03.10.55:556][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.06.03-03.11.33:949][506]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-03.11.39:241][ 78]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-03.11.40:588][218]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-03.11.40:635][223]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-03.11.42:141][391]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-03.11.42:185][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.06.03-03.11.43:287][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.11.43:382][474]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-03.11.43:383][474]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIBBEB750A40CC535482160DBEE2AD4968.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-03.11.43:393][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 7.38 sec)
+[2024.06.03-03.11.43:400][474]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-03.11.43:400][474]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-03.18.26:862][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.06.03-03.18.26:865][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2024.06.03-03.18.26:865][377]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Programming/UI/WB_AudioUI] ([2] browsable assets)...
+[2024.06.03-03.18.26:870][377]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI]
+[2024.06.03-03.18.26:870][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Programming/UI/WB_AudioUI]
+[2024.06.03-03.18.26:894][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Programming/UI/WB_AudioUI_Auto3
+[2024.06.03-03.18.26:896][377]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI_Auto3A77D4AA8432F74C12C4A69860395E10C.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Programming/UI/WB_AudioUI_Auto3.uasset'
+[2024.06.03-03.18.26:899][377]LogFileHelpers: Auto-saving content packages took 0.035
