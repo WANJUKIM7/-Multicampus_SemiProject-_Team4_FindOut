@@ -1787,3 +1787,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.03-05.13.00:400][ 63]LogTexture: Display: 텍스처 빌드 중: /Game/LV_Design/Asset/OBJ/2/sdf_matt2_Normal.sdf_matt2_Normal(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 307.562488MB), 인코딩 속도: Fast
 [2024.06.03-05.13.00:479][ 66]LogTexture: Display: 텍스처 빌드 중: /Game/LV_Design/Asset/OBJ/2/sdf_matt2_Roughness.sdf_matt2_Roughness(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 276.062484MB), 인코딩 속도: Fast
 [2024.06.03-05.13.00:579][ 70]LogTexture: Display: 텍스처 빌드 중: /Game/LV_Design/Asset/OBJ/2/asf_ao_1.asf_ao_1(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 276.062484MB), 인코딩 속도: Fast
+[2024.06.03-05.15.04:256][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.15.04:345][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.03-05.15.04:358][422]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.011050 seconds
+[2024.06.03-05.15.04:850][422]LogSavePackage: Moving output files for package: /Game/LV_Design/Prototype
+[2024.06.03-05.15.04:852][422]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Prototype1877B385409CE3BDC60D86A15AE8388B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/Prototype.umap'
+[2024.06.03-05.15.04:880][422]LogFileHelpers: Saving map 'Prototype' took 0.568
+[2024.06.03-05.15.04:887][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 630 ms
+[2024.06.03-05.15.04:895][422]AssetCheck: New page: 에셋 저장:  Prototype
+[2024.06.03-05.15.04:895][422]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/Prototype.Prototype 유효성 검사 중
