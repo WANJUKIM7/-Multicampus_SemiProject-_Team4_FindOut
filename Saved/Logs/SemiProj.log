@@ -2374,3 +2374,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.03-07.44.24:902][900]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Audio/SaveAudio.SaveAudio
 [2024.06.03-07.44.24:902][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.06.03-07.44.24:902][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-07.47.37:566][112]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-07.47.37:610][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.06.03-07.47.38:564][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-07.47.38:656][133]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-07.47.38:657][133]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIFF66835346A5A662309A24B91545759B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-07.47.38:668][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 7.11 sec)
+[2024.06.03-07.47.38:672][133]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-07.47.38:673][133]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
