@@ -2155,3 +2155,97 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.03-03.54.03:224][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.55 sec)
 [2024.06.03-03.54.03:229][959]AssetCheck: New page: 에셋 저장:  WB_AudioUI
 [2024.06.03-03.54.03:229][959]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-04.03.28:427][ 70]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오후 10:03:28
+[2024.06.03-04.03.28:495][ 71]LogEditorFactories: Performing atomic reimport of [C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx]
+[2024.06.03-04.03.28:514][ 71]LogFbx: Loading FBX Scene from C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx
+[2024.06.03-04.03.28:528][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.03-04.03.28:582][ 71]LogEditorFactories: -- imported successfully
+[2024.06.03-04.03.28:589][ 71]LogEditorFactories: Performing atomic reimport of [C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx]
+[2024.06.03-04.03.28:600][ 71]LogFbx: Loading FBX Scene from C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx
+[2024.06.03-04.03.28:609][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.03-04.03.28:628][ 71]LogEditorFactories: -- imported successfully
+[2024.06.03-04.03.28:631][ 71]LogEditorFactories: Performing atomic reimport of [C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx]
+[2024.06.03-04.03.28:639][ 71]LogFbx: Loading FBX Scene from C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx
+[2024.06.03-04.03.28:647][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.03-04.03.28:774][ 71]LogEditorFactories: -- imported successfully
+[2024.06.03-04.03.28:778][ 71]LogEditorFactories: Performing atomic reimport of [C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx]
+[2024.06.03-04.03.28:786][ 71]LogFbx: Loading FBX Scene from C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx
+[2024.06.03-04.03.28:794][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.03-04.03.28:817][ 71]LogEditorFactories: -- imported successfully
+[2024.06.03-04.03.28:821][ 71]LogEditorFactories: Performing atomic reimport of [C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx]
+[2024.06.03-04.03.28:832][ 71]LogFbx: Loading FBX Scene from C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx
+[2024.06.03-04.03.28:840][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.03-04.03.28:861][ 71]LogEditorFactories: -- imported successfully
+[2024.06.03-04.03.28:864][ 71]LogEditorFactories: Performing atomic reimport of [C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx]
+[2024.06.03-04.03.28:874][ 71]LogFbx: Loading FBX Scene from C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx
+[2024.06.03-04.03.28:881][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.03-04.03.28:907][ 71]LogEditorFactories: -- imported successfully
+[2024.06.03-04.03.29:255][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.03.29:318][ 72]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-04.03.29:894][ 72]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브_001
+[2024.06.03-04.03.29:896][ 72]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_큐브_00135C22527449899AC8BDF47B2EAA85733.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브_001.uasset'
+[2024.06.03-04.03.29:915][ 72]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브
+[2024.06.03-04.03.29:917][ 72]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_큐브C14B1CCD4CE0EA57427735A0BEE70FDF.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브.uasset'
+[2024.06.03-04.03.29:943][ 72]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_005
+[2024.06.03-04.03.29:945][ 72]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_실린더_005E0F99C3D4B7259B7EEEE97A16353E36B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_005.uasset'
+[2024.06.03-04.03.29:966][ 72]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_004
+[2024.06.03-04.03.29:968][ 72]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_실린더_004644F64E74391D47A15FEEB8EE60EF8E0.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_004.uasset'
+[2024.06.03-04.03.29:989][ 72]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_002
+[2024.06.03-04.03.29:991][ 72]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_실린더_002E41A787B4E8FAD682438E69EE39176D9.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_002.uasset'
+[2024.06.03-04.03.30:006][ 72]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더
+[2024.06.03-04.03.30:007][ 72]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/screen_실린더72F8F946458195B16C44C9852F2FE08F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더.uasset'
+[2024.06.03-04.03.30:026][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 771 ms (total: 8.32 sec)
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: ================================================
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: Total job queries 440, among them cache hits 350 (79.55%)
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: Tracking 90 distinct input hashes that result in 58 distinct outputs (64.44%)
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: RAM used: 1.84 MiB of 819.20 MiB budget. Usage: 0.23%
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.03-04.03.30:044][ 72]LogShaderCompilers: Display: ================================================
+[2024.06.03-04.03.30:060][ 73]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.06.03-04.03.30:060][ 73]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브_001.screen_큐브_001 유효성 검사 중
+[2024.06.03-04.03.30:060][ 73]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_큐브.screen_큐브 유효성 검사 중
+[2024.06.03-04.03.30:060][ 73]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_005.screen_실린더_005 유효성 검사 중
+[2024.06.03-04.03.30:060][ 73]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_004.screen_실린더_004 유효성 검사 중
+[2024.06.03-04.03.30:060][ 73]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더_002.screen_실린더_002 유효성 검사 중
+[2024.06.03-04.03.30:060][ 73]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/Evidence+Puzzle_Asset/EviPuzzle4_1/screen_실린더.screen_실린더 유효성 검사 중
+[2024.06.03-04.03.31:913][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.06.03-04.03.33:031][201]AssetReimport: C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx에서 screen_큐브_001 에셋을 리임포트했습니다.
+[2024.06.03-04.03.33:031][201]AssetReimport: C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx에서 screen_큐브 에셋을 리임포트했습니다.
+[2024.06.03-04.03.33:031][201]AssetReimport: C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx에서 screen_실린더_005 에셋을 리임포트했습니다.
+[2024.06.03-04.03.33:031][201]AssetReimport: C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx에서 screen_실린더_004 에셋을 리임포트했습니다.
+[2024.06.03-04.03.33:031][201]AssetReimport: C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx에서 screen_실린더_002 에셋을 리임포트했습니다.
+[2024.06.03-04.03.33:031][201]AssetReimport: C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle4_1/screen.fbx에서 screen_실린더 에셋을 리임포트했습니다.
+[2024.06.03-04.03.35:084][201]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.06.03-04.03.36:056][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.03.36:117][201]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CH/B2ERN3EQ68MANFAPCSNVC7
+[2024.06.03-04.03.36:118][201]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/B2ERN3EQ68MANFAPCSNVC786AA1B7A4C931C6EF34E9786AECA5C8D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CH/B2ERN3EQ68MANFAPCSNVC7.uasset'
+[2024.06.03-04.03.36:124][201]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JY/49OLWZMKY07ZVDH852FRZB
+[2024.06.03-04.03.36:126][201]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/49OLWZMKY07ZVDH852FRZB5B1E39A448EC4E7FFE6AAEB930FF77A9.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JY/49OLWZMKY07ZVDH852FRZB.uasset'
+[2024.06.03-04.03.36:131][201]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/KQ/QCLZYYOMXXTI3EP0ROMARA
+[2024.06.03-04.03.36:132][201]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/QCLZYYOMXXTI3EP0ROMARA168FBA32486805FF0ECA13874A5E7472.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/KQ/QCLZYYOMXXTI3EP0ROMARA.uasset'
+[2024.06.03-04.03.36:139][201]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/TY/K1BGKC6G2C3PA7KZ2CDRHV
+[2024.06.03-04.03.36:140][201]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/K1BGKC6G2C3PA7KZ2CDRHV7EAC9F344A0227087C6697A441839A18.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/TY/K1BGKC6G2C3PA7KZ2CDRHV.uasset'
+[2024.06.03-04.03.36:146][201]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8B/QIWOCJ0VKOHO3WLU6NJ7KM
+[2024.06.03-04.03.36:147][201]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/QIWOCJ0VKOHO3WLU6NJ7KM50FA84A241DA19AC1B6AF18D4D43972E.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8B/QIWOCJ0VKOHO3WLU6NJ7KM.uasset'
+[2024.06.03-04.03.36:153][201]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/40/VZL5DHYQ0ZE7XGJFN5U6F5
+[2024.06.03-04.03.36:154][201]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/VZL5DHYQ0ZE7XGJFN5U6F5B07EDF044E92A391B8E097A54E259F61.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/40/VZL5DHYQ0ZE7XGJFN5U6F5.uasset'
+[2024.06.03-04.03.36:166][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 8.43 sec)
+[2024.06.03-04.03.36:175][201]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.06.03-04.03.36:176][201]LogContentValidation: Display: /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_30F6EFF1AFFDDDFA01_2063581061 유효성 검사 중
+[2024.06.03-04.03.36:176][201]LogContentValidation: Display: /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_30F6EFF1AFFDDDFA01_2092642062 유효성 검사 중
+[2024.06.03-04.03.36:176][201]LogContentValidation: Display: /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_30F6EFF1AFFDDDFA01_2096857063 유효성 검사 중
+[2024.06.03-04.03.36:176][201]LogContentValidation: Display: /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_30F6EFF1AFFDDDFA01_2100229064 유효성 검사 중
+[2024.06.03-04.03.36:176][201]LogContentValidation: Display: /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_30F6EFF1AFFDDDFA01_2102729065 유효성 검사 중
+[2024.06.03-04.03.36:176][201]LogContentValidation: Display: /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_30F6EFF1AFFDDDFA01_2105558066 유효성 검사 중
+[2024.06.03-04.03.36:188][202]LogAutomationController: Ignoring very large delta of 4.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-04.03.49:029][323]LogSlate: Took 0.001469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.06.03-04.04.33:816][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-04.04.33:883][761]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-04.04.33:884][761]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIFBDC2C20436EA110EFBA3D846D44CEB2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-04.04.33:895][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 8.51 sec)
+[2024.06.03-04.04.33:900][761]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-04.04.33:900][761]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
