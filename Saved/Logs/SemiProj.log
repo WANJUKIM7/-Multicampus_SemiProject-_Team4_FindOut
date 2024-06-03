@@ -1796,3 +1796,209 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.03-05.15.04:887][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 630 ms
 [2024.06.03-05.15.04:895][422]AssetCheck: New page: 에셋 저장:  Prototype
 [2024.06.03-05.15.04:895][422]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/Prototype.Prototype 유효성 검사 중
+[2024.06.03-05.38.54:045][828]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI
+[2024.06.03-05.38.54:046][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.38.54:046][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-05.38.54:053][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.38.54:053][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-05.38.54:061][828]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2024.06.03-05.38.54:062][828]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.06.03-05.38.55:339][828]LogSlate: Took 0.001085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.06.03-05.38.55:347][828]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2024.06.03-05.38.55:349][828]LogSlate: Took 0.000943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.06.03-05.39.01:292][489]LogSlate: Took 0.004372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.06.03-05.39.13:714][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: ================================================
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Total job queries 4,558, among them cache hits 524 (11.50%)
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Tracking 3,995 distinct input hashes that result in 2,777 distinct outputs (69.51%)
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: RAM used: 71.50 MiB of 819.20 MiB budget. Usage: 8.73%
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Shaders Compiled: 3,952
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Jobs assigned 3,956, completed 3,952 (99.90%)
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Average time worker was idle: 13.30 s
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Time job spent in pending queue: average 168.99 s, longest 363.80 s
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Job execution time: average 4.80 s, max 17.92 s
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Job life time (pending + execution): average 173.96 s, max 372.40
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Shader code size: average 38.002 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.06.03-05.39.14:531][586]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 442.95 s
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: Jobs were issued in 509 batches (only local compilation was used), average 7.77 jobs/batch
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: Average processing rate: 8.92 jobs/sec
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: Total thread time: 2,055.416 s
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: Total thread preprocess time: 151.186 s
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: Percentage time preprocessing: 7.36%
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: Effective parallelization: 4.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 6.29 sec, max 10.92 sec, min 2.03 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.34 sec, max 6.15 sec, min 3.88 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 2.23 sec, max 2.23 sec, min 2.23 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.00 sec, max 3.18 sec, min 1.19 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.15% of total time (compiled  134 times, average 1.71 sec, max 3.35 sec, min 1.31 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.04% of total time (compiled   96 times, average 1.08 sec, max 1.99 sec, min 0.68 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.10% of total time (compiled   96 times, average 0.88 sec, max 1.42 sec, min 0.20 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.89% of total time (compiled  128 times, average 0.62 sec, max 1.33 sec, min 0.32 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.66% of total time (compiled  128 times, average 0.59 sec, max 2.47 sec, min 0.18 sec)
+[2024.06.03-05.39.14:532][586]LogShaderCompilers: Display: ================================================
+[2024.06.03-05.39.16:888][724]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Programming/Audio/MasterMix.MasterMix
+[2024.06.03-05.40.27:652][464]LogSlate: Window 'MasterMix' being destroyed
+[2024.06.03-05.40.57:678][ 72]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.40.57:717][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.03-05.40.58:566][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.40.58:648][136]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.40.58:649][136]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI0655BBBA40C1156739E977A4B6EA4C46.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.40.58:658][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 721 ms)
+[2024.06.03-05.40.58:662][136]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.40.58:662][136]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.41.32:485][510]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.41.32:520][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.06.03-05.42.24:577][259]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.06.03-05.42.24:577][259]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.06.03-05.42.34:733][331]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-05.42.35:894][427]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-05.42.36:919][507]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.06.03-05.42.46:372][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.42.46:532][490]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.42.46:533][490]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI6B09519248EAF0AE69DE17A1615FA520.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.42.46:546][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 895 ms)
+[2024.06.03-05.42.46:559][490]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.42.46:559][490]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.43.00:222][808]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.06.03-05.43.06:015][447]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.43.06:045][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.03-05.43.07:013][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.43.07:161][499]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.43.07:162][499]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI064A79F54928F62835F1A1BE8976216A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.43.07:173][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 1.05 sec)
+[2024.06.03-05.43.07:180][499]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.43.07:180][499]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.43.08:486][587]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.43.08:517][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.06.03-05.43.09:279][628]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.43.09:304][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.06.03-05.43.09:549][628]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.43.09:570][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.06.03-05.43.10:470][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.43.10:635][661]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.43.10:637][661]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI4CFD037340C878396E321DBAFDF63D68.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.43.10:645][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 1.22 sec)
+[2024.06.03-05.43.10:652][661]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.43.10:652][661]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.43.12:995][831]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.43.13:036][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.06.03-05.43.13:846][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.43.13:909][889]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.43.13:910][889]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI7E6314D5497F9B8181B7A4ACDB7D16B6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.43.13:918][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.30 sec)
+[2024.06.03-05.43.13:922][889]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.43.13:922][889]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.44.08:223][823]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.44.08:260][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.06.03-05.44.09:145][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.44.09:197][890]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.44.09:199][890]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIDD40DEED4E4B3FADE47696B9AB8DEE22.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.44.09:209][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.36 sec)
+[2024.06.03-05.44.09:212][890]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.44.09:213][890]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.44.40:060][504]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.03-05.44.41:388][653]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.44.44:513][990]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.44.45:668][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.44.45:693][119]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Voice.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.45.04:048][172]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.45.33:779][612]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.45.38:165][ 95]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.45.40:622][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Special_Attack_PSM.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.45.43:835][725]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.45.46:124][985]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.45.46:163][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.06.03-05.45.47:450][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.45.47:512][ 99]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.45.47:514][ 99]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI4BF1A90E4E998B8C7872C095119E2C05.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.45.47:522][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.43 sec)
+[2024.06.03-05.45.47:526][ 99]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.45.47:526][ 99]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.46.27:142][545]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.46.30:971][960]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.46.34:372][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.46.37:177][618]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.46.40:323][954]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.46.44:738][442]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut'
+[2024.06.03-05.46.45:975][587]BlueprintLog: New page: WB_AudioUI 컴파일
+[2024.06.03-05.46.46:014][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.06.03-05.46.47:117][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.46.47:183][675]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.46.47:184][675]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI60956C79492A366F177789A4C8A4CE04.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.46.47:193][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.51 sec)
+[2024.06.03-05.46.47:197][675]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.46.47:197][675]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.47.46:061][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.06.03-05.47.46:064][827]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LV_Design/Prototype' took 0.024
+[2024.06.03-05.47.46:065][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Programming/UI/WB_AudioUI] ([2] browsable assets)...
+[2024.06.03-05.47.46:065][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/Programming/UI/WB_AudioUI]
+[2024.06.03-05.47.46:080][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Programming/UI/WB_AudioUI_Auto1
+[2024.06.03-05.47.46:080][827]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUI_Auto1D738824E4C9A499C981549A932919400.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Programming/UI/WB_AudioUI_Auto1.uasset'
+[2024.06.03-05.47.46:082][827]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.06.03-05.47.57:522][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.47.57:599][861]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
+[2024.06.03-05.47.57:601][861]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIB40A9E074A4904CCCB0DB6A097A43476.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
+[2024.06.03-05.47.57:609][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.59 sec)
+[2024.06.03-05.47.57:613][861]AssetCheck: New page: 에셋 저장:  WB_AudioUI
+[2024.06.03-05.47.57:613][861]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
+[2024.06.03-05.48.10:735][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.48.12:015][192]LogShaderCompilers: Display: ================================================
+[2024.06.03-05.48.12:015][192]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.03-05.48.12:015][192]LogShaderCompilers: Display: Total job queries 4,559, among them cache hits 524 (11.49%)
+[2024.06.03-05.48.12:015][192]LogShaderCompilers: Display: Tracking 4,003 distinct input hashes that result in 2,783 distinct outputs (69.52%)
+[2024.06.03-05.48.12:015][192]LogShaderCompilers: Display: RAM used: 71.73 MiB of 819.20 MiB budget. Usage: 8.76%
+[2024.06.03-05.48.12:015][192]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Shaders Compiled: 3,960
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Jobs assigned 3,960, completed 3,960 (100%)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Average time worker was idle: 14.24 s
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Time job spent in pending queue: average 168.82 s, longest 363.80 s
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Job execution time: average 4.79 s, max 17.92 s
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Job life time (pending + execution): average 173.61 s, max 372.40
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Shader code size: average 38.03 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 445.69 s
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Jobs were issued in 513 batches (only local compilation was used), average 7.72 jobs/batch
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Average processing rate: 8.89 jobs/sec
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Total thread time: 2,060.415 s
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Total thread preprocess time: 151.882 s
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Percentage time preprocessing: 7.37%
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Effective parallelization: 4.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 6.29 sec, max 10.92 sec, min 2.03 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.34 sec, max 6.15 sec, min 3.88 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 2.23 sec, max 2.23 sec, min 2.23 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.00 sec, max 3.18 sec, min 1.19 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.12% of total time (compiled  134 times, average 1.71 sec, max 3.35 sec, min 1.31 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.03% of total time (compiled   96 times, average 1.08 sec, max 1.99 sec, min 0.68 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.09% of total time (compiled   96 times, average 0.88 sec, max 1.42 sec, min 0.20 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.88% of total time (compiled  128 times, average 0.62 sec, max 1.33 sec, min 0.32 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.65% of total time (compiled  128 times, average 0.59 sec, max 2.47 sec, min 0.18 sec)
+[2024.06.03-05.48.12:016][192]LogShaderCompilers: Display: ================================================
+[2024.06.03-05.48.12:113][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.48.15:516][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.48.15:541][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.48.15:575][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.49.32:287][970]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI
+[2024.06.03-05.49.32:287][970]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.49.32:288][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-05.49.32:295][970]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.49.32:295][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-05.49.39:755][694]LogSlate: Took 0.001583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.06.03-05.50.08:169][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-05.50.08:238][361]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_OptionUI
+[2024.06.03-05.50.08:240][361]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_OptionUI1ACD8C5348BE3A7B3BAB5980D0EDD8FB.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_OptionUI.uasset'
+[2024.06.03-05.50.08:248][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.67 sec)
+[2024.06.03-05.50.08:252][361]AssetCheck: New page: 에셋 저장:  WB_OptionUI
+[2024.06.03-05.50.08:252][361]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_OptionUI.WB_OptionUI 유효성 검사 중
+[2024.06.03-05.50.32:472][650]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Programming/UI/WB_GraphicsUI.WB_GraphicsUI
+[2024.06.03-05.50.32:473][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.50.32:473][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-05.50.32:485][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.03-05.50.32:485][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.03-06.06.26:197][109]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.320 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11828 files in 14122 folders with total size 1053 MiB.
