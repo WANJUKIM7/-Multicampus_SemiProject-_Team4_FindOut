@@ -2349,17 +2349,3 @@ Script Stack (0 frames) :
 [2024.06.03-04.06.01:635][289]LogOutputDevice: Error: [Callstack] 0x00007fff42c67344 KERNEL32.DLL!UnknownFunction []
 [2024.06.03-04.06.01:635][289]LogOutputDevice: Error: [Callstack] 0x00007fff42e226b1 ntdll.dll!UnknownFunction []
 [2024.06.03-04.06.01:635][289]LogOutputDevice: Error: 
-[2024.06.03-04.06.01:639][289]LogStats:                SubmitErrorReport -  0.000 s
-[2024.06.03-04.06.04:326][289]LogStats:                    SendNewReport -  2.687 s
-[2024.06.03-04.06.04:326][289]LogStats:             FDebug::EnsureFailed -  2.762 s
-[2024.06.03-04.06.04:372][289]LogSlate: Window 'WB_GraphicsUI' being destroyed
-[2024.06.03-04.06.04:392][289]LogAutomationController: Ignoring very large delta of 2.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2024.06.03-04.06.40:558][208]BlueprintLog: New page: WB_AudioUI 컴파일
-[2024.06.03-04.06.40:605][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
-[2024.06.03-04.06.41:457][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.06.03-04.06.41:523][269]LogSavePackage: Moving output files for package: /Game/Programming/UI/WB_AudioUI
-[2024.06.03-04.06.41:524][269]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/WB_AudioUIEF2E9C704696EC8D9B60DF8F95DBBF49.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/UI/WB_AudioUI.uasset'
-[2024.06.03-04.06.41:533][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 8.92 sec)
-[2024.06.03-04.06.41:536][269]AssetCheck: New page: 에셋 저장:  WB_AudioUI
-[2024.06.03-04.06.41:536][269]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Programming/UI/WB_AudioUI.WB_AudioUI 유효성 검사 중
-[2024.06.03-04.09.18:611][983]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10096 files in 12340 folders with total size 856 MiB.
