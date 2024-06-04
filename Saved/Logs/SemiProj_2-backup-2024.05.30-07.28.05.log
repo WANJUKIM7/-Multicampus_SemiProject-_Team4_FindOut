@@ -1,4 +1,11 @@
 <<<<<<< HEAD
+<<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
+﻿Log file open, 05/31/24 15:04:30
+========
+﻿Log file open, 05/30/24 15:40:12
+>>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 ﻿Log file open, 05/30/24 15:40:12
 ========
@@ -11,6 +18,7 @@
 ﻿Log file open, 05/30/24 15:40:12
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 >>>>>>> KWJ
+>>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -18,6 +26,13 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< HEAD
+<<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
+LogWindows: Started CrashReportClient (pid=9472)
+========
+LogWindows: Started CrashReportClient (pid=18252)
+>>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+=======
 <<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 LogWindows: Started CrashReportClient (pid=18252)
@@ -31,6 +46,7 @@ LogWindows: Started CrashReportClient (pid=9472)
 LogWindows: Started CrashReportClient (pid=18252)
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 >>>>>>> KWJ
+>>>>>>> main
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: SemiProj
 LogCore: UnrealTraceServer: Trace store launch successful
@@ -51,6 +67,9 @@ LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\황보민\OneDri
 LogCsvProfiler: Display: Metadata set : loginid="058805d54edc318c25f3bd94c2133649"
 LogCsvProfiler: Display: Metadata set : llm="0"
 <<<<<<< HEAD
+<<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 LogStats: Stats thread started at 0.436130
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
@@ -71,6 +90,7 @@ LogPluginManager: Mounting Engine plugin Bridge
 =======
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 >>>>>>> KWJ
+>>>>>>> main
 LogStats: Stats thread started at 0.486581
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
@@ -88,8 +108,11 @@ LogConfig: Display: Loading LinuxArm64 ini files took 0.12 seconds
 LogConfig: Display: Loading Windows ini files took 0.06 seconds
 LogPluginManager: Mounting Engine plugin FastBuildController
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>>> KWJ:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 =======
+>>>>>>> main
 ========
 LogStats: Stats thread started at 0.436130
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
@@ -107,7 +130,10 @@ LogConfig: Display: Loading VulkanPC ini files took 0.05 seconds
 LogConfig: Display: Loading Unix ini files took 0.07 seconds
 LogPluginManager: Mounting Engine plugin Bridge
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+<<<<<<< HEAD
+=======
 >>>>>>> KWJ
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin EnhancedInput
 LogConfig: Display: Loading Windows ini files took 0.07 seconds
 LogPluginManager: Found config from plugin[EnhancedInput] Input
@@ -115,6 +141,9 @@ LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin XGEController
+<<<<<<< HEAD
+<<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
+=======
 <<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 LogPluginManager: Mounting Engine plugin AnimationSharing
@@ -147,6 +176,7 @@ LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 =======
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 >>>>>>> KWJ
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin ActorSequence
 LogPluginManager: Mounting Engine plugin InterchangeEditor
@@ -225,8 +255,11 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
 LogPluginManager: Mounting Engine plugin OodleNetwork
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>>> KWJ:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 =======
+>>>>>>> main
 ========
 LogPluginManager: Mounting Engine plugin AnimationSharing
 LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
@@ -255,7 +288,10 @@ LogPluginManager: Mounting Engine plugin UdpMessaging
 LogPluginManager: Mounting Engine plugin AISupport
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+<<<<<<< HEAD
+=======
 >>>>>>> KWJ
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin AutomationUtils
 LogPluginManager: Mounting Engine plugin BackChannel
 LogPluginManager: Mounting Engine plugin ChaosCaching
@@ -283,6 +319,9 @@ LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin StructUtils
 LogPluginManager: Mounting Engine plugin ToolPresets
 <<<<<<< HEAD
+<<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 LogPluginManager: Mounting Engine plugin ACLPlugin
 LogPluginManager: Mounting Engine plugin AnimationData
@@ -316,6 +355,7 @@ LogPluginManager: Mounting Engine plugin AssetManagerEditor
 =======
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 >>>>>>> KWJ
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
 LogPluginManager: Mounting Engine plugin Takes
 LogPluginManager: Mounting Engine plugin AlembicImporter
@@ -346,8 +386,11 @@ LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>>> KWJ:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 =======
+>>>>>>> main
 ========
 LogPluginManager: Mounting Engine plugin ACLPlugin
 LogPluginManager: Mounting Engine plugin AnimationData
@@ -378,7 +421,10 @@ LogPluginManager: Mounting Engine plugin WebMMedia
 LogPluginManager: Mounting Engine plugin WmfMedia
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+<<<<<<< HEAD
+=======
 >>>>>>> KWJ
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin BlueprintHeaderView
 LogPluginManager: Mounting Engine plugin ChangelistReview
 LogPluginManager: Mounting Engine plugin CryptoKeys
@@ -388,8 +434,11 @@ LogPluginManager: Mounting Engine plugin EditorDebugTools
 LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
 LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 =======
+>>>>>>> main
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
@@ -405,7 +454,10 @@ LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 ========
+<<<<<<< HEAD
+=======
 >>>>>>> KWJ
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin GeometryMode
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
@@ -471,6 +523,9 @@ LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 <<<<<<< HEAD
+>>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+=======
+<<<<<<< HEAD
 ========
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
@@ -489,10 +544,14 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 =======
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 >>>>>>> KWJ
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin LightMixer
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin ObjectMixer
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+<<<<<<< HEAD
+<<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
+=======
 <<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
@@ -506,6 +565,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Develop
 =======
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 >>>>>>> KWJ
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
@@ -534,8 +594,11 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/M
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>>> KWJ:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 =======
+>>>>>>> main
 ========
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
@@ -545,7 +608,10 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+<<<<<<< HEAD
+=======
 >>>>>>> KWJ
+>>>>>>> main
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
@@ -559,8 +625,11 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 =======
+>>>>>>> main
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
@@ -570,7 +639,10 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
 ========
+<<<<<<< HEAD
+=======
 >>>>>>> KWJ
+>>>>>>> main
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
@@ -599,6 +671,9 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
 <<<<<<< HEAD
+>>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+=======
+<<<<<<< HEAD
 ========
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
@@ -611,28 +686,38 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/
 =======
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 >>>>>>> KWJ
+>>>>>>> main
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 <<<<<<< HEAD
+<<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
+========
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 =======
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 ========
 >>>>>>> KWJ
+>>>>>>> main
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
 <<<<<<< HEAD
+>>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+=======
+<<<<<<< HEAD
 ========
 >>>>>>>> KWJ:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 =======
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 >>>>>>> KWJ
+>>>>>>> main
 LogInit: Using libcurl 8.4.0
 LogInit:  - built for Windows
 LogInit:  - supports SSL with OpenSSL/1.1.1t
@@ -654,22 +739,31 @@ LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
 <<<<<<< HEAD
+<<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 ========
 =======
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 >>>>>>> KWJ
+>>>>>>> main
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
 <<<<<<< HEAD
+========
+>>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+=======
+<<<<<<< HEAD
 >>>>>>>> KWJ:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 =======
 ========
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 >>>>>>> KWJ
+>>>>>>> main
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.3-CL-29314046
 LogInit: Engine Version: 5.3.2-29314046+++UE5+Release-5.3
@@ -736,8 +830,11 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
 LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 =======
+>>>>>>> main
 <<<<<<<< HEAD:Saved/Crashes/UECC-Windows-46BB66F64E500AD2C0DFC4838FD6B456_0000/SemiProj.log
 [2024.05.31-06.04.31:814][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2024.05.31-06.04.31:814][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
@@ -1565,7 +1662,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.31-06.05.21:399][426]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
 [2024.05.31-06.05.23:309][426]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
 ========
+<<<<<<< HEAD
+=======
 >>>>>>> KWJ
+>>>>>>> main
 [2024.05.30-06.40.13:718][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2024.05.30-06.40.13:718][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
 [2024.05.30-06.40.13:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -2657,6 +2757,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-06.53.40:691][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
 [2024.05.30-06.53.40:777][402]LogPlayLevel: Display: Destroying online subsystem :Context_6
 <<<<<<< HEAD
+>>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
+=======
+<<<<<<< HEAD
 ========
 [2024.05.31-06.04.31:814][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2024.05.31-06.04.31:814][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
@@ -3487,3 +3590,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 =======
 >>>>>>>> origin/LJH:Saved/Logs/SemiProj_2-backup-2024.05.30-07.28.05.log
 >>>>>>> KWJ
+>>>>>>> main
