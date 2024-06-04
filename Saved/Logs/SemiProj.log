@@ -1075,3 +1075,61 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.04-05.03.51:178][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5CA5B2B14AB0A27E65318D95D8B95421 | Instance: 5E0B77B64FE6D20C9F6CA2B41EB4D76A (DESKTOP-GU08UNG-25968).
 [2024.06.04-05.03.51:508][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
 [2024.06.04-05.03.51:533][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.06.04-05.03.52:197][  0]LogOpenImageDenoise: OIDN starting up
+[2024.06.04-05.03.53:356][  0]LogUProjectInfo: Found projects:
+[2024.06.04-05.03.54:162][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.06.04-05.03.54:208][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.04-05.03.54:208][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.04-05.03.54:375][  0]LogCollectionManager: Loaded 0 collections in 0.002182 seconds
+[2024.06.04-05.03.54:377][  0]LogFileCache: Scanning file cache for directory 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Collections/' took 0.00s
+[2024.06.04-05.03.54:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Developers/황보민/Collections/' took 0.00s
+[2024.06.04-05.03.54:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Collections/' took 0.00s
+[2024.06.04-05.03.55:160][  0]LogEngine: Initializing Engine...
+[2024.06.04-05.03.55:169][  0]LogAssetEditorSubsystem: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 30, Num Recent Asset Editors = 39
+[2024.06.04-05.03.55:170][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.06.04-05.03.55:430][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.06.04-05.03.55:444][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.04-05.03.55:445][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.04-05.03.55:457][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.06.04-05.03.55:458][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.06.04-05.03.55:458][  0]LogInit: Texture streaming: Enabled
+[2024.06.04-05.03.55:497][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.06.04-05.03.55:512][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.06.04-05.03.55:539][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.06.04-05.03.55:542][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.06.04-05.03.55:543][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.06.04-05.03.55:545][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.06.04-05.03.55:545][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.06.04-05.03.55:545][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.06.04-05.03.55:545][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.06.04-05.03.55:547][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.06.04-05.03.55:547][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.06.04-05.03.55:547][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.04-05.03.55:547][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.04-05.03.55:547][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.04-05.03.55:547][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.04-05.03.55:547][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.04-05.03.55:547][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.04-05.03.55:547][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.04-05.03.55:547][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.04-05.03.55:551][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.04-05.03.55:551][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.04-05.03.55:551][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.04-05.03.55:570][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.04-05.03.55:859][  0]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.06.04-05.03.55:860][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.04-05.03.55:869][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.04-05.03.55:869][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.04-05.03.55:871][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.06.04-05.03.55:871][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.04-05.03.55:874][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.04-05.03.55:874][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.06.04-05.03.55:874][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.06.04-05.03.55:874][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.06.04-05.03.55:874][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.04-05.03.55:910][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.06.04-05.03.55:922][  0]LogInit: Undo buffer set to 32 MB
+[2024.06.04-05.03.55:922][  0]LogInit: Transaction tracking system initialized
+[2024.06.04-05.03.56:090][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-GU08UNG: (Name=DESKTOP-GU08UNG, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2024.06.04-05.03.56:100][  0]LogSlate: Took 0.004142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2024.06.04-05.03.56:101][  0]LogSlate: Took 0.000517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
