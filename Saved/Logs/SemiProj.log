@@ -3506,3 +3506,6 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.06.04-02.23.32:262][473]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2024.06.04-02.23.32:262][473]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.06.04-02.23.32:263][473]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.06.04-02.23.33:475][473]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.04-02.23.33:530][473]LogExit: Exiting.
+[2024.06.04-02.23.33:542][473]Log file closed, 06/04/24 11:23:33
