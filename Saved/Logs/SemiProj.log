@@ -2506,4 +2506,35 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.04-06.50.29:744][853]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
 [2024.06.04-06.50.29:745][853]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
 [2024.06.04-06.50.29:745][853]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
-[2024.06.04-06.50.29:745][853]LogModuleManager: Shutting down and abandoning module Plastic
+[2024.06.04-06.50.29:745][853]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2024.06.04-06.50.29:747][853]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2024.06.04-06.50.29:748][853]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.06.04-06.50.29:749][853]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.06.04-06.50.29:749][853]LogXGEController: Cleaning working directory: C:/Users/황보민/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.06.04-06.50.29:749][853]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.06.04-06.50.29:753][853]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.06.04-06.50.29:753][853]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.06.04-06.50.29:754][853]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.06.04-06.50.29:756][853]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.06.04-06.50.29:757][853]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.06.04-06.50.29:757][853]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.06.04-06.50.29:757][853]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.06.04-06.50.29:757][853]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.06.04-06.50.29:757][853]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.06.04-06.50.29:757][853]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.06.04-06.50.29:757][853]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.06.04-06.50.29:761][853]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.06.04-06.50.29:761][853]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.06.04-06.50.29:763][853]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.06.04-06.50.29:763][853]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.06.04-06.50.29:763][853]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.06.04-06.50.29:763][853]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.06.04-06.50.29:763][853]LogPakFile: Destroying PakPlatformFile
+[2024.06.04-06.50.29:766][853]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.06.04-06.50.29:766][853]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.06.04-06.50.29:766][853]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.06.04-06.50.29:766][853]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.06.04-06.50.29:767][853]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.06.04-06.50.31:026][853]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.04-06.50.31:142][853]LogExit: Exiting.
+[2024.06.04-06.50.31:166][853]Log file closed, 06/04/24 15:50:31
