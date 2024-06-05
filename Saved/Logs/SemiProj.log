@@ -6653,3 +6653,192 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.05-08.44.29:032][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 27.1 sec)
 [2024.06.05-08.44.29:036][ 46]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
 [2024.06.05-08.44.29:036][ 46]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.05-08.45.46:549][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-08.45.46:663][677]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.05-08.45.46:665][677]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1E24BD9204BDDFD5FC44D58A54180D297.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.05-08.45.46:676][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 27.3 sec)
+[2024.06.05-08.45.46:679][677]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.05-08.45.46:679][677]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.05-08.45.47:040][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-08.45.47:119][685]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.05-08.45.47:120][685]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1DCC293D5428B86CD0B1A29B752FF79C8.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.05-08.45.47:134][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 27.4 sec)
+[2024.06.05-08.45.47:136][685]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.05-08.45.47:136][685]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.05-08.45.51:988][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-08.45.52:086][932]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.05-08.45.52:087][932]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_18C430367437F9C493F352180014D4A54.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.05-08.45.52:099][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 27.5 sec)
+[2024.06.05-08.45.52:103][932]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.05-08.45.52:103][932]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.05-08.45.52:896][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.05-08.45.55:744][992]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.06.05-08.45.55:989][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-08.45.56:055][992]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OO/KUMRFZO7KTD0P7P6QCCMAZ
+[2024.06.05-08.45.56:056][992]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/KUMRFZO7KTD0P7P6QCCMAZ2B7328AF49D47EAA588DFFA8C7D22A31.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OO/KUMRFZO7KTD0P7P6QCCMAZ.uasset'
+[2024.06.05-08.45.56:069][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 27.6 sec)
+[2024.06.05-08.45.56:081][992]LogStall: Shutdown...
+[2024.06.05-08.45.56:085][992]LogStall: Shutdown complete.
+[2024.06.05-08.45.56:281][992]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.56:281][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-08.45.56:800][992]LogSlate: Window 'SemiProj - 언리얼 에디터' being destroyed
+[2024.06.05-08.45.57:068][992]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164
+[2024.06.05-08.45.57:068][992]LogContentValidation: Display: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164 유효성 검사 중
+[2024.06.05-08.45.57:078][993]Cmd: QUIT_EDITOR
+[2024.06.05-08.45.57:079][993]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.05-08.45.57:117][993]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.05-08.45.57:119][993]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.05-08.45.57:119][993]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.05-08.45.57:142][993]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.57:143][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-08.45.57:146][993]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.05-08.45.57:192][993]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.05-08.45.57:462][993]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.05-08.45.57:462][993]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.05-08.45.57:462][993]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2024.06.05-08.45.57:462][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.05-08.45.57:463][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.05-08.45.57:465][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.05-08.45.57:476][993]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.05-08.45.57:482][993]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.06.05-08.45.57:491][993]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.05-08.45.57:492][993]LogExit: Preparing to exit.
+[2024.06.05-08.45.57:564][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.06.05-08.45.57:586][993]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:586][993]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:589][993]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.57:590][993]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.05-08.45.58:674][993]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:677][993]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:681][993]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:685][993]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:689][993]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:692][993]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:695][993]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:699][993]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:702][993]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:705][993]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:708][993]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:712][993]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-08.45.58:885][993]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.06.05-08.45.59:242][993]LogExit: Editor shut down
+[2024.06.05-08.45.59:249][993]LogExit: Transaction tracking system shut down
+[2024.06.05-08.46.00:080][993]LogExit: Object subsystem successfully closed.
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: ================================================
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Total job queries 590, among them cache hits 406 (68.81%)
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Tracking 184 distinct input hashes that result in 109 distinct outputs (59.24%)
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: RAM used: 3.87 MiB of 819.20 MiB budget. Usage: 0.47%
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Shaders Compiled: 20
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Average time worker was idle: 3057.37 s
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Time job spent in pending queue: average 0.56 s, longest 1.52 s
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 1.24 s
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Job life time (pending + execution): average 1.35 s, max 2.10
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Shader code size: average 36.841 KiB, min 29.648 KiB, max 70.504 KiB
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.72 s
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Average processing rate: 3.50 jobs/sec
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Total thread time: 9.36 s
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Total thread preprocess time: 1.102 s
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Percentage time preprocessing: 11.77%
+[2024.06.05-08.46.00:092][993]LogShaderCompilers: Display: Effective parallelization: 1.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.55 sec, max 0.67 sec, min 0.43 sec)
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.52 sec, max 0.68 sec, min 0.42 sec)
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.48 sec, max 0.54 sec, min 0.41 sec)
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.25 sec, max 0.35 sec, min 0.18 sec)
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 35.39% of total time (compiled    6 times, average 0.55 sec, max 0.67 sec, min 0.43 sec)
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.58% of total time (compiled    6 times, average 0.52 sec, max 0.68 sec, min 0.42 sec)
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.51% of total time (compiled    4 times, average 0.48 sec, max 0.54 sec, min 0.41 sec)
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.53% of total time (compiled    4 times, average 0.25 sec, max 0.35 sec, min 0.18 sec)
+[2024.06.05-08.46.00:093][993]LogShaderCompilers: Display: ================================================
+[2024.06.05-08.46.00:112][993]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.06.05-08.46.00:147][993]LogVirtualization: UE::Virtualization was shutdown
+[2024.06.05-08.46.00:364][993]LogModuleManager: Shutting down and abandoning module MaterialEditor (1056)
+[2024.06.05-08.46.00:364][993]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1054)
+[2024.06.05-08.46.00:364][993]LogModuleManager: Shutting down and abandoning module Voice (1052)
+[2024.06.05-08.46.00:365][993]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2024.06.05-08.46.00:365][993]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2024.06.05-08.46.00:365][993]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2024.06.05-08.46.00:366][993]LogModuleManager: Shutting down and abandoning module AddContentDialog (1044)
+[2024.06.05-08.46.00:371][993]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1043)
+[2024.06.05-08.46.00:371][993]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2024.06.05-08.46.00:371][993]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2024.06.05-08.46.00:371][993]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2024.06.05-08.46.00:372][993]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1034)
+[2024.06.05-08.46.00:372][993]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.06.05-08.46.00:373][993]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.06.05-08.46.00:373][993]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.06.05-08.46.00:373][993]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1026)
+[2024.06.05-08.46.00:376][993]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1024)
+[2024.06.05-08.46.00:379][993]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1022)
+[2024.06.05-08.46.00:380][993]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1020)
+[2024.06.05-08.46.00:381][993]LogModuleManager: Shutting down and abandoning module SmartSnapping (1018)
+[2024.06.05-08.46.00:382][993]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1016)
+[2024.06.05-08.46.00:382][993]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1014)
+[2024.06.05-08.46.00:382][993]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1012)
+[2024.06.05-08.46.00:382][993]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1010)
+[2024.06.05-08.46.00:382][993]LogModuleManager: Shutting down and abandoning module WebMMedia (1008)
+[2024.06.05-08.46.00:382][993]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1006)
+[2024.06.05-08.46.00:384][993]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1004)
+[2024.06.05-08.46.00:386][993]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1003)
+[2024.06.05-08.46.00:387][993]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1000)
+[2024.06.05-08.46.00:387][993]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (998)
+[2024.06.05-08.46.00:387][993]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (996)
+[2024.06.05-08.46.00:387][993]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (994)
+[2024.06.05-08.46.00:388][993]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (992)
+[2024.06.05-08.46.00:388][993]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (990)
+[2024.06.05-08.46.00:388][993]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (988)
+[2024.06.05-08.46.00:388][993]LogModuleManager: Shutting down and abandoning module ControlRigEditor (986)
+[2024.06.05-08.46.00:391][993]LogModuleManager: Shutting down and abandoning module IKRigEditor (984)
+[2024.06.05-08.46.00:393][993]LogModuleManager: Shutting down and abandoning module WaveTableEditor (982)
+[2024.06.05-08.46.00:394][993]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (980)
+[2024.06.05-08.46.00:394][993]LogModuleManager: Shutting down and abandoning module RigVMEditor (978)
+[2024.06.05-08.46.00:394][993]LogModuleManager: Shutting down and abandoning module GooglePADEditor (976)
+[2024.06.05-08.46.00:394][993]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (974)
+[2024.06.05-08.46.00:395][993]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (972)
+[2024.06.05-08.46.00:395][993]LogModuleManager: Shutting down and abandoning module PlanarCut (970)
+[2024.06.05-08.46.00:395][993]LogModuleManager: Shutting down and abandoning module FractureEngine (968)
+[2024.06.05-08.46.00:395][993]LogModuleManager: Shutting down and abandoning module CharacterAI (966)
+[2024.06.05-08.46.00:395][993]LogModuleManager: Shutting down and abandoning module TextureAlignMode (964)
+[2024.06.05-08.46.00:396][993]LogModuleManager: Shutting down and abandoning module BspMode (962)
+[2024.06.05-08.46.00:396][993]LogModuleManager: Shutting down and abandoning module GeometryMode (960)
+[2024.06.05-08.46.00:397][993]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (958)
+[2024.06.05-08.46.00:397][993]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.06.05-08.46.00:403][993]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.06.05-08.46.00:404][993]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.06.05-08.46.00:405][993]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.06.05-08.46.00:405][993]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.06.05-08.46.00:406][993]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.06.05-08.46.00:409][993]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.06.05-08.46.00:409][993]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.06.05-08.46.00:409][993]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.06.05-08.46.00:409][993]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.06.05-08.46.00:409][993]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.06.05-08.46.00:410][993]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.06.05-08.46.00:411][993]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.06.05-08.46.00:412][993]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.06.05-08.46.00:413][993]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.06.05-08.46.00:415][993]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.06.05-08.46.00:415][993]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.06.05-08.46.00:415][993]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.06.05-08.46.00:416][993]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
