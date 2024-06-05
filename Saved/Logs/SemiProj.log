@@ -4747,3 +4747,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.05-02.26.34:829][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 12.8 sec)
 [2024.06.05-02.26.34:832][305]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
 [2024.06.05-02.26.34:832][305]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.05-02.26.54:420][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-02.26.54:502][773]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.05-02.26.54:503][773]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_195C40A704ACA761AD5F7279644A976EB.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.05-02.26.54:513][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 12.8 sec)
+[2024.06.05-02.26.54:516][773]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.05-02.26.54:516][773]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
