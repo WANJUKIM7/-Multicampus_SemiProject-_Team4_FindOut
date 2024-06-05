@@ -1051,3 +1051,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.05-03.57.26:776][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2024.06.05-03.57.27:474][  0]LogPython: Using Python 3.9.7
 [2024.06.05-03.57.28:108][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.06.05-03.57.29:772][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4281BE01441FD173394D56B18951B885 | Instance: 6CE0DA794FC812DB685C1F8A9A465AAC (DESKTOP-GU08UNG-3604).
+[2024.06.05-03.57.30:513][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.06.05-03.57.30:553][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.06.05-03.57.30:956][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.06.05-03.57.30:975][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.06.05-03.57.30:993][  0]LogUdpMessaging: Display: Added local interface '192.168.45.130' to multicast group '230.0.0.1:6666'
+[2024.06.05-03.57.31:734][  0]LogOpenImageDenoise: OIDN starting up
