@@ -1340,3 +1340,34 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.05-00.08.21:183][437]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
 [2024.06.05-00.08.21:287][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
 [2024.06.05-00.08.28:247][905]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.311 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13762 files in 16038 folders with total size 1412 MiB.
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: ================================================
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: Total job queries 664, among them cache hits 546 (82.23%)
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: Tracking 118 distinct input hashes that result in 69 distinct outputs (58.47%)
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: RAM used: 2.37 MiB of 819.20 MiB budget. Usage: 0.29%
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.05-00.10.27:455][443]LogShaderCompilers: Display: ================================================
+[2024.06.05-00.10.27:691][456]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.10.28:593][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.10.37:418][140]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.10.37:624][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.10.37:653][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.10.37:689][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.10.37:727][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.10.51:338][ 50]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Blueprints/BP_EviPuzzle3_1a.BP_EviPuzzle3_1a
+[2024.06.05-00.10.51:338][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.10.51:338][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-00.11.38:572][345]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.06.05-00.11.38:572][345]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.06.05-00.12.24:731][731]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.06.05-00.17.33:556][740]LogViewport: Scene viewport resized to 1085x691, mode Windowed.
+[2024.06.05-00.17.37:337][ 79]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-00.17.37:338][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-00.17.39:757][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Blueprints/BP_Puzzle_3_1a.BP_Puzzle_3_1a
+[2024.06.05-00.17.39:758][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-00.17.39:758][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-00.17.57:936][748]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-00.17.57:936][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
