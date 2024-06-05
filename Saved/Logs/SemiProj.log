@@ -1328,3 +1328,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.05-00.00.48:847][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.06.05-00.00.49:182][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.06.05-00.02.26:968][315]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.06.05-00.02.34:114][383]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.834 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13762 files in 16038 folders with total size 1412 MiB.
