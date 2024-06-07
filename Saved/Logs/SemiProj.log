@@ -29011,3 +29011,212 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.06.07-08.17.14:214][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 540 ms (total: 19.0 sec)
 [2024.06.07-08.17.14:217][429]AssetCheck: New page: 에셋 저장:  StaticMeshActor_UAID_2CF05DA6DE3C1CFD01_1823587400
 [2024.06.07-08.17.14:217][429]LogContentValidation: Display: /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05DA6DE3C1CFD01_1823587400 유효성 검사 중
+[2024.06.07-08.18.37:482][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.06.07-08.18.37:485][766]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2024.06.07-08.18.37:486][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Evidence+Puzzle_Asset/EviPuzzle3_2/MM_3_2_Body] ([1] browsable assets)...
+[2024.06.07-08.18.37:486][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/Evidence+Puzzle_Asset/EviPuzzle3_2/MM_3_2_Body]
+[2024.06.07-08.18.37:489][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Evidence+Puzzle_Asset/EviPuzzle3_2/MM_3_2_Body_Auto5
+[2024.06.07-08.18.37:489][766]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MM_3_2_Body_Auto55363DB2041DB677C5FD958A1876DFC63.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Evidence+Puzzle_Asset/EviPuzzle3_2/MM_3_2_Body_Auto5.uasset'
+[2024.06.07-08.18.37:492][766]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.06.07-08.18.37:515][767]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.07-08.19.43:041][131]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.07-08.19.45:188][271]BlueprintLog: New page: BP_3_2_Puzzle 컴파일
+[2024.06.07-08.19.45:276][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.06.07-08.19.46:114][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.19.46:218][289]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle
+[2024.06.07-08.19.46:220][289]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_3_2_PuzzleBE77848946642B2523F841853B33C693.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle.uasset'
+[2024.06.07-08.19.46:240][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 19.1 sec)
+[2024.06.07-08.19.46:243][289]AssetCheck: New page: 에셋 저장:  BP_3_2_Puzzle
+[2024.06.07-08.19.46:243][289]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle.BP_3_2_Puzzle 유효성 검사 중
+[2024.06.07-08.20.41:932][ 46]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.07-08.20.45:641][284]BlueprintLog: New page: BP_3_2_Puzzle 컴파일
+[2024.06.07-08.20.45:726][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.07-08.20.46:452][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.20.46:537][290]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle
+[2024.06.07-08.20.46:539][290]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_3_2_Puzzle1811A0184365877B0C3985B841AB9041.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle.uasset'
+[2024.06.07-08.20.46:557][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 19.2 sec)
+[2024.06.07-08.20.46:561][290]AssetCheck: New page: 에셋 저장:  BP_3_2_Puzzle
+[2024.06.07-08.20.46:561][290]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle.BP_3_2_Puzzle 유효성 검사 중
+[2024.06.07-08.20.47:285][342]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.06.07-08.20.47:296][342]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.06.07-08.20.47:296][342]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.07-08.20.47:303][342]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 7 ms (total: 629 ms)
+[2024.06.07-08.20.47:303][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.07-08.20.47:303][342]PIE: New page: PIE 세션: FirstPersonMap (2024. 6. 8. 오전 2:20:47)
+[2024.06.07-08.20.47:304][342]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.07-08.20.47:330][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026690s)
+[2024.06.07-08.20.47:330][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.026729s)
+[2024.06.07-08.20.47:351][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.06.07-08.20.47:357][342]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-08.20.47:357][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-08.20.47:357][342]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.07-08.20.47:358][342]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.07-08.20.47:358][342]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.07-08.20.47:358][342]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.07-08.20.47:358][342]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.07-08.20.47:367][342]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.06.07-08.20.47:367][342]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 3.52 sec)
+[2024.06.07-08.20.47:367][342]LogPlayLevel: PIE: World Init took: (0.010698s)
+[2024.06.07-08.20.47:368][342]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2024.06.07-08.20.47:368][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-08.20.47:368][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-08.20.47:368][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-08.20.47:368][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-08.20.47:368][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.07-08.20.47:368][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-08.20.47:368][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.07-08.20.47:368][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-08.20.47:369][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-08.20.47:369][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-08.20.47:369][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-08.20.47:371][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-08.20.47:478][342]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.06.07-08.20.47:478][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-08.20.47:479][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-08.20.47:479][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-08.20.47:480][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2024.06.07-08.20.47:480][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2024.06.07-08.20.47:483][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2024.06.07-08.20.47:483][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2024.06.07-08.20.47:483][342]LogInit: FAudioDevice initialized with ID 77.
+[2024.06.07-08.20.47:483][342]LogAudio: Display: Audio Device (ID: 77) registered with world 'FirstPersonMap'.
+[2024.06.07-08.20.47:483][342]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2024.06.07-08.20.47:547][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-08.20.47:548][342]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.07-08.20.47:567][342]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.07-17.20.47
+[2024.06.07-08.20.47:567][342]LogWorld: Bringing up level for play took: 0.019445
+[2024.06.07-08.20.47:571][342]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2024.06.07-08.20.47:580][342]PIE: 서버가 로그인했습니다.
+[2024.06.07-08.20.47:583][342]PIE: 에디터에서 플레이 총 시작 시간 0.288초입니다.
+[2024.06.07-08.20.47:612][342]LogViewport: Scene viewport resized to 1280x950, mode Windowed.
+[2024.06.07-08.20.49:257][423]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.20.49:634][442]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] book2
+[2024.06.07-08.20.50:320][477]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] BP_interactionArea
+[2024.06.07-08.20.50:854][504]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] BP_interactionArea
+[2024.06.07-08.20.55:778][762]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.20.56:156][784]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.20.56:530][806]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.20.56:887][827]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.20.57:433][860]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube5
+[2024.06.07-08.20.57:801][882]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.20.59:250][968]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.07-08.20.59:776][999]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.21.00:152][ 21]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.21.00:504][ 40]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] SM_Cube
+[2024.06.07-08.21.00:873][ 60]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] 3_2Puzzle_Body_001
+[2024.06.07-08.21.01:212][ 78]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] 3_2Puzzle_Body_001
+[2024.06.07-08.21.01:592][ 98]LogBlueprintUserMessages: [BP_3_2_Puzzle_C_UAID_2CF05DA6DE3C1BFD01_1083561221] 3_2Puzzle_Body_001
+[2024.06.07-08.21.02:840][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-08.21.02:841][172]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.07-08.21.02:842][172]LogSlate: Window 'SemiProj 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.07-08.21.02:847][172]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-08.21.02:851][172]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.07-08.21.02:852][172]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.07-08.21.02:852][172]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.07-08.21.02:855][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.21.02:855][172]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.07-08.21.02:931][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.07-08.21.02:939][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.21.02:969][172]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-08.21.02:969][172]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2024.06.07-08.21.02:969][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2024.06.07-08.21.02:972][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2024.06.07-08.21.02:984][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.06.07-08.21.03:260][173]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2024.06.07-08.21.38:113][496]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.07-08.21.38:113][496]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-08.21.38:113][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.21.48:071][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.21.48:171][356]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.07-08.21.48:173][356]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_FirstPersonCharacter10A422114245D31FD0E0E4BA265157A7.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.07-08.21.48:188][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 19.3 sec)
+[2024.06.07-08.21.48:192][356]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2024.06.07-08.21.48:192][356]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2024.06.07-08.21.50:806][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.06.07-08.21.52:010][591]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.06.07-08.21.52:236][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.21.52:298][591]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/MM_3_2_Body
+[2024.06.07-08.21.52:300][591]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/MM_3_2_BodyD729A1C941163FAA2EC01293E8CCACAE.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle3_2/MM_3_2_Body.uasset'
+[2024.06.07-08.21.52:321][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 19.4 sec)
+[2024.06.07-08.21.52:325][591]AssetCheck: New page: 에셋 저장:  MM_3_2_Body
+[2024.06.07-08.21.52:325][591]LogContentValidation: Display: /Script/Engine.Material /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/MM_3_2_Body.MM_3_2_Body 유효성 검사 중
+[2024.06.07-08.22.18:502][202]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.07-08.23.11:105][841]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2024.06.07-08.23.14:870][158]BlueprintLog: New page: BP_3_2_Puzzle 컴파일
+[2024.06.07-08.23.14:939][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.06.07-08.23.15:751][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-08.23.15:870][190]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle
+[2024.06.07-08.23.15:872][190]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_3_2_Puzzle3114E03B4791C42EFFBFC994757EA239.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle.uasset'
+[2024.06.07-08.23.15:892][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 19.5 sec)
+[2024.06.07-08.23.15:896][190]AssetCheck: New page: 에셋 저장:  BP_3_2_Puzzle
+[2024.06.07-08.23.15:896][190]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle.BP_3_2_Puzzle 유효성 검사 중
+[2024.06.07-08.23.23:380][468]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.06.07-08.23.23:391][468]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.06.07-08.23.23:391][468]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.07-08.23.23:399][468]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 7 ms (total: 636 ms)
+[2024.06.07-08.23.23:400][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.07-08.23.23:400][468]PIE: New page: PIE 세션: FirstPersonMap (2024. 6. 8. 오전 2:23:23)
+[2024.06.07-08.23.23:400][468]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.07-08.23.23:430][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030764s)
+[2024.06.07-08.23.23:430][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.030812s)
+[2024.06.07-08.23.23:456][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.06.07-08.23.23:463][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-08.23.23:463][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-08.23.23:464][468]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.07-08.23.23:465][468]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.07-08.23.23:465][468]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.07-08.23.23:465][468]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.07-08.23.23:465][468]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.07-08.23.23:473][468]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.06.07-08.23.23:473][468]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 3.53 sec)
+[2024.06.07-08.23.23:473][468]LogPlayLevel: PIE: World Init took: (0.010243s)
+[2024.06.07-08.23.23:473][468]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2024.06.07-08.23.23:473][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-08.23.23:473][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-08.23.23:473][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-08.23.23:473][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-08.23.23:473][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.07-08.23.23:473][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-08.23.23:473][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.07-08.23.23:473][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-08.23.23:474][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-08.23.23:474][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-08.23.23:474][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-08.23.23:477][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-08.23.23:619][468]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.06.07-08.23.23:619][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-08.23.23:619][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-08.23.23:619][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-08.23.23:621][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2024.06.07-08.23.23:621][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2024.06.07-08.23.23:623][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2024.06.07-08.23.23:624][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2024.06.07-08.23.23:624][468]LogInit: FAudioDevice initialized with ID 78.
+[2024.06.07-08.23.23:624][468]LogAudio: Display: Audio Device (ID: 78) registered with world 'FirstPersonMap'.
+[2024.06.07-08.23.23:624][468]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2024.06.07-08.23.23:679][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-08.23.23:679][468]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.07-08.23.23:703][468]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.07-17.23.23
+[2024.06.07-08.23.23:704][468]LogWorld: Bringing up level for play took: 0.023492
+[2024.06.07-08.23.23:708][468]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2024.06.07-08.23.23:718][468]PIE: 서버가 로그인했습니다.
+[2024.06.07-08.23.23:721][468]PIE: 에디터에서 플레이 총 시작 시간 0.329초입니다.
+[2024.06.07-08.23.23:750][468]LogViewport: Scene viewport resized to 1280x950, mode Windowed.
+[2024.06.07-08.23.29:620][819]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.07-08.23.36:790][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-08.23.36:790][145]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.07-08.23.36:791][145]LogSlate: Window 'SemiProj 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.07-08.23.36:796][145]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-08.23.36:800][145]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.07-08.23.36:801][145]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.07-08.23.36:801][145]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.07-08.23.36:804][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.23.36:805][145]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.07-08.23.36:998][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.07-08.23.37:012][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-08.23.37:046][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-08.23.37:054][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2024.06.07-08.23.37:054][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2024.06.07-08.23.37:057][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2024.06.07-08.23.37:105][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.06.07-08.23.37:548][146]LogPlayLevel: Display: Destroying online subsystem :Context_107
