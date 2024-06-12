@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 06/12/24 14:50:01
 =======
 <<<<<<< HEAD
@@ -2979,17 +2980,28 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 ﻿Log file open, 06/12/24 09:09:35
 =======
 >>>>>>> origin/KWJ
+=======
+﻿Log file open, 06/12/24 14:50:01
+=======
+<<<<<<< HEAD
+>>>>>>> origin/HBM
 <<<<<<< HEAD
 ﻿Log file open, 06/12/24 13:36:04
 =======
 ﻿Log file open, 06/12/24 09:03:21
 >>>>>>> main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ﻿Log file open, 06/12/24 12:55:07
 >>>>>>> LV_Design
 =======
 >>>>>>> origin/KWJ
+=======
+=======
+﻿Log file open, 06/12/24 12:55:07
+>>>>>>> LV_Design
+>>>>>>> origin/HBM
 >>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -3000,9 +3012,13 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/HBM
 LogWindows: Started CrashReportClient (pid=17724)
 LogWindows: Enabling Tpause support
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3010,17 +3026,25 @@ LogWindows: Started CrashReportClient (pid=22628)
 =======
 <<<<<<< HEAD
 >>>>>>> origin/KWJ
+=======
+>>>>>>> origin/HBM
 LogWindows: Started CrashReportClient (pid=21400)
 LogWindows: Enabling Tpause support
 =======
 LogWindows: Started CrashReportClient (pid=19464)
 >>>>>>> main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 LogWindows: Started CrashReportClient (pid=6712)
 >>>>>>> LV_Design
 =======
 >>>>>>> origin/KWJ
+=======
+=======
+LogWindows: Started CrashReportClient (pid=6712)
+>>>>>>> LV_Design
+>>>>>>> origin/HBM
 >>>>>>> main
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: SemiProj
@@ -3032,12 +3056,9 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.3-CL-29314046"
 LogCsvProfiler: Display: Metadata set : engineversion="5.3.2-29314046+++UE5+Release-5.3"
-<<<<<<< HEAD
-LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.4412] "
-LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz"
-=======
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.3593] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i5-1335U"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -3045,10 +3066,13 @@ LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 7950X3D 16
 >>>>>>> main
 >>>>>>> main
 >>>>>>> origin/KWJ
+=======
+>>>>>>> origin/HBM
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -3071,6 +3095,8 @@ LogConfig: Display: Loading Unix ini files took 0.11 seconds
 =======
 <<<<<<< HEAD
 >>>>>>> origin/KWJ
+=======
+>>>>>>> origin/HBM
 LogCsvProfiler: Display: Metadata set : commandline="" D:\Unreal_GitDeskUse\-Multicampus_SemiProject-_Team4_FindOut\SemiProj.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="023caecb4a3e77afff89dca92c47d506"
 LogCsvProfiler: Display: Metadata set : llm="0"
@@ -3125,6 +3151,7 @@ LogPluginManager: Mounting Engine plugin FastBuildController
 >>>>>>> main
 LogPluginManager: Mounting Engine plugin Bridge
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin FastBuildController
 =======
 LogConfig: Display: Loading Linux ini files took 0.40 seconds
@@ -3132,9 +3159,12 @@ LogConfig: Display: Loading Windows ini files took 0.07 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.41 seconds
 >>>>>>> main
 >>>>>>> origin/KWJ
+=======
+LogPluginManager: Mounting Engine plugin FastBuildController
+>>>>>>> origin/HBM
 LogPluginManager: Mounting Engine plugin EnhancedInput
-LogConfig: Display: Loading Windows ini files took 0.11 seconds
 LogPluginManager: Found config from plugin[EnhancedInput] Input
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -3286,6 +3316,8 @@ LogPluginManager: Mounting Engine plugin AndroidMedia
 =======
 LogPluginManager: Mounting Engine plugin XGEController
 >>>>>>> origin/KWJ
+=======
+>>>>>>> origin/HBM
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin TraceUtilities
@@ -3382,43 +3414,11 @@ LogPluginManager: Mounting Engine plugin OpenImageDenoise
 LogPluginManager: Mounting Engine plugin PythonScriptPlugin
 LogPluginManager: Mounting Engine plugin AndroidMedia
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
->>>>>>> main
 LogPluginManager: Mounting Engine plugin AvfMedia
 LogPluginManager: Mounting Engine plugin ImgMedia
 LogPluginManager: Mounting Engine plugin MediaCompositing
 LogPluginManager: Mounting Engine plugin MediaPlate
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
-<<<<<<< HEAD
-LogPluginManager: Mounting Engine plugin WebMMedia
-LogPluginManager: Mounting Engine plugin WmfMedia
-LogPluginManager: Mounting Engine plugin OnlineBase
-LogPluginManager: Mounting Engine plugin OnlineServices
-LogPluginManager: Mounting Engine plugin OnlineSubsystem
-LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
-LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
-LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
-LogPluginManager: Mounting Engine plugin LightMixer
-LogPluginManager: Mounting Engine plugin ObjectMixer
-LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
-LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
-LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
-LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
-LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
-=======
 LogPluginManager: Mounting Engine plugin WmfMedia
 LogPluginManager: Mounting Engine plugin ActorSequence
 LogPluginManager: Mounting Engine plugin LevelSequenceEditor
@@ -3567,6 +3567,7 @@ LogPluginManager: Mounting Engine plugin Takes
 LogPluginManager: Mounting Engine plugin InterchangeEditor
 LogPluginManager: Mounting Engine plugin Interchange
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 LogPluginManager: Mounting Engine plugin AISupport
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
@@ -3638,6 +3639,8 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterpr
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
 >>>>>>> origin/KWJ
+=======
+>>>>>>> origin/HBM
 =======
 =======
 LogPluginManager: Mounting Engine plugin Synthesis
@@ -3866,11 +3869,17 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niag
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
 >>>>>>> main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
 >>>>>>> LV_Design
 =======
 >>>>>>> origin/KWJ
+=======
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+>>>>>>> LV_Design
+>>>>>>> origin/HBM
 >>>>>>> main
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
 SourceControl: Revision control is disabled
@@ -3907,6 +3916,7 @@ LogInit: Engine Version: 5.3.2-29314046+++UE5+Release-5.3
 LogInit: Compatible Engine Version: 5.3.0-27405482+++UE5+Release-5.3
 LogInit: Net CL: 27405482
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: OS: Windows 11 (23H2) [10.0.22631.3593] (), CPU: 13th Gen Intel(R) Core(TM) i5-1335U, GPU: Intel(R) Iris(R) Xe Graphics
 =======
 <<<<<<< HEAD
@@ -3919,6 +3929,9 @@ LogInit: OS: Windows 11 (23H2) [10.0.22631.3593] (), CPU: AMD Ryzen 9 7950X3D 16
 >>>>>>> main
 >>>>>>> main
 >>>>>>> origin/KWJ
+=======
+LogInit: OS: Windows 11 (23H2) [10.0.22631.3593] (), CPU: 13th Gen Intel(R) Core(TM) i5-1335U, GPU: Intel(R) Iris(R) Xe Graphics
+>>>>>>> origin/HBM
 LogInit: Compiled (64-bit): Nov  3 2023 16:09:16
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.36.32537.00
@@ -3980,6 +3993,9 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/HBM
 [2024.06.12-05.50.01:606][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2024.06.12-05.50.01:606][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
 [2024.06.12-05.50.01:606][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -5000,6 +5016,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.12-05.50.23:137][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
 [2024.06.12-05.50.23:280][  0]LogContentStreaming: Texture pool size now 400 MB
 [2024.06.12-05.50.23:449][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+<<<<<<< HEAD
 =======
 [2024.06.12-00.09.37:081][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2024.06.12-00.09.37:081][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
@@ -9349,6 +9366,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.12-00.03.27:582][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2024.06.12-00.03.27:666][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 >>>>>>> origin/KWJ
+=======
+>>>>>>> origin/HBM
 
 [2024.06.12-05.50.23:460][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.056091 secs
 [2024.06.12-05.50.23:493][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Unreal_GitDeskUse/-Multicampus_SemiProject-_Team4_FindOut/Content/' took 0.32s
@@ -18116,6 +18135,9 @@ GroupActor_22
 [2024.06.12-02.44.08:847][560]Log file closed, 06/12/24 11:44:08
 >>>>>>> main
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/HBM
 =======
 [2024.06.12-04.36.44:963][137]PIE: 서버가 로그인했습니다.
 [2024.06.12-04.36.44:965][137]PIE: 에디터에서 플레이 총 시작 시간 0.284초입니다.
@@ -20042,7 +20064,10 @@ GroupActor_22
 [2024.06.12-05.01.01:257][482]Log file closed, 06/12/24 14:01:01
 >>>>>>> LV_Design
 >>>>>>> main
+<<<<<<< HEAD
 =======
 >>>>>>> main
 >>>>>>> origin/HBM
 >>>>>>> origin/KWJ
+=======
+>>>>>>> origin/HBM
