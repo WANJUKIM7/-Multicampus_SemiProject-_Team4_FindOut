@@ -1348,3 +1348,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.17-05.51.44:140][590]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
 [2024.06.17-05.51.45:725][590]LogSlate: Took 0.001130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2024.06.17-05.52.07:585][575]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.481 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12179 files in 14375 folders with total size 1489 MiB.
+[2024.06.17-05.58.24:659][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-05.58.25:488][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-05.58.25:602][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-05.58.27:155][485]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Evidence+Puzzle_Asset/CircuitPuzzle/BP_CircuitPuzzle.BP_CircuitPuzzle
+[2024.06.17-05.58.27:155][485]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-05.58.27:155][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
