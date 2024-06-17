@@ -3980,3 +3980,92 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.17-08.28.28:532][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 15.4 sec)
 [2024.06.17-08.28.28:538][433]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164
 [2024.06.17-08.28.28:538][433]LogContentValidation: Display: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164 유효성 검사 중
+[2024.06.17-08.36.58:366][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.06.17-08.36.58:488][508]LogStall: Shutdown...
+[2024.06.17-08.36.58:494][508]LogStall: Shutdown complete.
+[2024.06.17-08.36.59:129][508]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.36.59:129][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-08.36.59:387][508]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.36.59:387][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-08.36.59:776][508]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.17-08.36.59:776][508]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.36.59:776][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-08.37.00:229][508]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.17-08.37.00:230][508]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.00:230][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-08.37.00:482][508]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2024.06.17-08.37.00:985][508]LogFileManager: Warning: DeleteFile recovered during retry!
+[2024.06.17-08.37.01:599][508]LogSlate: Window 'SemiProj - 언리얼 에디터' being destroyed
+[2024.06.17-08.37.02:159][508]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2024.06.17-08.37.02:661][508]LogFileManager: Warning: DeleteFile recovered during retry!
+[2024.06.17-08.37.02:962][509]Cmd: QUIT_EDITOR
+[2024.06.17-08.37.02:962][509]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.17-08.37.03:351][509]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.17-08.37.03:352][509]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.17-08.37.03:352][509]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.17-08.37.03:385][509]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.03:386][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-08.37.03:389][509]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.17-08.37.03:492][509]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.17-08.37.03:891][509]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.17-08.37.03:892][509]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.17-08.37.03:892][509]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2024.06.17-08.37.03:892][509]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.17-08.37.03:892][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.17-08.37.03:894][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.17-08.37.03:915][509]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.17-08.37.03:922][509]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.06.17-08.37.04:128][509]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.17-08.37.04:129][509]LogExit: Preparing to exit.
+[2024.06.17-08.37.04:216][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.06.17-08.37.04:260][509]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:260][509]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:262][509]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:263][509]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:264][509]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.04:264][509]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.17-08.37.05:051][509]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:056][509]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:060][509]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:066][509]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:072][509]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:077][509]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:080][509]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:084][509]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:088][509]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:092][509]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:096][509]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:100][509]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:104][509]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:109][509]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:114][509]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:117][509]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:122][509]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:127][509]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:130][509]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:134][509]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:138][509]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:142][509]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:145][509]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:149][509]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:154][509]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:159][509]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:164][509]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:168][509]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.05:175][509]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.37.06:145][509]LogExit: Editor shut down
+[2024.06.17-08.37.06:149][509]LogExit: Transaction tracking system shut down
