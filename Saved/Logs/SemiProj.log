@@ -3411,3 +3411,572 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.17-07.12.43:468][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
 [2024.06.17-07.12.43:628][167]LogPlayLevel: Display: Destroying online subsystem :Context_48
 [2024.06.17-07.12.43:686][167]LogViewport: Scene viewport resized to 370x159, mode Windowed.
+[2024.06.17-07.16.24:836][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1
+[2024.06.17-07.16.24:836][173]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-07.16.24:837][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.17-07.23.10:779][720]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.23.30:114][ 42]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.23.30:235][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2024.06.17-07.23.31:165][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.23.31:340][ 67]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.23.31:342][ 67]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_19195E1434013FAD2BDD343B6FB078FC7.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.23.31:354][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 10.4 sec)
+[2024.06.17-07.23.31:358][ 67]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.23.31:358][ 67]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.25.41:654][ 46]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-07.25.41:655][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-07.25.45:728][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.17-07.25.45:728][187]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-07.25.45:728][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-07.25.51:024][466]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.17-07.25.51:024][466]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-07.25.51:024][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-07.31.10:635][543]LogSlate: Window '셀프 콘텍스트 함수 레퍼런스 수정' being destroyed
+[2024.06.17-07.31.10:943][544]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.31.49:306][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.06.17-07.31.49:314][353]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.039
+[2024.06.17-07.31.49:314][353]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1] ([2] browsable assets)...
+[2024.06.17-07.31.49:368][353]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1]
+[2024.06.17-07.31.49:368][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1]
+[2024.06.17-07.31.49:417][353]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1_Auto4
+[2024.06.17-07.31.49:419][353]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1_Auto4E1AABDD54DBFBCB3D10CBA9F36A47A90.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1_Auto4.uasset'
+[2024.06.17-07.31.49:423][353]LogFileHelpers: Auto-saving content packages took 0.109
+[2024.06.17-07.31.49:465][354]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.32.29:765][211]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.32.29:770][211]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] Array 에서  Answer List 로 잘못된 핀 연결입니다: 인티저 배열 타입은 부울 배열 타입과 호환되지 않습니다. (연결 이후 타입을 변경했을 수 있습니다)
+[2024.06.17-07.32.29:847][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.06.17-07.32.53:487][403]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.32.53:495][403]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 컴파일러 오류:  Get (사본) 에서 '인티저 배열 타입은 부울 배열 타입과 호환되지 않습니다.' 와의 연결 생성에 실패했습니다.
+[2024.06.17-07.32.53:497][403]LogBlueprint: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] BP_DoorPuzzle2_1_C'에서 "isSuccess" 라는 이름의 변수를 찾을 수 없습니다.
+ Set isSuccess 에 대해 'BP_DoorPuzzle2_1_C' 컴파일이 되었는지 확인하세요.
+[2024.06.17-07.32.53:498][403]LogBlueprint: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] BP_DoorPuzzle2_1_C'에서 "isSuccess" 라는 이름의 변수를 찾을 수 없습니다.
+ Get isSuccess 에 대해 'BP_DoorPuzzle2_1_C' 컴파일이 되었는지 확인하세요.
+[2024.06.17-07.32.53:498][403]LogBlueprint: Warning: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] BP_DoorPuzzle2_1_C'에서 "isSuccess" 라는 이름의 변수를 찾을 수 없습니다.
+ Set isSuccess 에 대해 'BP_DoorPuzzle2_1_C' 컴파일이 되었는지 확인하세요.
+[2024.06.17-07.32.53:501][403]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] ' Array ' 핀의 현재 값이 유효하지 않습니다: ('Target Array' 핀과 같은) 배열 입력에는 반드시 입력이 연결되어 있어야 합니다 (MakeArray 노드를 연결해 보십시오).
+[2024.06.17-07.32.53:502][403]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] '/Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1_C'에서  Is Success 와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.06.17-07.32.53:502][403]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] '/Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1_C'에서  Is Success 와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.06.17-07.32.53:502][403]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] '/Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1_C'에서  Is Success 와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.06.17-07.32.53:576][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.06.17-07.32.54:601][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.32.54:749][458]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.32.54:750][458]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1D12C858E4D5BC343BF3799BFE7944162.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.32.54:762][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 10.6 sec)
+[2024.06.17-07.32.54:765][458]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.32.54:765][458]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.32.57:286][664]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.33.04:055][208]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.33.04:064][208]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 컴파일러 오류:  Get (사본) 에서 '인티저 배열 타입은 부울 배열 타입과 호환되지 않습니다.' 와의 연결 생성에 실패했습니다.
+[2024.06.17-07.33.04:069][208]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] ' Array ' 핀의 현재 값이 유효하지 않습니다: ('Target Array' 핀과 같은) 배열 입력에는 반드시 입력이 연결되어 있어야 합니다 (MakeArray 노드를 연결해 보십시오).
+[2024.06.17-07.33.04:070][208]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.04:070][208]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.04:070][208]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.04:148][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.06.17-07.33.05:068][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.33.05:221][240]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.33.05:223][240]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_111E9A2EF41AE631D314A939B4D7C0586.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.33.05:234][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 10.7 sec)
+[2024.06.17-07.33.05:237][240]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.33.05:237][240]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.33.12:221][819]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.33.12:230][819]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 컴파일러 오류:  Get (사본) 에서 '인티저 배열 타입은 부울 배열 타입과 호환되지 않습니다.' 와의 연결 생성에 실패했습니다.
+[2024.06.17-07.33.12:235][819]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] ' Array ' 핀의 현재 값이 유효하지 않습니다: ('Target Array' 핀과 같은) 배열 입력에는 반드시 입력이 연결되어 있어야 합니다 (MakeArray 노드를 연결해 보십시오).
+[2024.06.17-07.33.12:236][819]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.12:236][819]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.12:236][819]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.12:307][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.06.17-07.33.17:295][212]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.33.54:770][535]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.33.54:783][535]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.54:784][535]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.54:784][535]LogBlueprint: Error: [AssetLog] C:\Users\황보민\OneDrive\문서\GitHub\SemiProject(1)\-Multicampus_SemiProject-_Team4_FindOut\Content\Evidence+Puzzle_Asset\DoorPuzzle2_1\BP_DoorPuzzle2_1.uasset: [Compiler] 부울 타입  Is Success 에 BoolProperty 배열 타입 isSuccess 프로퍼티가 일치하지 않습니다.
+[2024.06.17-07.33.54:853][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.06.17-07.33.55:921][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.33.56:062][600]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.33.56:063][600]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1F99CA0DE48D0047178EF1A96DBD62141.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.33.56:075][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 10.9 sec)
+[2024.06.17-07.33.56:078][600]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.33.56:079][600]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.33.59:691][923]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.34.06:674][495]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2024.06.17-07.34.06:985][496]LogEditorTransaction: Undo 노드 이동
+[2024.06.17-07.34.08:003][561]LogEditorTransaction: Undo 노드 추가
+[2024.06.17-07.34.08:520][585]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2024.06.17-07.34.09:100][610]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2024.06.17-07.34.09:702][641]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2024.06.17-07.34.17:998][190]LogSlate: Window '변수 타입 변경' being destroyed
+[2024.06.17-07.34.18:473][191]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.34.27:155][481]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2024.06.17-07.34.27:162][481]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2024.06.17-07.34.28:280][565]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.34.28:308][565]LogClass: Warning: Type mismatch in isSuccess of BP_DoorPuzzle2_1_C - Previous (ArrayProperty) Current(BoolProperty) for package:  FObjectReader
+[2024.06.17-07.34.28:417][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.06.17-07.34.29:786][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.34.29:915][633]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.34.29:916][633]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1E8628ACF4FF4E5BCA7BCC392CDAADC4F.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.34.29:931][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 11.0 sec)
+[2024.06.17-07.34.29:934][633]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.34.29:934][633]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.34.35:898][ 55]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.35.06:019][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.35.06:113][710]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.35.06:114][710]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1E1C2D32D4362019024DA2789E6CE2B75.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.35.06:125][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 11.1 sec)
+[2024.06.17-07.35.06:128][710]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.35.06:128][710]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.35.21:950][917]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.35.32:019][778]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.35.32:121][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.06.17-07.35.32:985][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.35.33:134][804]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.35.33:135][804]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1E481821F4AB6D05F6E35ECA12B7B3519.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.35.33:147][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 11.3 sec)
+[2024.06.17-07.35.33:150][804]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.35.33:150][804]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.36.12:114][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.36.12:222][676]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.36.12:223][676]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1BA780167468728C51C8032848B4612A2.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.36.12:234][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 11.4 sec)
+[2024.06.17-07.36.12:238][676]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.36.12:238][676]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.39.36:375][ 19]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.39.58:065][602]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.39.58:166][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.06.17-07.39.59:029][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.39.59:177][633]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.39.59:178][633]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1437AEEB34DCD0BD6E149BB80CDF14059.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.39.59:188][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 11.6 sec)
+[2024.06.17-07.39.59:191][633]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.39.59:191][633]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.40.07:903][266]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.40.22:075][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.40.22:177][218]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.40.22:178][218]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_13862BA334AEB45EEE096878A6DC75088.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.40.22:189][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 11.7 sec)
+[2024.06.17-07.40.22:192][218]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.40.22:193][218]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.47.00:393][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.47.00:492][973]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.47.00:494][973]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1D70E7B764E0400E7E6370EAE698F3A0A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.47.00:505][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 11.8 sec)
+[2024.06.17-07.47.00:508][973]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.47.00:508][973]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.47.02:170][ 87]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.47.21:145][372]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.47.21:249][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.06.17-07.47.22:008][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.47.22:183][389]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.47.22:185][389]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_12365507A49B458995714BE935142AA43.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.47.22:194][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 12.0 sec)
+[2024.06.17-07.47.22:199][389]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.47.22:199][389]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.47.23:565][496]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.47.30:112][996]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.47.41:798][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.47.41:905][754]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle
+[2024.06.17-07.47.41:907][754]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_3_2_PuzzleB88817F34E28128ED2EC49B1F7A85A41.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle.uasset'
+[2024.06.17-07.47.41:920][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 12.1 sec)
+[2024.06.17-07.47.41:923][754]AssetCheck: New page: 에셋 저장:  BP_3_2_Puzzle
+[2024.06.17-07.47.41:923][754]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/EviPuzzle3_2/BP_3_2_Puzzle.BP_3_2_Puzzle 유효성 검사 중
+[2024.06.17-07.47.42:519][781]BlueprintLog: New page: BP_3_2_Puzzle 컴파일
+[2024.06.17-07.47.42:635][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.06.17-07.47.44:248][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.47.44:343][849]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.47.44:344][849]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_191B68A654A30E66BA7ABE9B7444FF131.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.47.44:355][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 12.2 sec)
+[2024.06.17-07.47.44:359][849]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.47.44:359][849]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.48.02:831][284]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-07.48.24:569][ 85]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-07.48.24:665][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.06.17-07.48.29:777][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.48.29:939][444]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.48.29:941][444]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1829F693249E69408BF717E89FEC08268.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.48.29:952][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 12.4 sec)
+[2024.06.17-07.48.29:955][444]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.48.29:955][444]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.48.37:724][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.48.37:829][ 56]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.48.37:830][ 56]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1ED949BFE4505419B4DE889ACE62485F1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.48.37:841][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 12.5 sec)
+[2024.06.17-07.48.37:844][ 56]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.48.37:844][ 56]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.48.39:732][214]LogViewport: Scene viewport resized to 370x159, mode Windowed.
+[2024.06.17-07.49.01:884][402]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.06.17-07.49.01:979][402]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.06.17-07.49.01:979][402]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.17-07.49.01:988][402]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 9 ms (total: 184 ms)
+[2024.06.17-07.49.01:988][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.17-07.49.01:988][402]PIE: New page: PIE 세션: FirstPersonMap (2024. 6. 18. 오전 1:49:01)
+[2024.06.17-07.49.01:988][402]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.17-07.49.02:064][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074994s)
+[2024.06.17-07.49.02:064][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.075037s)
+[2024.06.17-07.49.02:087][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.06.17-07.49.02:094][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-07.49.02:094][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.17-07.49.02:095][402]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.17-07.49.02:096][402]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.17-07.49.02:096][402]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.17-07.49.02:096][402]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.17-07.49.02:096][402]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.17-07.49.02:112][402]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.06.17-07.49.02:112][402]LogWorldPartition: Display: WorldPartition initialize took 15 ms (total: 3.60 sec)
+[2024.06.17-07.49.02:112][402]LogPlayLevel: PIE: World Init took: (0.017551s)
+[2024.06.17-07.49.02:112][402]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.06.17-07.49.02:112][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.17-07.49.02:112][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.17-07.49.02:112][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.17-07.49.02:112][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.17-07.49.02:112][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.17-07.49.02:112][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.17-07.49.02:112][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.17-07.49.02:112][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.17-07.49.02:113][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.17-07.49.02:113][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.17-07.49.02:113][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.17-07.49.02:116][402]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.17-07.49.02:223][402]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.06.17-07.49.02:224][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.17-07.49.02:224][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.17-07.49.02:224][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.17-07.49.02:224][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.06.17-07.49.02:224][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.06.17-07.49.02:227][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.06.17-07.49.02:227][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.06.17-07.49.02:227][402]LogInit: FAudioDevice initialized with ID 18.
+[2024.06.17-07.49.02:227][402]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2024.06.17-07.49.02:227][402]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.06.17-07.49.02:231][402]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.17-07.49.02:269][402]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.17-16.49.02
+[2024.06.17-07.49.02:270][402]LogWorld: Bringing up level for play took: 0.038062
+[2024.06.17-07.49.02:273][402]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.06.17-07.49.02:284][402]PIE: 서버가 로그인했습니다.
+[2024.06.17-07.49.02:284][402]PIE: 에디터에서 플레이 총 시작 시간 0.305초입니다.
+[2024.06.17-07.49.03:405][448]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-07.49.03:664][462]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-07.49.03:850][473]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.04:601][520]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-07.49.05:740][592]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-07.49.06:343][631]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.06:681][652]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-07.49.07:262][688]LogBlueprintUserMessages: [BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164] BP_ParentPuzzle : ZoomOnEvent 상속 안 할시
+[2024.06.17-07.49.20:612][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.17-07.49.20:612][553]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.17-07.49.20:612][553]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-07.49.20:612][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:612][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:613][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:613][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:614][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:614][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:616][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:616][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:616][553]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-07.49.20:618][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-07.49.20:618][553]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.17-07.49.20:680][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.17-07.49.20:688][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-07.49.20:717][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.17-07.49.20:718][553]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.06.17-07.49.20:718][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.06.17-07.49.20:720][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.06.17-07.49.20:726][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.17-07.49.20:736][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.06.17-07.49.20:859][554]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.06.17-07.49.20:898][554]LogViewport: Scene viewport resized to 370x159, mode Windowed.
+[2024.06.17-07.50.12:712][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-07.50.12:798][874]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-07.50.12:799][874]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1ECE2EA3D4554332F4012FD8CC6B5C54A.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-07.50.12:811][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 12.6 sec)
+[2024.06.17-07.50.12:814][874]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-07.50.12:814][874]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-07.52.07:421][548]LogDerivedDataCache: C:/Users/황보민/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.315 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12179 files in 14375 folders with total size 1489 MiB.
+[2024.06.17-07.53.55:921][702]LogViewport: Scene viewport resized to 1085x691, mode Windowed.
+[2024.06.17-08.01.28:302][449]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: ================================================
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: Total job queries 1,236, among them cache hits 1,007 (81.47%)
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: Tracking 229 distinct input hashes that result in 127 distinct outputs (55.46%)
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: RAM used: 4.76 MiB of 819.20 MiB budget. Usage: 0.58%
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.17-08.01.29:745][495]LogShaderCompilers: Display: ================================================
+[2024.06.17-08.01.32:505][567]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.01.32:615][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.01.33:089][579]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.01.33:135][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.01.33:199][581]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.01.33:283][582]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.01.51:876][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Evidence+Puzzle_Asset/CircuitPuzzle/BP_CircuitPuzzle.BP_CircuitPuzzle
+[2024.06.17-08.01.51:876][100]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.01.51:876][100]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.17-08.03.49:508][247]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.04.00:042][156]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.04.00:145][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.06.17-08.04.00:956][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.04.01:152][181]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.04.01:154][181]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1D7446B1043FD73A4DC0326BE5999E2FA.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.04.01:168][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 12.8 sec)
+[2024.06.17-08.04.01:171][181]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.04.01:171][181]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.04.20:822][727]LogSlate: Window '변수 타입 변경' being destroyed
+[2024.06.17-08.04.21:267][728]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.04.25:485][ 97]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2024.06.17-08.04.25:496][ 97]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2024.06.17-08.07.29:745][358]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.07.29:879][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.06.17-08.07.30:891][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.07.31:055][401]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.07.31:057][401]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1CF0FA38F443AB3AA12277BB70A0A3C9D.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.07.31:067][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 13.0 sec)
+[2024.06.17-08.07.31:070][401]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.07.31:070][401]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.07.38:038][808]LogSlate: Window '변수 타입 변경' being destroyed
+[2024.06.17-08.07.38:509][809]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.07.42:612][109]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2024.06.17-08.07.42:622][109]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2024.06.17-08.10.14:413][ 29]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.10.14:528][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.06.17-08.10.15:362][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.10.15:503][ 48]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.10.15:504][ 48]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_155D4EDCF4B5AEEE6FF8088BF96C01BF6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.10.15:515][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 13.2 sec)
+[2024.06.17-08.10.15:519][ 48]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.10.15:519][ 48]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.10.17:719][187]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.10.49:676][172]LogEditorTransaction: Undo 노드 이동
+[2024.06.17-08.10.50:368][184]LogEditorTransaction: Undo 노드 이동
+[2024.06.17-08.10.51:210][215]LogEditorTransaction: Undo 노드 이동
+[2024.06.17-08.10.58:069][764]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.10.58:198][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.06.17-08.10.59:110][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.10.59:298][796]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.10.59:300][796]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1EF108466427D9A8D907C3BA0C14F20F3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.10.59:310][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 13.4 sec)
+[2024.06.17-08.10.59:314][796]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.10.59:314][796]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.11.04:943][166]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.12.16:534][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.12.16:664][827]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.12.16:665][827]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_122CED4F34A579E71E456DDAB9828DE95.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.12.16:677][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 13.5 sec)
+[2024.06.17-08.12.16:680][827]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.12.16:680][827]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.12.16:947][843]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.12.17:076][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.06.17-08.12.25:890][330]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.14.22:761][353]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.14.22:877][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.06.17-08.14.23:613][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.14.23:810][369]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.14.23:812][369]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_13EE2CFDC41C20F3F77E6B284CC23C673.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.14.23:823][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 13.7 sec)
+[2024.06.17-08.14.23:826][369]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.14.23:826][369]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.14.29:598][793]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.14.51:933][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.14.52:092][713]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.14.52:094][713]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_15ED8C94C4FD2FFC76F6475986A49B6B5.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.14.52:105][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 13.9 sec)
+[2024.06.17-08.14.52:109][713]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.14.52:109][713]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.14.52:332][730]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.14.52:448][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.17-08.15.35:619][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2024.06.17-08.15.35:652][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OO/KUMRFZO7KTD0P7P6QCCMAZ_Auto5
+[2024.06.17-08.15.35:668][968]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/KUMRFZO7KTD0P7P6QCCMAZ_Auto527015B514230602ECC1920AAF5D750C0.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OO/KUMRFZO7KTD0P7P6QCCMAZ_Auto5.uasset'
+[2024.06.17-08.15.35:676][968]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.094
+[2024.06.17-08.15.35:676][968]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2024.06.17-08.15.35:750][969]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.18.53:397][851]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.19.03:964][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Programming/Functions/Functions.Functions
+[2024.06.17-08.19.03:964][540]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.19.03:964][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.17-08.19.09:704][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.19.09:889][960]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.19.09:891][960]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1E7EE852048F00047775FEBBC3945BB8B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.19.09:906][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 14.1 sec)
+[2024.06.17-08.19.09:907][960]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.19.09:907][960]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.19.14:818][335]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.19.28:180][263]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.19.28:302][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.06.17-08.19.29:297][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.19.29:459][293]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.19.29:460][293]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_15BCC921543263C2E00B4DBB38ECE56C3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.19.29:472][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 14.3 sec)
+[2024.06.17-08.19.29:477][293]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.19.29:477][293]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.19.40:928][895]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.20.35:174][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.20.35:281][854]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.20.35:283][854]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1FC4F16AF4EE7711FF6E754AB0A34F5A6.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.20.35:295][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 14.4 sec)
+[2024.06.17-08.20.35:299][854]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.20.35:299][854]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.20.43:736][313]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.21.00:726][362]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.21.00:852][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.06.17-08.21.01:625][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.21.01:826][380]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.21.01:828][380]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_13040F71F4C230A104840D2A45460276B.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.21.01:838][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 14.6 sec)
+[2024.06.17-08.21.01:842][380]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.21.01:842][380]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.25.36:226][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.06.17-08.25.36:242][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OO/KUMRFZO7KTD0P7P6QCCMAZ_Auto6
+[2024.06.17-08.25.36:242][614]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/KUMRFZO7KTD0P7P6QCCMAZ_Auto696FE80F84AB183AA8FC52897A63AA331.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OO/KUMRFZO7KTD0P7P6QCCMAZ_Auto6.uasset'
+[2024.06.17-08.25.36:244][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.049
+[2024.06.17-08.25.36:244][614]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2024.06.17-08.25.36:283][615]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.25.41:953][ 39]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.26.08:115][850]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.26.08:226][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.06.17-08.26.10:576][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.26.10:762][984]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.26.10:764][984]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_1527572934AA0A7541F287296AA1C58AC.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.26.10:776][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 14.8 sec)
+[2024.06.17-08.26.10:780][984]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.26.10:780][984]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.26.27:712][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.26.27:794][895]LogSavePackage: Moving output files for package: /Game/Programming/Functions/Functions
+[2024.06.17-08.26.27:796][895]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/FunctionsC8031C2D4F22BB797CAF07B237FBFA78.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Functions/Functions.uasset'
+[2024.06.17-08.26.27:806][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 14.9 sec)
+[2024.06.17-08.26.27:810][895]AssetCheck: New page: 에셋 저장:  Functions
+[2024.06.17-08.26.27:810][895]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Functions/Functions.Functions 유효성 검사 중
+[2024.06.17-08.26.29:139][961]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.06.17-08.26.29:244][961]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.06.17-08.26.29:244][961]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.17-08.26.29:253][961]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 9 ms (total: 193 ms)
+[2024.06.17-08.26.29:253][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.17-08.26.29:253][961]PIE: New page: PIE 세션: FirstPersonMap (2024. 6. 18. 오전 2:26:29)
+[2024.06.17-08.26.29:253][961]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.17-08.26.29:320][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066560s)
+[2024.06.17-08.26.29:320][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.066609s)
+[2024.06.17-08.26.29:347][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.06.17-08.26.29:353][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.17-08.26.29:354][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.17-08.26.29:354][961]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.17-08.26.29:355][961]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.17-08.26.29:355][961]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.17-08.26.29:355][961]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.17-08.26.29:355][961]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.17-08.26.29:368][961]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.06.17-08.26.29:369][961]LogWorldPartition: Display: WorldPartition initialize took 13 ms (total: 3.61 sec)
+[2024.06.17-08.26.29:369][961]LogPlayLevel: PIE: World Init took: (0.015187s)
+[2024.06.17-08.26.29:369][961]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.06.17-08.26.29:369][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.17-08.26.29:369][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.17-08.26.29:369][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.17-08.26.29:369][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.17-08.26.29:369][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.17-08.26.29:369][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.17-08.26.29:369][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.17-08.26.29:369][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.17-08.26.29:370][961]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.17-08.26.29:370][961]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.17-08.26.29:370][961]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.17-08.26.29:372][961]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.17-08.26.29:482][961]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.06.17-08.26.29:483][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.17-08.26.29:483][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.17-08.26.29:483][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.17-08.26.29:484][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.06.17-08.26.29:484][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.06.17-08.26.29:486][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.06.17-08.26.29:486][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.06.17-08.26.29:486][961]LogInit: FAudioDevice initialized with ID 19.
+[2024.06.17-08.26.29:486][961]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonMap'.
+[2024.06.17-08.26.29:487][961]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.06.17-08.26.29:490][961]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.17-08.26.29:527][961]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.17-17.26.29
+[2024.06.17-08.26.29:528][961]LogWorld: Bringing up level for play took: 0.036858
+[2024.06.17-08.26.29:531][961]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.06.17-08.26.29:541][961]PIE: 서버가 로그인했습니다.
+[2024.06.17-08.26.29:542][961]PIE: 에디터에서 플레이 총 시작 시간 0.299초입니다.
+[2024.06.17-08.26.29:814][962]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099719 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2024.06.17-08.26.30:832][ 10]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.26.31:781][ 60]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.26.32:048][ 74]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.26.32:749][111]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.26.34:224][187]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.26.35:388][252]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.26.36:502][308]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.26.37:010][336]LogBlueprintUserMessages: [BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164] BP_ParentPuzzle : ZoomOnEvent 상속 안 할시
+[2024.06.17-08.26.55:372][485]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.26.56:932][588]LogBlueprintUserMessages: [BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164] BP_ParentPuzzle : ZoomOutEvent 상속 안 할시
+[2024.06.17-08.26.57:697][638]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.26.57:901][651]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.26.58:181][669]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.26.58:773][708]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.26.59:090][729]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.26.59:721][767]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.00:298][803]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.00:987][847]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.01:363][870]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.01:573][882]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.01:742][892]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.02:126][915]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.02:632][945]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.27.02:879][960]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.27.03:007][968]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.03:510][999]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.03:878][ 21]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.04:088][ 34]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.04:265][ 45]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Not Valid
+[2024.06.17-08.27.04:653][ 69]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.06:296][169]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.17-08.27.06:848][203]LogBlueprintUserMessages: [BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164] BP_ParentPuzzle : ZoomOnEvent 상속 안 할시
+[2024.06.17-08.27.09:952][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.17-08.27.09:952][389]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.17-08.27.09:953][389]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.17-08.27.09:954][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:954][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:955][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:955][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:955][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:955][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:958][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:958][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:958][389]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.17-08.27.09:959][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-08.27.09:959][389]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.17-08.27.10:042][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.17-08.27.10:050][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.17-08.27.10:082][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.17-08.27.10:083][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.06.17-08.27.10:083][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.06.17-08.27.10:085][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.06.17-08.27.10:093][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.17-08.27.10:103][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.06.17-08.27.10:240][390]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.06.17-08.27.10:280][390]LogViewport: Scene viewport resized to 370x159, mode Windowed.
+[2024.06.17-08.27.28:546][288]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.17-08.27.31:832][521]BlueprintLog: New page: BP_DoorPuzzle2_1 컴파일
+[2024.06.17-08.27.31:949][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.06.17-08.27.32:970][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.27.33:145][543]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1
+[2024.06.17-08.27.33:147][543]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_DoorPuzzle2_17C17DE3647C535AF1ECC01A057B51E40.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.uasset'
+[2024.06.17-08.27.33:159][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 15.1 sec)
+[2024.06.17-08.27.33:163][543]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1
+[2024.06.17-08.27.33:163][543]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1 유효성 검사 중
+[2024.06.17-08.28.11:775][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.28.11:858][747]LogSavePackage: Moving output files for package: /Game/Programming/Functions/Functions
+[2024.06.17-08.28.11:859][747]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/Functions736DCF1145C9385196032BB49F0EFDB1.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Functions/Functions.uasset'
+[2024.06.17-08.28.11:872][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 15.2 sec)
+[2024.06.17-08.28.11:874][747]AssetCheck: New page: 에셋 저장:  Functions
+[2024.06.17-08.28.11:875][747]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Functions/Functions.Functions 유효성 검사 중
+[2024.06.17-08.28.12:313][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.28.12:415][768]LogSavePackage: Moving output files for package: /Game/Programming/Functions/Functions
+[2024.06.17-08.28.12:417][768]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/FunctionsA8CDCFD84D8D8D58BAAC65BA896DCBA3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Programming/Functions/Functions.uasset'
+[2024.06.17-08.28.12:430][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 15.3 sec)
+[2024.06.17-08.28.12:433][768]AssetCheck: New page: 에셋 저장:  Functions
+[2024.06.17-08.28.12:433][768]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Programming/Functions/Functions.Functions 유효성 검사 중
+[2024.06.17-08.28.28:457][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-08.28.28:515][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OO/KUMRFZO7KTD0P7P6QCCMAZ
+[2024.06.17-08.28.28:517][433]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/KUMRFZO7KTD0P7P6QCCMAZ4C99744C42947E9797D5D8B02F1E5A32.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OO/KUMRFZO7KTD0P7P6QCCMAZ.uasset'
+[2024.06.17-08.28.28:532][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 15.4 sec)
+[2024.06.17-08.28.28:538][433]AssetCheck: New page: 에셋 저장:  BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164
+[2024.06.17-08.28.28:538][433]LogContentValidation: Display: /Game/Evidence+Puzzle_Asset/DoorPuzzle2_1/BP_DoorPuzzle2_1.BP_DoorPuzzle2_1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164 유효성 검사 중
