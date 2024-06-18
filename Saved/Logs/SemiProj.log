@@ -2096,3 +2096,27 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.18-04.44.05:228][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.01 sec (total: 8.28 sec)
 [2024.06.18-04.44.05:236][180]AssetCheck: New page: 에셋 저장:  Prototype
 [2024.06.18-04.44.05:236][180]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/Prototype.Prototype 유효성 검사 중
+[2024.06.18-04.44.19:756][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-04.44.20:516][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.18-04.44.21:249][415]LogSavePackage: Moving output files for package: /Game/LV_Design/Prototype
+[2024.06.18-04.44.21:250][415]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PrototypeABC87D8A4ECDDE3C790FDF9D60CDAAD3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/Prototype.umap'
+[2024.06.18-04.44.21:432][415]LogFileHelpers: Saving map 'Prototype' took 1.638
+[2024.06.18-04.44.21:447][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.69 sec (total: 9.97 sec)
+[2024.06.18-04.44.21:458][415]AssetCheck: New page: 에셋 저장:  Prototype
+[2024.06.18-04.44.21:458][415]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/Prototype.Prototype 유효성 검사 중
+[2024.06.18-04.57.02:433][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-04.57.03:119][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.18-04.57.03:743][170]LogSavePackage: Moving output files for package: /Game/LV_Design/Prototype
+[2024.06.18-04.57.03:744][170]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PrototypeF1B72B054E88A2CEB1BD64B3D76A06BA.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/Prototype.umap'
+[2024.06.18-04.57.03:892][170]LogFileHelpers: Saving map 'Prototype' took 1.410
+[2024.06.18-04.57.03:898][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.46 sec (total: 11.4 sec)
+[2024.06.18-04.57.03:908][170]AssetCheck: New page: 에셋 저장:  Prototype
+[2024.06.18-04.57.03:908][170]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/Prototype.Prototype 유효성 검사 중
+[2024.06.18-04.57.04:741][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-04.57.05:450][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.06.18-04.57.06:075][201]LogSavePackage: Moving output files for package: /Game/LV_Design/Prototype
+[2024.06.18-04.57.06:077][201]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/PrototypeBE74220C4E40656D1BD93997D32E5705.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/LV_Design/Prototype.umap'
+[2024.06.18-04.57.06:224][201]LogFileHelpers: Saving map 'Prototype' took 1.427
+[2024.06.18-04.57.06:234][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.49 sec (total: 12.9 sec)
+[2024.06.18-04.57.06:242][201]AssetCheck: New page: 에셋 저장:  Prototype
+[2024.06.18-04.57.06:242][201]LogContentValidation: Display: /Script/Engine.World /Game/LV_Design/Prototype.Prototype 유효성 검사 중
