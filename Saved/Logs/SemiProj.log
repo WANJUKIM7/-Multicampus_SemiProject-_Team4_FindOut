@@ -1566,3 +1566,129 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.18-00.08.09:444][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 1.77 sec)
 [2024.06.18-00.08.09:447][426]AssetCheck: New page: 에셋 저장:  BP_Puz5_3ArrowLock
 [2024.06.18-00.08.09:447][426]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/EviPuzzle5_3/BP_Puz5_3ArrowLock.BP_Puz5_3ArrowLock 유효성 검사 중
+[2024.06.18-00.10.19:018][ 95]SourceControl: Error: 'CheckOut' 작업은 리비전 컨트롤 제공자 'Git'에서 지원되지 않습니다.
+[2024.06.18-00.10.29:742][877]BlueprintLog: New page: BP_Puz5_3ArrowLock 컴파일
+[2024.06.18-00.10.29:850][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.06.18-00.10.30:925][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-00.10.31:080][913]LogSavePackage: Moving output files for package: /Game/Evidence+Puzzle_Asset/EviPuzzle5_3/BP_Puz5_3ArrowLock
+[2024.06.18-00.10.31:081][913]LogSavePackage: Moving '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Saved/BP_Puz5_3ArrowLockD746722E4B892E5C661638A364BAC4B3.tmp' to '../../../../../../Users/황보민/OneDrive/문서/GitHub/SemiProject(1)/-Multicampus_SemiProject-_Team4_FindOut/Content/Evidence+Puzzle_Asset/EviPuzzle5_3/BP_Puz5_3ArrowLock.uasset'
+[2024.06.18-00.10.31:092][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 1.94 sec)
+[2024.06.18-00.10.31:095][913]AssetCheck: New page: 에셋 저장:  BP_Puz5_3ArrowLock
+[2024.06.18-00.10.31:096][913]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Evidence+Puzzle_Asset/EviPuzzle5_3/BP_Puz5_3ArrowLock.BP_Puz5_3ArrowLock 유효성 검사 중
+[2024.06.18-00.10.32:127][980]LogViewport: Scene viewport resized to 370x159, mode Windowed.
+[2024.06.18-00.10.39:097][221]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.06.18-00.10.39:356][221]LogContentBundle: [FirstPersonMap(독립형)] Generating Streaming for 0 Content Bundles.
+[2024.06.18-00.10.39:356][221]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.18-00.10.39:358][221]MapCheck: Error: 액터 /Game/FirstPerson/Maps/FirstPersonMap.BP_Door4_1 유효하지 않은 레퍼런스가 있습니다. DEE042D6422428DD3D84A2A037C3364A 
+[2024.06.18-00.10.39:368][221]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 11 ms (total: 32 ms)
+[2024.06.18-00.10.39:368][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.18-00.10.39:368][221]PIE: New page: PIE 세션: FirstPersonMap (2024. 6. 18. 오후 6:10:39)
+[2024.06.18-00.10.39:368][221]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.18-00.10.39:445][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076881s)
+[2024.06.18-00.10.39:445][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.076949s)
+[2024.06.18-00.10.39:471][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.06.18-00.10.39:476][221]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.18-00.10.39:476][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.18-00.10.39:476][221]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.18-00.10.39:477][221]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.18-00.10.39:477][221]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.18-00.10.39:477][221]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.18-00.10.39:477][221]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.18-00.10.39:490][221]LogContentBundle: [FirstPersonMap(독립형)] Creating new contrainer.
+[2024.06.18-00.10.39:490][221]LogWorldPartition: Display: WorldPartition initialize took 13 ms (total: 5.18 sec)
+[2024.06.18-00.10.39:491][221]LogPlayLevel: PIE: World Init took: (0.014935s)
+[2024.06.18-00.10.39:491][221]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.18-00.10.39:491][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.18-00.10.39:491][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.18-00.10.39:491][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.18-00.10.39:491][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.18-00.10.39:491][221]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.18-00.10.39:491][221]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.18-00.10.39:491][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.18-00.10.39:491][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.18-00.10.39:491][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.18-00.10.39:491][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.18-00.10.39:491][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.18-00.10.39:494][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.18-00.10.39:617][221]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2024.06.18-00.10.39:617][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.18-00.10.39:617][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.18-00.10.39:617][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.18-00.10.39:617][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.06.18-00.10.39:618][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.06.18-00.10.39:620][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.06.18-00.10.39:621][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.06.18-00.10.39:621][221]LogInit: FAudioDevice initialized with ID 3.
+[2024.06.18-00.10.39:621][221]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2024.06.18-00.10.39:621][221]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.18-00.10.39:624][221]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.18-00.10.39:654][221]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.18-09.10.39
+[2024.06.18-00.10.39:655][221]LogWorld: Bringing up level for play took: 0.030019
+[2024.06.18-00.10.39:657][221]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.06.18-00.10.39:666][221]PIE: 서버가 로그인했습니다.
+[2024.06.18-00.10.39:667][221]PIE: 에디터에서 플레이 총 시작 시간 0.311초입니다.
+[2024.06.18-00.10.40:856][274]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.18-00.10.41:563][317]LogBlueprintUserMessages: [BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164] BP_ParentPuzzle : ZoomOnEvent 상속 안 할시
+[2024.06.18-00.10.52:474][ 59]LogBlueprintUserMessages: [BP_DoorPuzzle2_1_C_UAID_30F6EFF1AFFD16FC01_1151700164] BP_ParentPuzzle : ZoomOutEvent 상속 안 할시
+[2024.06.18-00.10.53:617][140]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.10.57:347][397]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.18-00.10.58:077][447]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: ================================================
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: Total job queries 1,143, among them cache hits 891 (77.95%)
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: Tracking 252 distinct input hashes that result in 141 distinct outputs (55.95%)
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: RAM used: 5.29 MiB of 819.20 MiB budget. Usage: 0.65%
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.18-00.10.58:080][447]LogShaderCompilers: Display: ================================================
+[2024.06.18-00.10.58:382][458]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.10.59:227][510]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.10.59:285][514]LogBlueprintUserMessages: [None] Functions : BeginOverlapPuzzle
+[2024.06.18-00.11.00:804][615]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter : Puzzle Has not Tag
+[2024.06.18-00.11.01:367][653]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Tags' of length 1 in '/Script/Engine.Actor'!
+[2024.06.18-00.11.01:367][653]LogScript: Warning: Script Msg called by: Functions_C /Game/Programming/Functions/Functions.Default__Functions_C
+[2024.06.18-00.11.01:367][653]LogBlueprintUserMessages: [BP_EviPuzzle2_1_Number9_C_UAID_30F6EFF1AFFDF5FE01_1118344089] BP_ParentPuzzle : ZoomOnEvent 상속 안 할시
+[2024.06.18-00.11.03:537][799]LogBlueprintUserMessages: [BP_EviPuzzle2_1_Number9_C_UAID_30F6EFF1AFFDF5FE01_1118344089] BP_ParentPuzzle : ZoomOutEvent 상속 안 할시
+[2024.06.18-00.11.04:538][863]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:249][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.18-00.11.12:249][394]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.18-00.11.12:250][394]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.18-00.11.12:251][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:251][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:253][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:253][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:253][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:253][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:254][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:254][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:255][394]LogBlueprintUserMessages: [None] Functions : EndoverlapPuzzle
+[2024.06.18-00.11.12:257][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.18-00.11.12:257][394]LogContentBundle: [FirstPersonMap(독립형)] Deleting container.
+[2024.06.18-00.11.12:302][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.18-00.11.12:309][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.18-00.11.12:332][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.18-00.11.12:333][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.18-00.11.12:333][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.18-00.11.12:335][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.18-00.11.12:342][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.18-00.11.12:355][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.06.18-00.11.12:703][395]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.06.18-00.11.12:758][395]LogViewport: Scene viewport resized to 370x159, mode Windowed.
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 0 (Found bundle for host: 0x655d6970000 [serially])
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 7 (Closing connection)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEA1D043C-48C8-CDE2-2222-45B7F9612FA9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=058805d54edc318c25f3bd94c2133649%7C186df659b8ca474e83a7ba14580e736f%7Cb0d5a649-1bf6-4f2f-b008-56418d43623f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: 0000065676A51900: libcurl info message cache 13 (Closing connection)
+[2024.06.18-00.12.16:765][723]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEA1D043C-48C8-CDE2-2222-45B7F9612FA9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=058805d54edc318c25f3bd94c2133649%7C186df659b8ca474e83a7ba14580e736f%7Cb0d5a649-1bf6-4f2f-b008-56418d43623f&AppEnvironment=datacollector-binary&UploadType=eteventstream
